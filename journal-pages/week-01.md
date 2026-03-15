@@ -73,7 +73,7 @@ The size of each dot represents how hard I laughed (small = chuckle, large = big
 
 ## Images & Media
 
-![Laugh Data Portrait - Timeline View](../assets/week-01/des240-picture01.jpg)
+![Laugh Data Portrait - Timeline View](../assets/week-01/des240-picuture01.jpg)
 *Hand-drawn data portrait showing what makes me laugh throughout the week*
 
 ![Laugh Data Table - Table Version](../assets/week-01/des240-picture02.jpg)

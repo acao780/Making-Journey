@@ -79,6 +79,10 @@ The size of each dot represents how hard I laughed (small = chuckle, large = big
 ![Laugh Data Table - Table Version](../assets/week-01/des240-picture02.jpg)
 *Data table version showing all recorded laughter events*
 
+![Laugh Data Portrait - Timeline View](../assets/week-01/des240-picuture03.jpg)
+*This data portrait tracks when I laugh and what makes me laugh over one week (Monday March 9 to Sunday March 15).
+Total: 21 laughter events recorded throughout the week*
+
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

@@ -83,6 +83,34 @@ The size of each dot represents how hard I laughed (small = chuckle, large = big
 *This data portrait tracks when I laugh and what makes me laugh over one week (Monday March 9 to Sunday March 15).
 Total: 21 laughter events recorded throughout the week*
 
+
+## Reflection
+
+### What did you choose to track, and why?
+
+I chose to track **what makes me laugh and when** because laughter is something I experience daily but never really think about. I was curious about the patterns in my laughter—when do I laugh the most? What triggers it? Who makes me laugh the most? This topic also felt aligned with the course's humanistic approach to data, as laughter is emotional, social, and deeply personal.
+
+### What was it like to collect and visualise this data?
+
+Collecting the data was surprisingly fun and eye-opening. Every time I laughed, I tried to pause and note what caused it. Some moments were easy to record, like watching a funny video or hearing a joke from a friend. However, other moments were spontaneous conversations that I had to remember afterward, which made me more aware of the small moments of joy throughout my day. Visualising the data was the most creative part of this exercise—I invented a color system based on where the laughter occurred and used dot size to show intensity.
+
+### What did you notice that I wouldn't have otherwise?
+
+I noticed that my **laughter peaks in the afternoon** (around 3-4pm) when energy is low and people make jokes to stay awake in class. I also realised that **social laughter is the most intense**—my biggest laughs came from interactions with friends, not from watching videos alone. On weekends, I laugh more freely and more often, especially Saturday night when I'm relaxed and spending time with friends.
+
+### What choices did you make for your data collection? What does it emphasise? What is left out?
+
+I recorded the time, trigger, and who was involved whenever I laughed. This emphasises the social context of laughter—who I'm with and what we're doing together. The colour system shows where laughter happens most often. What is left out: body language, the full conversation context, and how laughter affected my mood afterward.
+
+### How does this exercise relate to data humanism and the *Dear Data* project?
+
+This exercise relates directly to **data humanism** and the *Dear Data* project. Like Giorgia Lupi advocates, I treated my personal data with empathy and humanity—laughter is imperfect, spontaneous, and hard to capture in numbers. My hand-drawn portrait follows the *Dear Data* tradition of making everyday moments meaningful through personal visualisation.
+
+### Any other reflections?
+
+This exercise made me more grateful for the small moments of joy in my day. Before, I didn't realise how much laughter is woven into my daily life until I started tracking it. Data doesn't have to be serious to be meaningful—sometimes it's about celebrating the happy moments and appreciating the people who make us laugh.
+
+---
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

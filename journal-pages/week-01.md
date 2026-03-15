@@ -71,12 +71,13 @@ The size of each dot represents how hard I laughed (small = chuckle, large = big
 
 ### Data Collection Process## Images & Media
 
-*Use the format below to embed images from your assets folder:*
+## Images & Media
 
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
+![Laugh Data Portrait - Timeline View](../assets/week-01/des240-picture01.jpg)
+*Hand-drawn data portrait showing what makes me laugh throughout the week*
 
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+![Laugh Data Table - Table Version](../assets/week-01/des240-picture02.jpg)
+*Data table version showing all recorded laughter events*
 
 ## AI Usage Statement
 

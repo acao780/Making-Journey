@@ -32,6 +32,9 @@ For my hand-drawn data portrait, I created a weekly timeline showing each day fr
 - **Green** = In-class laughter (professor jokes, discussions)
 - **Pink** = Random/Unexpected laughter
 
+The size of each dot represents how hard I laughed (small = chuckle, large = big laugh). On the back of my card, I created a legend explaining my color and size coding system.
+
+
 ### Data Collection Process## Images & Media
 
 *Use the format below to embed images from your assets folder:*

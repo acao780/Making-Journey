@@ -19,10 +19,10 @@ I selected this topic because laughter is a universal human experience, yet we r
 ### Data Collection Process
 
 I kept a small notebook with me and recorded every time I laughed throughout the day. For each entry, I noted the time of day, what made me laugh, and who was involved. I used simple categories to classify what made me laugh:
-- 😄 Social (friends, conversations)
-- 📱 Media (videos, memes, social media)
-- 🗣️ In-class (professor jokes, classmate comments)
-- 😂 Random (unexpected moments)
+- Social (friends, conversations)
+- Media (videos, memes, social media)
+- In-class (professor jokes, classmate comments)
+- Random (unexpected moments)
 
 ### Visualisation Approach
 
@@ -40,27 +40,25 @@ The size of each dot represents how hard I laughed (small = chuckle, large = big
 
 | Day | Time | What Made Me Laugh | Type |
 |-----|------|-------------------|------|
-| Mon 3/9 | 9:30am | Friend told a joke | 🟡 Social |
-| Mon 3/9 | 1:00pm | Funny meme on Instagram | 🔵 Media |
-| Mon 3/9 | 3:30pm | Classmate made a joke during lecture | 🟢 In-class |
-| Mon 3/9 | 8:00pm | Roommate's funny reaction to TV show | 🟡 Social |
-| Tue 3/10 | 10:00am | Funny video on TikTok | 🔵 Media |
+| Mon 3/9 | 9:29am | Friend told a joke about coffee | 🟡 Social |
+| Mon 3/9 | 1:10pm | Funny meme on Instagram | 🔵 Media |
+| Mon 3/9 | 3:35pm | Classmate made a joke during lecture | 🟢 In-class |
+| Mon 3/9 | 8:47pm | Funny reaction to TV show | 🟡 Social |
+| Tue 3/10 | 10:01am | Funny video on TikTok | 🔵 Media |
 | Tue 3/10 | 2:00pm | Professor made a pun | 🟢 In-class |
 | Tue 3/10 | 7:30pm | Friend sent a funny text | 🟡 Social |
-| Wed 3/11 | 11:30am | Unexpected funny moment in hallway | 🔴 Random |
-| Wed 3/11 | 3:00pm | Group project discussion went silly | 🟢 In-class |
-| Wed 3/11 | 9:00pm | Watched a comedy clip online | 🔵 Media |
-| Thu 3/12 | 9:00am | Morning joke from roommate | 🟡 Social |
+| Wed 3/11 | 3:00pm | Group project discussion went funny | 🟢 In-class |
+| Wed 3/11 | 9:54pm | Watched a comedy clip online | 🔵 Media |
+| Thu 3/12 | 9:04am | Morning joke from roommate | 🟡 Social |
 | Thu 3/12 | 1:30pm | Funny post on social media | 🔵 Media |
-| Thu 3/12 | 4:00pm | Classmate's comment made whole class laugh | 🟢 In-class |
-| Fri 3/13 | 11:00am | Teacher's funny example | 🟢 In-class |
+| Thu 3/12 | 4:00pm | Classmate's comment funny | 🟢 In-class |
+| Fri 3/13 | 11:00am | Funny picture | 🟢 In-class |
 | Fri 3/13 | 6:00pm | Friend's story about their day | 🟡 Social |
 | Fri 3/13 | 10:00pm | Party with friends - lots of laughing | 🟡 Social |
 | Sat 3/14 | 12:00pm | Brunch with friends - funny conversations | 🟡 Social |
 | Sat 3/14 | 3:00pm | Shopping - funny sign I saw | 🔴 Random |
 | Sat 3/14 | 8:00pm | Comedy show on TV | 🔵 Media |
-| Sun 3/15 | 2:00pm | Funny video call with friend | 🟡 Social |
-| Sun 3/15 | 7:00pm | Family video call - Dad made a joke | 🟡 Social |
+| Sun 3/15 | 2:00pm | Funny video from friend | 🟡 Social |
 
 ### Legend
 

@@ -59,6 +59,55 @@ In the end this data proves that information is never neutral and it always carr
 
 
 ## Reference
+### AI Tools & Software
+NotebookLM
+
+Google. (2024). NotebookLM [Large language model]. https://notebooklm.google.com/
+
+Ollama
+Ollama. (2024). Ollama [Computer software]. https://ollama.com/
+
+Google Gemini
+Google. (2024). Gemini (Version 1.5 Pro) . https://gemini.google.com/
+
+### Auckland Housing & Data Sources
+Knowledge Auckland: Housing (Topic Page)
+
+Auckland Council. (n.d.). Housing. Knowledge Auckland. Retrieved April 2, 2026, from https://knowledgeauckland.org.nz/housing/
+
+Auckland Monthly Housing Update: Datasheet
+
+Auckland Council. (2026). Auckland monthly housing update: Datasheet [Data set]. Knowledge Auckland. https://knowledgeauckland.org.nz/publications/auckland-monthly-housing-update-datasheet
+
+Auckland Monthly Housing Update: May 2025
+
+Auckland Council. (2025). Auckland monthly housing update: May 2025 (Revised October 2025). Knowledge Auckland. https://knowledgeauckland.org.nz/publications/auckland-monthly-housing-update-may-2025/
+
+Opes Partners: Auckland Property Market
+
+Opes Partners. (2024). Auckland property market: Prices, rents & yields. https://www.opespartners.co.nz/property-markets/auckland
+
+HUD: Local Housing Statistics (Key Data)
+
+Ministry of Housing and Urban Development. (n.d.). Key data: Local housing statistics. https://www.hud.govt.nz/stats-and-insights/local-housing-statistics/key-data
+
+Housing First: Data and Evidence
+
+Housing First Auckland. (n.d.). Data and evidence. https://www.housingfirst.co.nz/data-and-evidence/?order=DESC%2Bpost_date&posttype=post&cat%5B%5D=data-and-evidence
+
+Infometrics: Auckland House Values
+
+Infometrics. (2026). Auckland: House values - Regional economic profile [Interactive data]. https://regions.infometrics.co.nz/auckland/income-and-housing/house-values
+
+### Stats NZ Report & CSV Files
+Main Report
+
+Stats NZ. (2025). Housing in Aotearoa New Zealand: 2025. https://www.stats.govt.nz/reports/housing-in-aotearoa-new-zealand-2025/
+
+CSV Data Files (Figure 0.1 to 1.8)
+When citing the specific data files from the report:
+
+Stats NZ. (2025). Housing in Aotearoa New Zealand: 2025 – CSV [Data set]. https://www.stats.govt.nz/reports/housing-in-aotearoa-new-zealand-2025/
 
 ## AI Usage Statement
 

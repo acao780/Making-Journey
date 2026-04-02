@@ -91,4 +91,4 @@ This project changed the way I think about showing data because I realized that 
 
 ## AI Usage Statement
 
-I used **vibe coding** (LLM-assisted coding) to help generate both iterations of the p5.js sketch. I described my requirements in plain language, reviewed the generated code, and made adjustments as needed.
+I used **vibe coding** (Google Gemini) to help generate both iterations of the p5.js sketch. I described my requirements in plain language, reviewed the generated code, and made adjustments as needed.

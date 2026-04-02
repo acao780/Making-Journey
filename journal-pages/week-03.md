@@ -79,6 +79,8 @@ Instead of just drawing shapes, the code now chooses an entire "visual theme" ba
 
 ### Activity 3: Design and Execute a Data Protocol
 
+I created a "Data Protocol". The source was the live wind speed in Auckland from the Open-Meteo website. I decided on a Frequency of checking the numbers every 60 seconds. The Mapping rule was to draw one blue diagonal line for every 1 km/h of wind speed. When i swapped the rules with another group, they followed the instructions well, but they were surprised by how many lines they had to draw when the wind picked up. This experiment showed me that simple rules can turn live data into very busy and interesting art.
+
  ![in class task](../assets/week-04/week4_image.png)  
  
  ![in class task](../assets/week-04/week4_image2.png)  

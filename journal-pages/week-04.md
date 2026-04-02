@@ -43,8 +43,10 @@ Once I had the clean data from the first AI, I took those numbers to another too
 I did not stop at just one chart because I wanted to see the information in many different ways to make sure I understood everything perfectly. I repeated this method several times to create more types of graphs like timelines that show how housing has changed over the years. This process of using one AI for the facts and another AI for the art helped me turn a difficult government document into a beautiful collection of visual data that tells a clear story.
 
 ![in class task](../assets/week-04/image_three.png)
-#### video 2
 
+![in class task](../assets/week-04/video_week4.mp4)
+
+![in class task](../assets/week-04/video_week4_2.mp4)
 
 ## Reflection
 Using an AI helps us find patterns very quickly like the fact that house prices are lower now than they were in the year 2021. However this speed can be shallow because the computer does not always understand the deep history of Māori housing or the cultural background of New Zealand. Without a person giving the computer very specific instructions the AI will miss how important data is for Māori communities as a tool for their own future.

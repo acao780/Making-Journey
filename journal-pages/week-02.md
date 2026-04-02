@@ -88,8 +88,12 @@ If I had more time to work on this project I would add more features to make it 
 This project changed the way I think about showing data because I realized that letting a person interact with a screen tells a story. When a viewer makes choices about what to see they are following their own interest and asking their own questions. My hand drawing from the first week was very personal but these digital versions are more like tools for exploring information. Both ways are very important because they tell different stories about my life using the same data and they show that there are many ways to solve a design problem. Creating two versions helped me understand that one design might focus on categories while another design might focus on time and both are very useful.
 
 ---
-# #Reference
+## Reference
+Tutorials Page:
+p5.js. (n.d.). Tutorials. Retrieved October 24, 2023, from https://p5js.org/tutorials/
 
+Reference Page:
+p5.js. (n.d.). Reference. Retrieved October 24, 2023, from https://p5js.org/reference/
 
 ## AI Usage Statement
 

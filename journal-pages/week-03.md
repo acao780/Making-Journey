@@ -71,6 +71,7 @@ I use the wind speed to determine how much the circle "shakes" or "jitters." I a
  
 This version changes the whole "mood" by drawing different scenes based on the temperature.
 Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
+
 ![in class task](../assets/week-03/image5_record.mp4)
 
 6. Use print() in the console to check the range and scale of values before trying to visualise them.
@@ -89,10 +90,10 @@ Write your protocol as a clear set of instructions on a sheet of paper. Someone 
 
 Swap your protocol with another pair and follow their instructions for 10 minutes. Don't ask any clarifying questions, just interpret the rules as written.
 
-When time is up, compare your output with what the designers intended. Did you interpret the rules as they expected? Where was the protocol ambiguous? What surprised you about the result?###
+When time is up, compare your output with what the designers intended. Did you interpret the rules as they expected? Where was the protocol ambiguous? What surprised you about the result?
 
 
-#My design
+
 
 ## Live Moon Phase Visualisation
 
@@ -105,6 +106,7 @@ Instead of just showing a normal picture that stays the same, my project uses li
 This project is part of my digital work using a coding tool called p5.js to create a live moon that changes every second. While most pictures of the moon just stay the same, my project is different because it uses the real time and date to show exactly what the moon looks like in the sky right now. This makes the viewer feel more connected to the natural world because they can see the same rhythm that humans have followed for thousands of years.
 
 # video and image
+
  ![in class task](../assets/week-03/week3_image.png)  
  
 In my first version the moon was sitting on a plain black background which looked a bit empty. I decided to add many small white dots to the back of the screen to represent the stars in the night sky. I also made these stars move across the background so that the whole scene feels more alive and three-dimensional. This change helps the viewer feel like they are looking through a telescope at the real universe instead of just looking at a flat computer drawing.

@@ -24,7 +24,7 @@ Following the guides at the first time:
 
 ### Get the weather in a different language
 
-![in class task](assets/chinese_version.png)
+![in class task](../assets/week-03/chinese_version.png)
 
 ### Get the current moon phase
 ![in class task](../assets/week-03/moon.png)

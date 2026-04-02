@@ -10,7 +10,7 @@ layout: default
 
 ### What I Chose to Track: What Makes Me Laugh and When
 
-For this week's data portrait, I chose to track **what makes me laugh and when** throughout the week. Laughter is something I experience almost every day but never really stopped to notice or analyze. I was curious about what triggers my laughter and whether there are patterns in when I laugh the most.
+For this week's data portrait, I chose to track what makes me laugh and when** throughout the week. Laughter is something I experience almost every day but never really stopped to notice or analyze. I was curious about what triggers my laughter and whether there are patterns in when I laugh the most.
 
 ### Why I Chose This Topic
 
@@ -79,14 +79,14 @@ The size of each dot represents how hard I laughed (small = chuckle, large = big
 
 ![Laugh Data Portrait - Timeline View](../assets/week-01/des240-picture03.jpg)
 *This data portrait tracks when I laugh and what makes me laugh over one week (Monday March 9 to Sunday March 15).
-Total: 21 laughter events recorded throughout the week*
+Total: 19 laughter events recorded throughout the week*
 
 
 ## Reflection
 
 ### What did you choose to track, and why?
 
-I chose to track **what makes me laugh and when** because laughter is something I experience daily but never really think about. I was curious about the patterns in my laughter—when do I laugh the most? What triggers it? Who makes me laugh the most? This topic also felt aligned with the course's humanistic approach to data, as laughter is emotional, social, and deeply personal.
+I chose to track what makes me laugh and when** because laughter is something I experience daily but never really think about. I was curious about the patterns in my laughter—when do I laugh the most? What triggers it? Who makes me laugh the most? This topic also felt aligned with the course's humanistic approach to data, as laughter is emotional, social, and deeply personal.
 
 ### What was it like to collect and visualise this data?
 
@@ -107,6 +107,9 @@ This exercise relates directly to **data humanism** and the *Dear Data* project.
 ### Any other reflections?
 
 This exercise made me more grateful for the small moments of joy in my day. Before, I didn't realise how much laughter is woven into my daily life until I started tracking it. Data doesn't have to be serious to be meaningful—sometimes it's about celebrating the happy moments and appreciating the people who make us laugh.
+
+## Reference 
+
 
 ---
 ## AI Usage Statement

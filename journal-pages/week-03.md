@@ -99,7 +99,12 @@ Instead of just showing a normal picture that stays the same, my project uses li
 
 This project is part of my digital work using a coding tool called p5.js to create a live moon that changes every second. While most pictures of the moon just stay the same, my project is different because it uses the real time and date to show exactly what the moon looks like in the sky right now. This makes the viewer feel more connected to the natural world because they can see the same rhythm that humans have followed for thousands of years.
 
-#video 
+# video 
+
+## Reference
+Tutorials Page: p5.js. (n.d.). Tutorials. Retrieved October 24, 2023, from https://p5js.org/tutorials/
+
+Reference Page: p5.js. (n.d.). Reference. Retrieved October 24, 2023, from https://p5js.org/reference/
 
 ## AI Usage Statement
 

@@ -25,13 +25,14 @@ Get the weather in a different language
 ![in class task](../assets/week-03/chinese_version.png)
 
 Get the current moon phase
-![in class task](../assets/week-03/curl_wttr_in.png)
+![in class task](../assets/week-03/moon.png)
 
 Look up the synonyms and antonyms of a word
-![in class task](../assets/week-03/curl_wttr_in.png)
+![in class task](../assets/week-03/dark.png)
+![in class task](../assets/week-03/white.png)
 
 Find something else in the documentation that we haven't covered
-![in class task](../assets/week-03/curl_wttr_in.png)
+![in class task](../assets/week-03/snow.png)
 
 
 Activity 2: Weather Visualisation

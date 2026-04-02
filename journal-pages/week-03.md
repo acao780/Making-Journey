@@ -49,10 +49,11 @@ I have updated the draw() function so that wind controls position, temperature c
 We will add is_day to the URL. This variable returns 1 for day and 0 for night. I updated the url to request is_day and used an if/else statement in draw() to change the background style based on that new variable.
    
 4. Try using random() or noise() alongside or instead of the live data.
-
+Let’s use the wind speed to determine how much the circle "shakes" or "jitters." I added the random() function. If the wind is high, the "shake" range is larger, making the circle look like it is vibrating in the wind.
    
 5. Use vibe coding to try something more ambitious.
-
+This version changes the whole "mood" by drawing different scenes based on the temperature.
+Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
 
 6. Use print() in the console to check the range and scale of values before trying to visualise them.
 

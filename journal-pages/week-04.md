@@ -46,6 +46,8 @@ I did not stop at just one chart because I wanted to see the information in many
 
 ![in class task](../assets/week-04/video_week4.mp4)
 
+![in class task](../assets/week-04/image_week4_2.png)
+
 ![in class task](../assets/week-04/video_week4_2.mp4)
 
 ## Reflection

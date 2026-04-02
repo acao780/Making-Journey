@@ -5,7 +5,11 @@ title: Home
 
 # Making Journal for DES240
 
-*Write a short introduction about yourself and this course here. What are you hoping to learn and achieve? What's your background as a designer? What are your interests as a designer?*
+Nice to meet you! I'm Anna Yunnan Cao.
+
+I have a strong passion for Visual Communication. I love exploring how images, colors, and layouts tell a story. Whether it’s through a piece of clothing or a digital graphic, I want to create work that makes people stop and look.
+
+In this course, I’m looking to sharpen my skills and find new ways to bridge the gap between high fashion and everyday life. I’m ready to push my boundaries and see where my creativity can take me!
 
 ---
 

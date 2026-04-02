@@ -79,20 +79,9 @@ Instead of just drawing shapes, the code now chooses an entire "visual theme" ba
 
 ### Activity 3: Design and Execute a Data Protocol
 
-In pairs, design a data protocol: a set of rules for translating a live data source. This is the analogue equivalent of an API: a defined set of rules for requesting and receiving data.
-
-Your protocol must specify:
-
-Source: what live data to observe (e.g. sounds in the room, a live transport tracker on your phone)
-Frequency: how often to check (e.g. every 10 seconds, every minute)
-Mapping: how to record each observation as a mark, shape, or action
-Write your protocol as a clear set of instructions on a sheet of paper. Someone who wasn't in your pair should be able to follow them without explanation.
-
-Swap your protocol with another pair and follow their instructions for 10 minutes. Don't ask any clarifying questions, just interpret the rules as written.
-
-When time is up, compare your output with what the designers intended. Did you interpret the rules as they expected? Where was the protocol ambiguous? What surprised you about the result?
-
-
+ ![in class task](../assets/week-03/week4_image.png)  
+ 
+ ![in class task](../assets/week-03/week4_image2.png)  
 
 
 ## Live Moon Phase Visualisation

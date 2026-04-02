@@ -18,6 +18,7 @@ Using ChatGPT feels like renting a high-end supercomputer because it is incredib
 
 ### Activity two
 
+To begin this activity, I created a new notebook in NotebookLM and curated a diverse range of sources, including my GitHub journal, the Open-Meteo API documentation, and several technical repositories like wttr.in and curl. I also uploaded my class slides and a personal research document on Curative Co-Design to give the AI a mix of technical and theoretical context. After setting the stage with a context.md file to guide the AI's focus toward my interest in weather data and design ethics, I used the chat to dig deeper into my work. The AI was able to identify a hidden provocation regarding the "sovereignty of data" and suggested that my final design outcome might be a community-focused, privacy-first weather station. Finally, I generated the Audio Overview, which felt surprisingly personal; hearing two AI voices discuss my specific interest in ASCII art and open-source APIs made me realize that I prioritize accessibility and "low-tech" aesthetics more than I initially thought.
 
 ![in class task](../assets/week-04/image_two.png)
 

@@ -20,7 +20,7 @@ For this week, I experient p5.js by following the slides, and here are the pictu
 ## Vibe coding activity
 ![in class task](../assets/week-02/image_week2.png)
 
-![in class task](../assets/week-02/vibecoding-week2_WxlMxzWA.mp4)
+![in class task](../assets/vibecoding-week2_WxlMxzWA.mp4)
 
 I made a moving picture that looks like a glowing cloud on my computer screen and I used Google Gemini to help me vibe code this project. When I run this code you see many small colored dots that flow like water or smoke in the dark. I used a special math trick called noise to make the movement look very smooth and natural instead of jumpy. You can use the control box I made to change the art while it moves because I added a slider for speed and another slider to change the size of the dots. I also added a menu so you can choose different colors like blue or orange. The dots leave soft trails behind them because the background is a little bit clear which makes it look like a glowing nebula. By writing this code with AI I learned how one blueprint can control hundreds of shapes at the same time to make a complex and interactive scene.
 

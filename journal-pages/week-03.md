@@ -121,6 +121,21 @@ Tutorials Page: p5.js. (n.d.). Tutorials. Retrieved October 24, 2023, from https
 
 Reference Page: p5.js. (n.d.). Reference. Retrieved October 24, 2023, from https://p5js.org/reference/
 
+Free Dictionary API
+MeetDeveloper. (2024). freeDictionaryAPI (Version 2.0.0) [Computer software]. GitHub. https://github.com/meetDeveloper/freeDictionaryAPI
+
+curl
+Stenberg, D., & curl contributors. (2024). curl (Version 8.7.1) [Computer software]. GitHub. https://github.com/curl/curl
+
+ascii-live
+Rawat, H. (2024). ascii-live [Computer software]. GitHub. https://github.com/hugomd/ascii-live
+
+wttr.in
+Chubin, I. (2024). wttr.in [Computer software]. GitHub. https://github.com/chubin/wttr.in
+
+Open-Meteo Documentation
+Open-Meteo. (n.d.). Open-Meteo weather API documentation. Retrieved April 2, 2026, from https://open-meteo.com/en/docs
+
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

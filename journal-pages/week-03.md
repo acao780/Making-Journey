@@ -62,13 +62,13 @@ I add is_day to the URL. This variable returns 1 for day and 0 for night. I upda
 I use the wind speed to determine how much the circle "shakes" or "jitters." I added the random() function. If the wind is high, the "shake" range is larger, making the circle look like it is vibrating in the wind.
 ![in class task](../assets/week-03/image4.png)
    
-6. Use vibe coding to try something more ambitious.
+5. Use vibe coding to try something more ambitious.
  
 This version changes the whole "mood" by drawing different scenes based on the temperature.
 Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
 ![in class task](../assets/week-03/image5_record.mp4)
 
-7. Use print() in the console to check the range and scale of values before trying to visualise them.
+6. Use print() in the console to check the range and scale of values before trying to visualise them.
  ![in class task](../assets/week-03/image6.png)  
 
 ###Activity 3: Design and Execute a Data Protocol

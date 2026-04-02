@@ -9,11 +9,15 @@ layout: default
 ## Documentation 
 
 ### Activity one
-Pay attention to what feels different: the speed, the quality, the tradeoff between sovereignty and capability. Type /bye to exit.
+
+ChatGPT is like a smart online assistant that needs the internet and keeps your data on its servers, while Ollama is a private tool that runs directly on your own computer without needing any internet connection. Because ChatGPT uses powerful remote computers, it is often smarter and faster, but Ollama is completely free and keeps all your information 100% private. Most students use ChatGPT for quick help with research and writing, but developers often prefer Ollama because it works offline and protects their personal code.
+
+Using ChatGPT feels like renting a high-end supercomputer because it is incredibly fast and smart, but you have to trust a big company with your private data. In contrast, using Ollama gives you total sovereignty because the AI lives on your hardware, even though it might be slower or less capable depending on your computer's power. It is a classic tradeoff where you choose between the massive "brain power" of the cloud and the ultimate "privacy and control" of your own machine.
 
 ![in class task](../assets/week-04/image%20one.png)
 
 ### Activity two
+
 
 ![in class task](../assets/week-04/image_two.png)
 
@@ -68,8 +72,8 @@ Tutorials Page: p5.js. (n.d.). Tutorials. Retrieved October 24, 2023, from https
 Reference Page: p5.js. (n.d.). Reference. Retrieved October 24, 2023, from https://p5js.org/reference/
 
 ### AI Tools & Software
-NotebookLM
 
+NotebookLM
 Google. (2024). NotebookLM [Large language model]. https://notebooklm.google.com/
 
 Ollama
@@ -77,6 +81,8 @@ Ollama. (2024). Ollama [Computer software]. https://ollama.com/
 
 Google Gemini
 Google. (2024). Gemini (Version 1.5 Pro) . https://gemini.google.com/
+
+Google. (2026). ChatGPT (GPT-4o) [Large language model]. https://chatgpt.com/
 
 ### Auckland Housing & Data Sources
 Knowledge Auckland: Housing (Topic Page)

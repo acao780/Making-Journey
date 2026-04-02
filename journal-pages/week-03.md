@@ -79,9 +79,9 @@ Instead of just drawing shapes, the code now chooses an entire "visual theme" ba
 
 ### Activity 3: Design and Execute a Data Protocol
 
- ![in class task](../assets/week-03/week4_image.png)  
+ ![in class task](../assets/week-04/week4_image.png)  
  
- ![in class task](../assets/week-03/week4_image2.png)  
+ ![in class task](../assets/week-04/week4_image2.png)  
 
 
 ## Live Moon Phase Visualisation

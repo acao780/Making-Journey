@@ -55,7 +55,7 @@ From this process, I learned:
 ![gorgeous drawbridge filter buttons](../assets/week-02/Gorgeous%20drawbridge.png)
 *Interactive p5.js sketch with toggle buttons for different laughter types*
 
-## Gorgeous Drawbridge record (you need to fix this)
+### Gorgeous Drawbridge record
 ![gorgeous drawbridge filter buttons](../assets/week-02/gorgeous%20drawbriadge%20record.mov)
 *Interactive p5.js sketch with toggle buttons for different laughter types*
 

@@ -40,23 +40,28 @@ Activity 2: Weather Visualisation
 Experiment with the sketch:
 1. Changing Location (Latitude and Longitude)
 To change the city, we modify the url string. In this example, I’ve switched the coordinates from Auckland to Reykjavík, Iceland (64.14 ∘N,−21.90 ∘W). The numerical values for latitude and longitude in the url variable were updated. This forces the API to return data for a different geographic point, which would immediately change the values of your variables like temp or wind.
+![in class task](../assets/week-03/image1.png)
 
 2. Use the data to control different visual properties: colour, position, size, number of shapes.
 I have updated the draw() function so that wind controls position, temperature controls size, and humidity controls color. I replaced static numbers (like 23.5 * 10 or 0) with your weather variables (temp, wind). Now the shapes move and grow based on the live data.
-
+![in class task](../assets/week-03/image2.png)
 
 3. Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
 We will add is_day to the URL. This variable returns 1 for day and 0 for night. I updated the url to request is_day and used an if/else statement in draw() to change the background style based on that new variable.
-   
+![in class task](../assets/week-03/image3.png)
+![in class task](../assets/week-03/image33.png)
+
 4. Try using random() or noise() alongside or instead of the live data.
 Let’s use the wind speed to determine how much the circle "shakes" or "jitters." I added the random() function. If the wind is high, the "shake" range is larger, making the circle look like it is vibrating in the wind.
+![in class task](../assets/week-03/image4.png)
    
 5. Use vibe coding to try something more ambitious.
 This version changes the whole "mood" by drawing different scenes based on the temperature.
 Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
+![in class task](../assets/week-03/image5.png)
 
 6. Use print() in the console to check the range and scale of values before trying to visualise them.
-   
+ ![in class task](../assets/week-03/image6.png)  
 
 Activity 3: Design and Execute a Data Protocol
 

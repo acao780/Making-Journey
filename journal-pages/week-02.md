@@ -10,7 +10,7 @@ layout: default
 
 ### What I Chose to Work With
 
-For this week's interactive data portrait, I chose to continue with the **same data from Week 1**—"what makes me laugh and when". I collected 19 laughter events over one week, each with a day, time, what caused the laughter, and type (Social, Media, In-class, Random). I kept the same color coding system to maintain consistency with my hand-drawn portrait.
+I decided to use the same data from my first week about what makes me laugh and when I laugh because I already knew the information very well. I kept the same colors for the different categories like yellow for social and blue for media so that my new project matches my old drawing. Using the same data helped me focus more on learning how to use the computer code instead of worrying about new information.
 
 For this week, I experient p5.js by following the slides, and here are the pictures:
 ![in class task](../assets/week-02/inclass%20task.png)
@@ -19,33 +19,11 @@ For this week, I experient p5.js by following the slides, and here are the pictu
 
 ### Iteration 1: "Gorgeous Drawbridge"
 
-My first iteration is called **"Gorgeous Drawbridge"** — a filter-based interface where users can toggle different laughter types on or off using buttons.
-
-**Key features:**
-- Four toggle buttons for each category (Social, Media, In-class, Random)
-- Each button shows the count for that category
-- Active categories are highlighted in their color; inactive ones are grayed out
-- Counter at the bottom shows how many items are currently displayed
-
-**Why this approach:**
-- Buttons are familiar and intuitive for users
-- The toggle mechanic gives viewers direct control over what they see
-- Extends my original visual system from Week 1 (color-coded categories)
+The first version of my project is a tool that lets people use buttons to choose what they want to see on the screen. Each button shows a different category of laughter and the colors change when you click them to show if they are on or off. This version is very good because it gives the person looking at it a lot of control and it shows the total count for each type of laughter at the bottom.
 
 ### Iteration 2: "Periodic Opossum"
 
-My second iteration is called **"Periodic Opossum"** — a timeline-based dashboard that organizes laughter events by day of the week.
-
-**Key features:**
-- Horizontal timeline showing days (Mon-Sun)
-- Events displayed as colored circles positioned by time of day
-- Visual legend showing category colors
-- Shows distribution of laughter types across the week at a glance
-
-**What changed from Iteration 1:**
-- Replaced filtering with timeline visualization
-- Data is always visible but organized chronologically
-- Emphasizes **when** laughter happens, not just **what type**
+The second version of my project is a timeline that shows the days from Monday to Sunday to help people see when I laugh. Instead of using buttons to hide things this version shows everything at once but organizes the circles by the time of day. This is helpful because it shows if I laugh more in the morning or at night and it helps people see my patterns throughout the whole week.
 
 **Why keep both:**
 - "Gorgeous Drawbridge" emphasizes **user control** (viewers choose what to see)
@@ -54,7 +32,7 @@ My second iteration is called **"Periodic Opossum"** — a timeline-based dashbo
 
 ### Tools and Learning
 
-I used **vibe coding** (AI-assisted coding) to create both sketches. I described what I wanted in plain language to an LLM, which generated the initial code structure. This was helpful because I'm still learning p5.js.
+I used an AI tool to help me write the code because I am still learning how to use the programming language called p5.js. I told the AI what I wanted in simple words and it gave me the code to start my project but I had to fix some parts myself when the pictures were not in the right place. This taught me how to make buttons and how to use math to put my data in the correct spots on the screen.
 
 From this process, I learned:
 - How to use DOM elements in p5.js (createButton)
@@ -79,60 +57,32 @@ From this process, I learned:
 *Timeline-based visualization showing when laughter events occur throughout the week*
 
 ![periodic opossum timeline view](../assets/week-02/periodic%20oppossum%20screen%20shot.png)
-*Timeline-based visualization showing when laughter events occur throughout the week*
+
 ---
 
 ## Reflection
 
-### What data and visual aspects from Experiment 1 did you choose to work with, and why?
+### My Data Choices
+I decided to use the same information from the first week about what makes me laugh and when it happens because I already spent a lot of time collecting this data and I understood it very well. My data has nineteen different times that I laughed and each one shows the day and the time and what made me laugh and the type of laughter it was. I also kept the same colors like yellow for social and blue for media and green for class and red for random things because I wanted it to look the same as my first drawing. Keeping everything the same allowed me to spend my time learning how to make the computer code work instead of trying to find new information to use.
 
-I chose to work with the **same data from Week 1**—"what makes me laugh and when"—because I had already spent a week collecting this data and understood its structure well. The data includes 19 laughter events with day, time, description, and type. I kept the same color coding system (yellow for Social, blue for Media, green for In-class, red for Random) to maintain consistency with my hand-drawn portrait. This continuity allowed me to focus on learning interactive techniques rather than figuring out a new dataset.
+### Choosing Interactive Parts
+I made two different versions of my project to show how people can play with the data in different ways. The first version is called Gorgeous Drawbridge and it uses four buttons that let people turn different laughter types on or off to see what they want. The second version is called Periodic Opossum and it uses a timeline to show when I laugh during the week from Monday to Sunday. I chose these two ways because the buttons feel very natural for a user and the timeline helps people see the order of events. Both of these versions use the same data but they help the person looking at it find different kinds of answers.
 
-### How did you decide which interactive elements to use?
+### What Viewers Can Learn
+When people use my interactive project they can see patterns that are very hard to find in a normal hand drawing that does not move. In the first version people can quickly see that social laughter is the most common because they can click the buttons and count the items easily. In the second version people can look at the timeline to see if I laugh more in the morning or the afternoon or if some days are much funnier than others. This kind of active looking is not possible with a paper drawing because a drawing shows everything at the same time and does not let you change the view.
 
-I created **two iterations** with different interaction models:
+### Using AI Tools
+I used a special way of coding with an AI, like Google Gemimi to help me build both of my project versions because I am still a student learning how to use the code. I talked to the AI in regular language to explain what I wanted and it helped me create the first part of the code. This process taught me how to make buttons on a screen and how to use logic to hide or show different pieces of data. I also learned that AI code is not always perfect and I had to fix some mistakes manually when the shapes were not in the right places on my screen.
 
-- **Iteration 1 ("Gorgeous Drawbridge")**: Four filter buttons because this directly extends my original visual system from Week 1. The buttons let viewers toggle which types they want to see—this felt natural and intuitive.
+### Future Ideas
+If I had more time to work on this project I would add more features to make it even better for the user. I would like to add a menu where people can choose just one specific day to look at or a slider that changes the view slowly. I also want to add smooth animations so the circles fade in and out when someone clicks a button instead of just appearing quickly. It would also be great if a person could click on a single dot to see a small box with a story about why I was laughing at that exact moment.
 
-- **Iteration 2 ("Periodic Opossum")**: A timeline visualization because I wanted to explore a different aspect of the data—*when* laughter happens. This version organizes data chronologically rather than by category.
-
-Both approaches address the same dataset but help viewers answer different questions.
-
-### What can a viewer learn by interacting with your sketch that they couldn't from my hand-drawn portrait?
-
-The interactive sketch reveals **patterns and comparisons** that are hard to see in a static drawing:
-
-- In "Gorgeous Drawbridge": Viewers can instantly see which category is most common (Social: 8 events) by toggling categories and comparing counts.
-
-- In "Periodic Opossum": Viewers can explore temporal patterns—when do I laugh most during the day? Which days are funniest?
-
-This active exploration isn't possible with a hand-drawn portrait where all information is visible at once.
-
-### Did you use vibe coding or other tools in your process? What did you learn from this?
-
-Yes, I used **vibe coding** (AI-assisted coding) to build both iterations. I described my requirements in plain language to an LLM, which generated the initial code. From this process, I learned:
-- How to use DOM elements in p5.js (createButton)
-- How to filter data using conditional logic
-- How to position elements using time-based coordinates
-- That AI-generated code sometimes needs adjustment—initial versions had positioning issues that I had to fix manually
-
-### What would you develop further with more time?
-
-If I had more time, I would add:
-- **Day selection** - A dropdown or slider to filter by specific days of the week
-- **Smooth animations** - Items could fade in/out when toggling categories
-- **Click for details** - Show more information (what caused the laughter) when clicking on each data point
-- **Mobile-friendly design** - Make the layout work better on smaller screens
-
-### Any other reflections?
-
-This exercise changed how I think about data visualisation. I realised that **interaction itself tells a story**—the choices viewers make when exploring data reveal their own interests and questions. An interactive visualisation doesn't just present answers; it invites viewers to ask their own questions.
-
-I also reflected on the relationship between my hand-drawn Week 1 portrait and these digital Week 2 versions. The hand-drawn version is personal and artistic, while the interactive versions are functional and exploratory. Both are valuable—they serve different purposes and tell different stories about the same data.
-
-Creating two iterations ("Gorgeous Drawbridge" and "Periodic Opossum") helped me understand that there are multiple valid solutions to the same design problem. Each iteration emphasizes different aspects of the data—category vs. time—and therefore supports different kinds of questions.
+### Final Thoughts
+This project changed the way I think about showing data because I realized that letting a person interact with a screen tells a story. When a viewer makes choices about what to see they are following their own interest and asking their own questions. My hand drawing from the first week was very personal but these digital versions are more like tools for exploring information. Both ways are very important because they tell different stories about my life using the same data and they show that there are many ways to solve a design problem. Creating two versions helped me understand that one design might focus on categories while another design might focus on time and both are very useful.
 
 ---
+# #Reference
+
 
 ## AI Usage Statement
 

@@ -47,18 +47,14 @@ I did not stop at just one chart because I wanted to see the information in many
 
 
 ## Reflection
-AI defaults → Blue colors, bar charts, averages
-I redirected → Warm colors, interactive, show outliers
+Using an AI helps us find patterns very quickly like the fact that house prices are lower now than they were in the year 2021. However this speed can be shallow because the computer does not always understand the deep history of Māori housing or the cultural background of New Zealand. Without a person giving the computer very specific instructions the AI will miss how important data is for Māori communities as a tool for their own future.
 
-Dataset → Housing, because it's personally relevant
-AI helped → Found patterns fast; missed Māori context
-Design decisions → Specific prompts = better results
-Different views → Map=location, timeline=urgency
-Data Feminism → Who's missing from the data?
-Mikaere → Data = strategic asset for Māori
-Experience → Fast but shallow, needed direction
-Further → Physical installation with tactile blocks
-Reflections → Data is political, AI is not neutral
+We must use the ideas of Data Feminism to ask who is being left out of these government reports because the missing information tells a big story. There are two big gaps where the records are empty like the missing updates for people who need social housing and reports that show zero children being helped in some areas. When the government keeps perfect records for investors but says the data for the most vulnerable people is unavailable it shows that the system has a specific set of priorities that favors money over people.
+
+The way we design our charts can show how urgent the housing problem is like using a timeline to show that there are too many houses on the market and not enough buyers. This problem is not just about money but also about the physical size of our homes which are getting much smaller every year. I would like to build a project where people can touch blocks to feel how a house in 2011 was much larger than the tiny homes we are building in 2024.
+
+Final Reflections
+In the end this data proves that information is never neutral and it always carries the bias of the people who collected it. Most of the files I found were made for investors who want to buy property and make a profit rather than for the people who just need a home. The AI is not a neutral observer and it needs a human to direct it so we can look past the averages and see the truth about the housing crisis in Auckland.
 
 
 

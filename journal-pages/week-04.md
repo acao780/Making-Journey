@@ -110,5 +110,4 @@ When citing the specific data files from the report:
 Stats NZ. (2025). Housing in Aotearoa New Zealand: 2025 – CSV [Data set]. https://www.stats.govt.nz/reports/housing-in-aotearoa-new-zealand-2025/
 
 ## AI Usage Statement
-
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+I used vibe coding (Google Gemini) to help generate both iterations of the p5.js sketch. I described my requirements in plain language, reviewed the generated code, and made adjustments as needed.

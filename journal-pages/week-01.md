@@ -114,4 +114,4 @@ This exercise made me more grateful for the small moments of joy in my day. Befo
 ---
 ## AI Usage Statement
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+*I used Google Gemini to help me thining of ideas. I described my requirements in plain language and made adjustments as needed.*

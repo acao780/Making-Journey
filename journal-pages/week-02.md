@@ -17,6 +17,11 @@ For this week, I experient p5.js by following the slides, and here are the pictu
 
 ![in class task](../assets/week-02/red%20circle.png)
 
+## Vibe coding activity
+![in class task](../assets/week-02/vibecoding_week2.png)
+
+
+
 ### Iteration 1: "Gorgeous Drawbridge"
 
 The first version of my project is a tool that lets people use buttons to choose what they want to see on the screen. Each button shows a different category of laughter and the colors change when you click them to show if they are on or off. This version is very good because it gives the person looking at it a lot of control and it shows the total count for each type of laughter at the bottom.

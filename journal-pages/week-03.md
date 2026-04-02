@@ -6,40 +6,46 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
+# Documentation 
+## Activity 1: 
 
-*Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
+I started the week by using special commands in the computer terminal to get information from the internet without using a regular website. I practiced getting the weather for different cities like Tokyo and Auckland and I even learned how to see the weather in different languages or check the phase of the moon. I also used the terminal to find synonyms for words like dark and white which showed me how the computer can quickly pull data from big libraries online. These tasks helped me understand that data is everywhere and we can ask the computer to find it for us using simple text instructions.
 
 ## Images & Media
-following the guides:
+Following the guides at the first time:
 ![in class task](../assets/week-03/curl_wttr_in.png)
 ![in class task](../assets/week-03/curl_ascii.live:forest.png)
 ![in class task](../assets/week-03/curl_ascii.live:parrot.png)
 ![in class task](../assets/week-03/tokyo.png)
 
+### Get the weather for a location using its GPS coordinates
 
-Get the weather for a location using its GPS coordinates
 ![in class task](../assets/week-03/auckland_weather.png)
 
-Get the weather in a different language
+### Get the weather in a different language
+
 ![in class task](../assets/week-03/chinese_version.png)
 
-Get the current moon phase
+### Get the current moon phase
 ![in class task](../assets/week-03/moon.png)
 
-Look up the synonyms and antonyms of a word
+### Look up the synonyms and antonyms of a word
+
 ![in class task](../assets/week-03/dark.png)
 ![in class task](../assets/week-03/white.png)
 
-Find something else in the documentation that we haven't covered
+### Find something else in the documentation that we haven't covered
+
 ![in class task](../assets/week-03/snow.png)
 
 
-Activity 2: Weather Visualisation
+## Activity 2: Weather Visualisation
 
-Experiment with the sketch:
+For this activity I used a coding tool called p5.js to turn live weather data into shapes and colors on the screen. I changed the code to look at the weather in Iceland instead of Auckland and I saw how the shapes moved and changed size based on the wind and temperature. 
+
 1. Changing Location (Latitude and Longitude)
-To change the city, we modify the url string. In this example, I’ve switched the coordinates from Auckland to Reykjavík, Iceland (64.14 ∘N,−21.90 ∘W). The numerical values for latitude and longitude in the url variable were updated. This forces the API to return data for a different geographic point, which would immediately change the values of your variables like temp or wind.
+
+To change the city, I modify the url string. In this example, I’ve switched the coordinates from Auckland to Reykjavík, Iceland (64.14 ∘N,−21.90 ∘W), this is one of my favourite city. The numerical values for latitude and longitude in the url variable were updated. This forces the API to return data for a different geographic point, which would immediately change the values of your variables like temp or wind.
 ![in class task](../assets/week-03/image1.png)
 
 2. Use the data to control different visual properties: colour, position, size, number of shapes.
@@ -47,23 +53,25 @@ I have updated the draw() function so that wind controls position, temperature c
 ![in class task](../assets/week-03/image2.png)
 
 3. Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
-We will add is_day to the URL. This variable returns 1 for day and 0 for night. I updated the url to request is_day and used an if/else statement in draw() to change the background style based on that new variable.
+I add is_day to the URL. This variable returns 1 for day and 0 for night. I updated the url to request is_day and used an if/else statement in draw() to change the background style based on that new variable.
 ![in class task](../assets/week-03/image3.png)
 ![in class task](../assets/week-03/image33.png)
 
 4. Try using random() or noise() alongside or instead of the live data.
-Let’s use the wind speed to determine how much the circle "shakes" or "jitters." I added the random() function. If the wind is high, the "shake" range is larger, making the circle look like it is vibrating in the wind.
+   
+I use the wind speed to determine how much the circle "shakes" or "jitters." I added the random() function. If the wind is high, the "shake" range is larger, making the circle look like it is vibrating in the wind.
 ![in class task](../assets/week-03/image4.png)
    
-5. Use vibe coding to try something more ambitious.
+6. Use vibe coding to try something more ambitious.
+ 
 This version changes the whole "mood" by drawing different scenes based on the temperature.
 Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
 ![in class task](../assets/week-03/image5_record.mp4)
 
-6. Use print() in the console to check the range and scale of values before trying to visualise them.
+7. Use print() in the console to check the range and scale of values before trying to visualise them.
  ![in class task](../assets/week-03/image6.png)  
 
-Activity 3: Design and Execute a Data Protocol
+###Activity 3: Design and Execute a Data Protocol
 
 In pairs, design a data protocol: a set of rules for translating a live data source. This is the analogue equivalent of an API: a defined set of rules for requesting and receiving data.
 
@@ -76,22 +84,22 @@ Write your protocol as a clear set of instructions on a sheet of paper. Someone 
 
 Swap your protocol with another pair and follow their instructions for 10 minutes. Don't ask any clarifying questions, just interpret the rules as written.
 
-When time is up, compare your output with what the designers intended. Did you interpret the rules as they expected? Where was the protocol ambiguous? What surprised you about the result?
+When time is up, compare your output with what the designers intended. Did you interpret the rules as they expected? Where was the protocol ambiguous? What surprised you about the result?###
 
 
+#My design
 
+## Live Moon Phase Visualisation
 
-### My design
-Live Moon Phase Visualisation
-Introduction
-The moon has captivated humanity for thousands of years — guiding tides, marking time, and inspiring countless myths and legends across cultures. Yet despite its constant presence in our night sky, most people cannot accurately describe the moon's current phase or understand its rhythmic cycle. This project, Live Moon Phase Visualisation, bridges the gap between celestial mathematics and human experience by creating a real-time, interactive digital representation of the moon's current phase.
-Rather than simply displaying a static image, this visualisation engages with live data — the mathematically calculated lunar phase that updates continuously based on the actual date and time. The moon orbits the Earth in a precise cycle of approximately 29.53 days, transitioning through eight distinct phases: New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon, Waning Gibbous, Last Quarter, and Waning Crescent. By mapping this mathematical cycle to visual properties — shape, illumination, and texture — the visualisation transforms abstract numbers into something tangible and beautiful.
-This work falls under Option A (Digital), using the p5.js creative coding framework. While many moon visualisations simply show a generic full moon or a predetermined image, this project responds dynamically to the current moment. Every time you view it, the moon reflects exactly what is happening in the sky right now. This temporal responsiveness connects the viewer to the larger cosmic rhythm that has guided human existence since the dawn of time.
-The visualisation considers several key design questions: How do we map data values (the lunar cycle percentage) to visual properties (the lit portion of the moon)? The answer lies in the mathematical relationship between phase and illumination — the amount of light follows a cosine curve that can be precisely calculated. What does the visualisation reveal about the data that numbers alone cannot? While knowing "today is day 18 of the lunar cycle" tells us little, seeing a glowing gibbous moon with 89% illumination creates an emotional and visual connection to that data. How does the sketch change over time? Unlike a static image, the moon here updates in real-time — viewers can watch the subtle shifts as minutes and hours pass.
-By combining mathematics, programming, and design, this project transforms the abstract concept of "moon phase" into an interactive experience that connects the viewer to the ancient, continuous rhythm of the moon — Earth's faithful companion.
+### Introduction
+Shutterstock
+People have looked at the moon for a very long time because it helps us understand the tides and the passing of days while also inspiring many old stories. Even though we see the moon almost every night many people do not really know which phase it is in or how the cycle of the moon works. This project is called the Live Moon Phase Visualisation and it uses math to create a digital picture of the moon that changes in real time to show exactly what is happening in the sky. By using computer code to show the current phase of the moon we can turn complicated numbers into a simple and beautiful experience that helps people feel more connected to the world around them.
 
+Instead of just showing a normal picture that stays the same, my project uses live data to show the moon as it changes in real time. The moon moves around the Earth in a very steady circle that takes about twenty-nine days and it goes through eight different shapes which include the new moon and the crescent and the full moon. My computer code takes the math from this cycle and turns it into things you can see like the size of the shadow or the bright light on the surface. This process takes boring numbers from a calendar and turns them into something solid and beautiful that helps people understand the sky.
 
+This project is part of my digital work using a coding tool called p5.js to create a live moon that changes every second. While most pictures of the moon just stay the same, my project is different because it uses the real time and date to show exactly what the moon looks like in the sky right now. This makes the viewer feel more connected to the natural world because they can see the same rhythm that humans have followed for thousands of years.
 
+#video 
 
 ## AI Usage Statement
 

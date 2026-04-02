@@ -59,6 +59,11 @@ In the end this data proves that information is never neutral and it always carr
 
 
 ## Reference
+
+Tutorials Page: p5.js. (n.d.). Tutorials. Retrieved October 24, 2023, from https://p5js.org/tutorials/
+
+Reference Page: p5.js. (n.d.). Reference. Retrieved October 24, 2023, from https://p5js.org/reference/
+
 ### AI Tools & Software
 NotebookLM
 
@@ -100,7 +105,6 @@ Infometrics: Auckland House Values
 Infometrics. (2026). Auckland: House values - Regional economic profile [Interactive data]. https://regions.infometrics.co.nz/auckland/income-and-housing/house-values
 
 ### Stats NZ Report & CSV Files
-Main Report
 
 Stats NZ. (2025). Housing in Aotearoa New Zealand: 2025. https://www.stats.govt.nz/reports/housing-in-aotearoa-new-zealand-2025/
 

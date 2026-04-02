@@ -15,6 +15,7 @@ following the guides:
 ![in class task](../assets/week-03/curl_wttr_in.png)
 ![in class task](../assets/week-03/curl_ascii.live:forest.png)
 ![in class task](../assets/week-03/curl_ascii.live:parrot.png)
+![in class task](../assets/week-03/tokyo.png)
 
 
 Get the weather for a location using its GPS coordinates

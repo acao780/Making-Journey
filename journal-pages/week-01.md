@@ -100,9 +100,9 @@ I noticed that my **laughter peaks in the afternoon** (around 3-4pm) when energy
 
 I recorded the time, trigger, and who was involved whenever I laughed. This emphasises the social context of laughter—who I'm with and what we're doing together. The colour system shows where laughter happens most often. What is left out: body language, the full conversation context, and how laughter affected my mood afterward.
 
-### How does this exercise relate to data humanism and the *Dear Data* project?
+### How does this exercise relate to data humanism and the Dear Data* project?
 
-This exercise relates directly to **data humanism** and the *Dear Data* project. Like Giorgia Lupi advocates, I treated my personal data with empathy and humanity—laughter is imperfect, spontaneous, and hard to capture in numbers. My hand-drawn portrait follows the *Dear Data* tradition of making everyday moments meaningful through personal visualisation.
+This exercise relates directly to data humanism** and the Dear Data* project. Like Giorgia Lupi advocates, I treated my personal data with empathy and humanity—laughter is imperfect, spontaneous, and hard to capture in numbers. My hand-drawn portrait follows the *Dear Data* tradition of making everyday moments meaningful through personal visualisation.
 
 ### Any other reflections?
 

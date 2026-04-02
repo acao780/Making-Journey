@@ -12,6 +12,11 @@ layout: default
 
 For this week's interactive data portrait, I chose to continue with the **same data from Week 1**—"what makes me laugh and when". I collected 19 laughter events over one week, each with a day, time, what caused the laughter, and type (Social, Media, In-class, Random). I kept the same color coding system to maintain consistency with my hand-drawn portrait.
 
+For this week, I experient p5.js by following the slides, and here are the pictures:
+![in class task](../assets/week-02/inclass%20task.png)
+
+![in class task](../assets/week-02/red%20circle.png)
+
 ### Iteration 1: "Gorgeous Drawbridge"
 
 My first iteration is called **"Gorgeous Drawbridge"** — a filter-based interface where users can toggle different laughter types on or off using buttons.
@@ -62,13 +67,18 @@ From this process, I learned:
 ## Images & Media
 
 ### Iteration 1: Gorgeous Drawbridge
-![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/gorgeous-drawbridge.png)
+![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/Gorgeous%20drawbridge.png)
+*Interactive p5.js sketch with toggle buttons for different laughter types*
+## Gorgeous Drawbridge record
+![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/gorgeous%20drawbriadge%20record.mov)
 *Interactive p5.js sketch with toggle buttons for different laughter types*
 
 ### Iteration 2: Periodic Opossum
-![Periodic Opossum - Timeline View](../assets/week-02/periodic-opossum.png)
+![Periodic Opossum - Timeline View](../assets/week-02/periodic%20opossum.png)
 *Timeline-based visualization showing when laughter events occur throughout the week*
 
+![Periodic Opossum - Timeline View](../assets/week-02/periodic%20oppossum%20screen%20shot.png)
+*Timeline-based visualization showing when laughter events occur throughout the week*
 ---
 
 ## Reflection

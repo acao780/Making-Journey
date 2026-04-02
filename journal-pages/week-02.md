@@ -67,21 +67,21 @@ From this process, I learned:
 ## Images & Media
 
 ### Iteration 1: Gorgeous Drawbridge
-![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/Gorgeous%20drawbridge.png)
+![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/Gorgeous-drawbridge.png)
 *Interactive p5.js sketch with toggle buttons for different laughter types*
 
-![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/periodic%20oppossum%20screen%20shot.png)
+![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/periodic oppossum screen shot.png)
 *Interactive p5.js sketch with toggle buttons for different laughter types*
 
 ## Gorgeous Drawbridge record
-![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/gorgeous%20drawbriadge%20record.mov)
+![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/gorgeous drawbriadge record.mov)
 *Interactive p5.js sketch with toggle buttons for different laughter types*
 
 ### Iteration 2: Periodic Opossum
-![Periodic Opossum - Timeline View](../assets/week-02/periodic%20opossum.png)
+![Periodic Opossum - Timeline View](../assets/week-02/periodic opossum.png)
 *Timeline-based visualization showing when laughter events occur throughout the week*
 
-![Periodic Opossum - Timeline View](../assets/week-02/periodic%20oppossum%20screen%20shot.png)
+![Periodic Opossum - Timeline View](../assets/week-02/periodic oppossum screen shot.png)
 *Timeline-based visualization showing when laughter events occur throughout the week*
 ---
 

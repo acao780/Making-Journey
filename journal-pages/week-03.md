@@ -103,10 +103,16 @@ This project is part of my digital work using a coding tool called p5.js to crea
 
 # video and image
  ![in class task](../assets/week-03/week3_image.png)  
+ 
+In my first version the moon was sitting on a plain black background which looked a bit empty. I decided to add many small white dots to the back of the screen to represent the stars in the night sky. I also made these stars move across the background so that the whole scene feels more alive and three-dimensional. This change helps the viewer feel like they are looking through a telescope at the real universe instead of just looking at a flat computer drawing.
 
  ![in class task](../assets/week-03/video1.mp4)  
 
+When I first added the stars they were moving way too fast across the screen and it looked a bit distracting. For my second version I went back into the code and changed the speed to make them much slower. I realized that the stars in the sky should feel very calm and steady so I adjusted the numbers in my p5.js script. Now the background is peaceful and it does not take the attention away from the moon which is the most important part of my project.
+
  ![in class task](../assets/week-03/video2.mp4)  
+
+In the third version I made the stars even better by giving them a gentle flashing effect. Instead of just staying the same brightness the stars now slowly get brighter and then dimmer which looks like the real twinkling we see at night. This makes the project feel very realistic and artistic because it captures the quiet beauty of the dark sky. By combining the slow movement with this soft twinkling I have created a space that feels deep and natural for my digital moon to live in.
 
  ![in class task](../assets/week-03/video3.mp4)  
 

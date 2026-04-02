@@ -11,9 +11,13 @@ layout: default
 *Include your documentation for the week. Devise your own structure of headings relevant to the required tasks and your process.*
 
 ## Images & Media
-Get the weather for a location using its GPS coordinates
+following the guides:
 ![in class task](../assets/week-03/curl_wttr_in.png)
+![in class task](../assets/week-03/curl_ascii.live:forest.png)
+![in class task](../assets/week-03/curl_ascii.live:parrot.png)
 
+
+Get the weather for a location using its GPS coordinates
 Get the weather in a different language
 Get the current moon phase
 Look up the synonyms and antonyms of a word

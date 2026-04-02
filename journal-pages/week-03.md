@@ -18,6 +18,8 @@ following the guides:
 
 
 Get the weather for a location using its GPS coordinates
+![in class task](../assets/week-03/wtrr.in.png)
+
 Get the weather in a different language
 Get the current moon phase
 Look up the synonyms and antonyms of a word

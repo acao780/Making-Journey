@@ -17,7 +17,8 @@ Pay attention to what feels different: the speed, the quality, the tradeoff betw
 
 ![in class task](../assets/week-04/image_two.png)
 
-#### video: 
+![in class task](../assets/week-04/video_week4.mp4)
+
 
 ## Independent Study: AI-Assisted Data Exploration
 
@@ -43,8 +44,6 @@ Once I had the clean data from the first AI, I took those numbers to another too
 I did not stop at just one chart because I wanted to see the information in many different ways to make sure I understood everything perfectly. I repeated this method several times to create more types of graphs like timelines that show how housing has changed over the years. This process of using one AI for the facts and another AI for the art helped me turn a difficult government document into a beautiful collection of visual data that tells a clear story.
 
 ![in class task](../assets/week-04/image_three.png)
-
-![in class task](../assets/week-04/video_week4.mp4)
 
 ![in class task](../assets/week-04/image_week4_2.png)
 

@@ -49,10 +49,12 @@ To change the city, I modify the url string. In this example, I’ve switched th
 ![in class task](../assets/week-03/image1.png)
 
 2. Use the data to control different visual properties: colour, position, size, number of shapes.
+
 I have updated the draw() function so that wind controls position, temperature controls size, and humidity controls color. I replaced static numbers (like 23.5 * 10 or 0) with your weather variables (temp, wind). Now the shapes move and grow based on the live data.
 ![in class task](../assets/week-03/image2.png)
 
 3. Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
+
 I add is_day to the URL. This variable returns 1 for day and 0 for night. I updated the url to request is_day and used an if/else statement in draw() to change the background style based on that new variable.
 ![in class task](../assets/week-03/image3.png)
 ![in class task](../assets/week-03/image33.png)

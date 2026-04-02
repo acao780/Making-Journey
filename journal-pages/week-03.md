@@ -14,8 +14,11 @@ I started the week by using special commands in the computer terminal to get inf
 ## Images & Media
 Following the guides at the first time:
 ![in class task](../assets/week-03/curl_wttr_in.png)
+
 ![in class task](../assets/week-03/curl_ascii.live:forest.png)
+
 ![in class task](../assets/week-03/curl_ascii.live:parrot.png)
+
 ![in class task](../assets/week-03/tokyo.png)
 
 ### Get the weather for a location using its GPS coordinates

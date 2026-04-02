@@ -69,6 +69,10 @@ From this process, I learned:
 ### Iteration 1: Gorgeous Drawbridge
 ![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/Gorgeous%20drawbridge.png)
 *Interactive p5.js sketch with toggle buttons for different laughter types*
+
+![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/periodic%20oppossum%20screen%20shot.png)
+*Interactive p5.js sketch with toggle buttons for different laughter types*
+
 ## Gorgeous Drawbridge record
 ![Gorgeous Drawbridge - Filter Buttons](../assets/week-02/gorgeous%20drawbriadge%20record.mov)
 *Interactive p5.js sketch with toggle buttons for different laughter types*

@@ -15,14 +15,18 @@ Pay attention to what feels different: the speed, the quality, the tradeoff betw
 
 ### Activity two
 
-video: 
+#### video: 
 
 ## Independent Study: AI-Assisted Data Exploration
 
 ### Auckland Housing Prices — relevant to life in Aotearoa, rich data for visualising
 
 I chose Auckland housing data because housing affordability directly affects my life as a student in NZ. It's not abstract — it's personal.
-I ask NoteBooklm 
+
+I started by uploading several online links and official files from the Housing New Zealand website into my NotebookLM account. This was a very helpful first step because it allowed the AI to read the specific rules and guides that are used in my country. By giving the computer these documents, I made sure that any answers it gave me were based on real information from the government instead of just general facts from the internet.
+
+After all my files were uploaded, I asked the AI several questions to help me understand the housing system in a much clearer way. I asked some questions to understand more about the house system. The AI was able to take the very long and complicated sentences from the documents and turn them into simple answers that were much easier for me to read and remember.
+
 - "What's in this dataset?"
 - "What stories might it contain?"
 - "What biases or gaps are present?"

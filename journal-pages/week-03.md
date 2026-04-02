@@ -56,6 +56,7 @@ This version changes the whole "mood" by drawing different scenes based on the t
 Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
 
 6. Use print() in the console to check the range and scale of values before trying to visualise them.
+   
 
 Activity 3: Design and Execute a Data Protocol
 

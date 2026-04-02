@@ -12,7 +12,7 @@ layout: default
 
 ## Images & Media
 Get the weather for a location using its GPS coordinates
-![in class task](../assets/week-02/)
+![in class task](../assets/week-03/)
 
 Get the weather in a different language
 Get the current moon phase

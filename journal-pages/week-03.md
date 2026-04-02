@@ -75,6 +75,19 @@ When time is up, compare your output with what the designers intended. Did you i
 
 
 
+
+### My design
+Live Moon Phase Visualisation
+Introduction
+The moon has captivated humanity for thousands of years — guiding tides, marking time, and inspiring countless myths and legends across cultures. Yet despite its constant presence in our night sky, most people cannot accurately describe the moon's current phase or understand its rhythmic cycle. This project, Live Moon Phase Visualisation, bridges the gap between celestial mathematics and human experience by creating a real-time, interactive digital representation of the moon's current phase.
+Rather than simply displaying a static image, this visualisation engages with live data — the mathematically calculated lunar phase that updates continuously based on the actual date and time. The moon orbits the Earth in a precise cycle of approximately 29.53 days, transitioning through eight distinct phases: New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon, Waning Gibbous, Last Quarter, and Waning Crescent. By mapping this mathematical cycle to visual properties — shape, illumination, and texture — the visualisation transforms abstract numbers into something tangible and beautiful.
+This work falls under Option A (Digital), using the p5.js creative coding framework. While many moon visualisations simply show a generic full moon or a predetermined image, this project responds dynamically to the current moment. Every time you view it, the moon reflects exactly what is happening in the sky right now. This temporal responsiveness connects the viewer to the larger cosmic rhythm that has guided human existence since the dawn of time.
+The visualisation considers several key design questions: How do we map data values (the lunar cycle percentage) to visual properties (the lit portion of the moon)? The answer lies in the mathematical relationship between phase and illumination — the amount of light follows a cosine curve that can be precisely calculated. What does the visualisation reveal about the data that numbers alone cannot? While knowing "today is day 18 of the lunar cycle" tells us little, seeing a glowing gibbous moon with 89% illumination creates an emotional and visual connection to that data. How does the sketch change over time? Unlike a static image, the moon here updates in real-time — viewers can watch the subtle shifts as minutes and hours pass.
+By combining mathematics, programming, and design, this project transforms the abstract concept of "moon phase" into an interactive experience that connects the viewer to the ancient, continuous rhythm of the moon — Earth's faithful companion.
+
+
+
+
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

@@ -19,12 +19,21 @@ following the guides:
 
 
 Get the weather for a location using its GPS coordinates
-![in class task](../assets/week-03/wtrr.in.png)
+![in class task](../assets/week-03/auckland_weather.png)
 
 Get the weather in a different language
+![in class task](../assets/week-03/chinese_version.png)
+
 Get the current moon phase
+![in class task](../assets/week-03/curl_wttr_in.png)
+
 Look up the synonyms and antonyms of a word
+![in class task](../assets/week-03/curl_wttr_in.png)
+
 Find something else in the documentation that we haven't covered
+![in class task](../assets/week-03/curl_wttr_in.png)
+
+
 Activity 2: Weather Visualisation
 
 Open the demo sketchLinks to an external site. in the p5.js web editor. This sketch uses the Open-Meteo APILinks to an external site. to fetch current weather data for Auckland and map it to visual properties.

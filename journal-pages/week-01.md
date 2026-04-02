@@ -108,9 +108,6 @@ This exercise relates directly to data humanism** and the Dear Data* project. Li
 
 This exercise made me more grateful for the small moments of joy in my day. Before, I didn't realise how much laughter is woven into my daily life until I started tracking it. Data doesn't have to be serious to be meaningful—sometimes it's about celebrating the happy moments and appreciating the people who make us laugh.
 
-## Reference 
-
-
 ---
 ## AI Usage Statement
 

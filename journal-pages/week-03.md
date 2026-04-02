@@ -37,16 +37,24 @@ Find something else in the documentation that we haven't covered
 
 Activity 2: Weather Visualisation
 
-Open the demo sketchLinks to an external site. in the p5.js web editor. This sketch uses the Open-Meteo APILinks to an external site. to fetch current weather data for Auckland and map it to visual properties.
-
 Experiment with the sketch:
+1. Changing Location (Latitude and Longitude)
+To change the city, we modify the url string. In this example, I’ve switched the coordinates from Auckland to Reykjavík, Iceland (64.14 ∘N,−21.90 ∘W). The numerical values for latitude and longitude in the url variable were updated. This forces the API to return data for a different geographic point, which would immediately change the values of your variables like temp or wind.
 
-Change the latitude and longitude to a different city and observe how the sketch changes.
-Use the data to control different visual properties: colour, position, size, number of shapes.
-Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
-Try using random() or noise() alongside or instead of the live data.
-Use vibe coding to try something more ambitious.
-Use print() in the console to check the range and scale of values before trying to visualise them.
+2. Use the data to control different visual properties: colour, position, size, number of shapes.
+I have updated the draw() function so that wind controls position, temperature controls size, and humidity controls color. I replaced static numbers (like 23.5 * 10 or 0) with your weather variables (temp, wind). Now the shapes move and grow based on the live data.
+
+
+3. Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
+We will add is_day to the URL. This variable returns 1 for day and 0 for night. I updated the url to request is_day and used an if/else statement in draw() to change the background style based on that new variable.
+   
+4. Try using random() or noise() alongside or instead of the live data.
+
+   
+5. Use vibe coding to try something more ambitious.
+
+
+6. Use print() in the console to check the range and scale of values before trying to visualise them.
 
 Activity 3: Design and Execute a Data Protocol
 

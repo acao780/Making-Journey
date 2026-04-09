@@ -10,7 +10,7 @@ layout: default
 
 ### What I Chose to Track: What Makes Me Laugh and When
 
-For this week's data portrait, I chose to track what makes me laugh and when** throughout the week. Laughter is something I experience almost every day but never really stopped to notice or analyze. I was curious about what triggers my laughter and whether there are patterns in when I laugh the most.
+For this week's data portrait, I chose to track what makes me laugh and when throughout the week. Laughter is something I experience almost every day but never really stopped to notice or analyze. I was curious about what triggers my laughter and whether there are patterns in when I laugh the most.
 
 ### Why I Chose This Topic
 

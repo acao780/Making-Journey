@@ -72,7 +72,7 @@ I use the wind speed to determine how much the circle "shakes" or "jitters." I a
 This version changes the whole "mood" by drawing different scenes based on the temperature.
 Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
 
-![in class task](../assets/week-03/image5_record.mp4)
+<iframe src="https://www.youtube.com/embed/G4Q11fcopS0" width="560" height="315"> </iframe>
 
 ### Use print() in the console to check the range and scale of values before trying to visualise them.
  ![in class task](../assets/week-03/image6.png)  

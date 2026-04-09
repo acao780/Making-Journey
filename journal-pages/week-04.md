@@ -22,8 +22,7 @@ To begin this activity, I created a new notebook in NotebookLM and curated a div
 
 ![in class task](../assets/week-04/image_two.png)
 
-![in class task](../assets/week-04/video_week4.mp4)
-
+<iframe src="https://www.youtube.com/embed/WYmpXIb6ZLg" width="560" height="315"> </iframe>
 
 ## Independent Study: AI-Assisted Data Exploration
 
@@ -52,7 +51,7 @@ I did not stop at just one chart because I wanted to see the information in many
 
 ![in class task](../assets/week-04/image_week4_2.png)
 
-![in class task](../assets/week-04/video_week4_2.mp4)
+<iframe src="https://www.youtube.com/embed/HW90fmfZR9k" width="560" height="315"> </iframe>
 
 ## Reflection
 Using an AI helps us find patterns very quickly like the fact that house prices are lower now than they were in the year 2021. However this speed can be shallow because the computer does not always understand the deep history of Māori housing or the cultural background of New Zealand. Without a person giving the computer very specific instructions the AI will miss how important data is for Māori communities as a tool for their own future.

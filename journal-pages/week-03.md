@@ -102,7 +102,7 @@ This project is part of my digital work using a coding tool called p5.js to crea
  
 In my first version the moon was sitting on a plain black background which looked a bit empty. I decided to add many small white dots to the back of the screen to represent the stars in the night sky. I also made these stars move across the background so that the whole scene feels more alive and three-dimensional. This change helps the viewer feel like they are looking through a telescope at the real universe instead of just looking at a flat computer drawing.
 
- ![in class task](../assets/week-03/video1.mp4)  
+<iframe src="https://www.youtube.com/embed/z5a-wEUuMZg" width="560" height="315"> </iframe>
 
 When I first added the stars they were moving way too fast across the screen and it looked a bit distracting. For my second version I went back into the code and changed the speed to make them much slower. I realized that the stars in the sky should feel very calm and steady so I adjusted the numbers in my p5.js script. Now the background is peaceful and it does not take the attention away from the moon which is the most important part of my project.
 

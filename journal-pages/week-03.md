@@ -110,7 +110,7 @@ When I first added the stars they were moving way too fast across the screen and
 
 In the third version I made the stars even better by giving them a gentle flashing effect. Instead of just staying the same brightness the stars now slowly get brighter and then dimmer which looks like the real twinkling we see at night. This makes the project feel very realistic and artistic because it captures the quiet beauty of the dark sky. By combining the slow movement with this soft twinkling I have created a space that feels deep and natural for my digital moon to live in.
 
- ![in class task](../assets/week-03/video3.mp4)  
+<iframe src="https://www.youtube.com/embed/82TLHDcAWec" width="560" height="315"> </iframe>
 
 ## Reference
 Tutorials Page: p5.js. (n.d.). Tutorials. Retrieved October 24, 2023, from https://p5js.org/tutorials/

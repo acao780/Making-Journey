@@ -46,38 +46,38 @@ Following the guides at the first time:
 
 For this activity I used a coding tool called p5.js to turn live weather data into shapes and colors on the screen. I changed the code to look at the weather in Iceland instead of Auckland and I saw how the shapes moved and changed size based on the wind and temperature. 
 
-1. Changing Location (Latitude and Longitude)
+### Changing Location (Latitude and Longitude)
 
 To change the city, I modify the url string. In this example, I’ve switched the coordinates from Auckland to Reykjavík, Iceland (64.14 ∘N,−21.90 ∘W), this is one of my favourite city. The numerical values for latitude and longitude in the url variable were updated. This forces the API to return data for a different geographic point, which would immediately change the values of your variables like temp or wind.
 ![in class task](../assets/week-03/image1.png)
 
-2. Use the data to control different visual properties: colour, position, size, number of shapes.
+### Use the data to control different visual properties: colour, position, size, number of shapes.
 
 I have updated the draw() function so that wind controls position, temperature controls size, and humidity controls color. I replaced static numbers (like 23.5 * 10 or 0) with your weather variables (temp, wind). Now the shapes move and grow based on the live data.
 ![in class task](../assets/week-03/image2.png)
 
-3. Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
+### Add more weather variables from the Open-Meteo documentationLinks to an external site. to the API URL.
 
 I add is_day to the URL. This variable returns 1 for day and 0 for night. I updated the url to request is_day and used an if/else statement in draw() to change the background style based on that new variable.
 ![in class task](../assets/week-03/image3.png)
 ![in class task](../assets/week-03/image33.png)
 
-4. Try using random() or noise() alongside or instead of the live data.
+### Try using random() or noise() alongside or instead of the live data.
    
 I use the wind speed to determine how much the circle "shakes" or "jitters." I added the random() function. If the wind is high, the "shake" range is larger, making the circle look like it is vibrating in the wind.
 ![in class task](../assets/week-03/image4.png)
    
-5. Use vibe coding to try something more ambitious.
+### Use vibe coding to try something more ambitious.
  
 This version changes the whole "mood" by drawing different scenes based on the temperature.
 Instead of just drawing shapes, the code now chooses an entire "visual theme" based on a data threshold (20 degrees). This makes the code feel more "aware" of the environment.
 
 ![in class task](../assets/week-03/image5_record.mp4)
 
-6. Use print() in the console to check the range and scale of values before trying to visualise them.
+### Use print() in the console to check the range and scale of values before trying to visualise them.
  ![in class task](../assets/week-03/image6.png)  
 
-### Activity 3: Design and Execute a Data Protocol
+## Activity 3: Design and Execute a Data Protocol
 
 I created a "Data Protocol". The source was the live wind speed in Auckland from the Open-Meteo website. I decided on a Frequency of checking the numbers every 60 seconds. The Mapping rule was to draw one blue diagonal line for every 1 km/h of wind speed. When i swapped the rules with another group, they followed the instructions well, but they were surprised by how many lines they had to draw when the wind picked up. This experiment showed me that simple rules can turn live data into very busy and interesting art.
 

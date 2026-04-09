@@ -61,8 +61,12 @@ From this process, I learned:
 *Interactive p5.js sketch with toggle buttons for different laughter types*
 
 ### Gorgeous Drawbridge record
-![gorgeous drawbridge filter buttons](../assets/week-02/gorgeous%20drawbriadge%20record.mov)
-*Interactive p5.js sketch with toggle buttons for different laughter types*
+
+<iframe
+  src="https://www.youtube.com/embed/4PCIpUJ8Tcg"
+  width="560" 
+  height="315">
+</iframe>
 
 ### Iteration 2: Periodic Opossum
 ![periodic opossum timeline view](../assets/week-02/periodic%20opossum.png)

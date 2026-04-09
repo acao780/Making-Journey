@@ -21,7 +21,7 @@ For this week, I experient p5.js by following the slides, and here are the pictu
 ![in class task](../assets/week-02/image_week2.png)
 
 <iframe
-  src="https://youtu.be/embed/MM_422nqPE8"
+  src="https://youtu.be/MM_422nqPE8"
   width="560" 
   height="315">
 </iframe>

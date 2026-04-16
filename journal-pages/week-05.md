@@ -40,7 +40,7 @@ I will create an interactive p5.js data graph that visualises the relationship b
 
 ## Images & Media
 
-`![Alt text](../assets/week-01/your-image.jpg)`
+`![Alt text](../assets/week-05/week_5_proposal.jpg)`
 `*Your caption here*`
 
 ## AI Usage Statement

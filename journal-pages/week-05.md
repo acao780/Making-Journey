@@ -42,6 +42,14 @@ I will create an interactive p5.js data graph that visualises the relationship b
 
 ![Alt text](../assets/week-05/week_5_proposal.jpg)
 
+### Reference
+
+API Ninjas (Nutrition API) API Ninjas. (n.d.). Nutrition API documentation. https://api-ninjas.com/api/nutrition#nutrition-endpoint
+
+Edamam (Recipe Search API) Edamam. (n.d.). Recipe Search API developer portal. https://developer.edamam.com/recipe-demo
+
+U.S. Department of Agriculture (FoodData Central API) U.S. Department of Agriculture. (n.d.). FoodData Central API guide. https://fdc.nal.usda.gov/api-guide
+
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

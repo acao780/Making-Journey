@@ -42,6 +42,8 @@ I will create an interactive p5.js data graph that visualises the relationship b
 
 ![Alt text](../assets/week-05/week_5_proposal.jpg)
 
+![Alt text](../assets/week-05/week5_image.jpg)
+
 ### Reference
 
 API Ninjas (Nutrition API) API Ninjas. (n.d.). Nutrition API documentation. https://api-ninjas.com/api/nutrition#nutrition-endpoint

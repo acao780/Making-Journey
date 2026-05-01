@@ -25,6 +25,8 @@ I am using p5.js to design the visual interface. Below are the initial images an
 ## 1. Data Exploration 
 ![Alt text](../assets/week-05/week5_image.jpg)
 
+### Data (since 5th of June)
+
 | Data | Breakfast | Lunch | Dinner |
 |-----|------|-------------------|------|
 | 04/16 | NONE | Fried Rice | - |

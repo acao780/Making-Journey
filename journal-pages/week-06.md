@@ -22,8 +22,40 @@ I am using p5.js to design the visual interface. Below are the initial images an
 ![Alt text](../assets/week-06/image4.png)
 ![Alt text](../assets/week-06/image5.png)
 
-## Images & Media
+## 1. Data Exploration 
 ![Alt text](../assets/week-05/week5_image.jpg)
+
+a table 
+
+
+## 2. Visual Research and Precedent Study 
+
+
+## 3. Project Planning and Skills Roadmap
+
+### 3.1 What do I need to make?
+
+
+### 3.2 What do I need to learn?
+
+
+### 3.3 What are my next steps?
+
+
+
+## Independent Study
+
+### 1. Consultation Reflection
+
+
+### 2. Technical Skill Building
+
+
+
+
+
+
+
 
 ## AI Usage Statement
 

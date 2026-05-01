@@ -25,10 +25,6 @@ I am using p5.js to design the visual interface. Below are the initial images an
 ## Images & Media
 ![Alt text](../assets/week-05/week5_image.jpg)
 
-
-![Alt text](../assets/week-01/your-image.jpg)
-
-
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

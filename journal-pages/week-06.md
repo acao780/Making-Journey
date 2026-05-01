@@ -22,8 +22,8 @@ I am using p5.js to design the visual interface. Below are the initial images an
 ![Alt text](../assets/week-06/image4.png)
 ![Alt text](../assets/week-06/image5.png)
 
-
 ## Images & Media
+![Alt text](../assets/week-05/week5_image.jpg)
 
 
 ![Alt text](../assets/week-01/your-image.jpg)

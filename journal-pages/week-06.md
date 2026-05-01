@@ -51,11 +51,11 @@ I am using p5.js to design the visual interface. Below are the initial images an
 
 ## 2. Visual Research and Precedent Study 
 
-![Alt text](../assets/week-06/image1.png)
-![Alt text](../assets/week-06/image2.png)
-![Alt text](../assets/week-06/image3.png)
-![Alt text](../assets/week-06/image4.png)
-![Alt text](../assets/week-06/image5.png)
+![Alt text](../assets/week-06/idea1.png)
+![Alt text](../assets/week-06/idea2.png)
+![Alt text](../assets/week-06/idea3.png)
+![Alt text](../assets/week-06/idea4.png)
+![Alt text](../assets/week-06/idea5.png)
 
 (delect some of the pattern that do not match your idea)
 

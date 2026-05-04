@@ -70,7 +70,6 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 ![Alt text](../assets/week-06/idea2.jpg)
 ![Alt text](../assets/week-06/idea3.jpg)
 ![Alt text](../assets/week-06/idea4.jpg)
-![Alt text](../assets/week-06/idea5.jpg)
 
 (delect some of the pattern that do not match your idea)
 
@@ -94,6 +93,10 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 
 ### 2. Technical Skill Building
 
+
+### 3. Initial Concept Sketch
+
+![Alt text](../assets/week-06/idea4.jpg)
 
 
 

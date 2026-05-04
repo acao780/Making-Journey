@@ -7,25 +7,27 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Documentation 
-During the week 6 consultation, I introduced my topic to the instructor. I explained that I want to create a food diary that tracks both my eating behavior and daily caloric intake. My motivation stems from an experience last year when a medication I was taking caused a loss of appetite and a dislike for meat. My weight dropped from 53kg to below 50kg, which left me feeling exhausted and unhealthy.
+During the Week 6 proposal consultation, I introduced my topic to the instructor. I explained my plan to create a food diary that tracks both my eating behavior and daily caloric intake. My purpose for recording this data is to remind myself to take care of my body. My motivation stems from an experience last year when a medication I was taking caused a loss of appetite and a dislike for meat. My weight dropped from 53kg to below 50kg, which left me feeling exhausted and unhealthy.
 
-I began recording my data on April 16th. Through this process, I discovered that I often skip breakfast during holidays and occasionally skip lunch on school days. This pattern is a significant concern for my future health, especially since my grandfather suffered from a stomach disease caused by food scarcity during his childhood. By tracking my energy intake and monitoring my behaviors, I aim to create a tool that reminds me to prioritize my well-being.
+I began recording my data on April 16th. Through this process, I discovered that I often skip breakfast during holidays and occasionally skip lunch on school days. This pattern is a significant concern for my future health, especially since my grandfather suffered from a stomach disease caused by food scarcity during his childhood. By tracking my energy intake and monitoring my behaviors, I aim to create a visual data design that reminds me to prioritize my well-being and conveys the importance of taking care of one's body through healthy daily eating.
 
 ### Current Progress and Development 
 
-I am using p5.js to design the visual interface. Below are the initial images and code from my week 5 report, representing the rough data visualization at the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization doesn't come from a standard nutrition API; instead, it uses Google Gemini to query the energy content of foods. At this stage, I'm collecting nutritional data manually, rather than through automated API calls. My next step is to find a usable API that can be integrated into this visualization.
+I am using p5.js to design the visual interface. Below are the initial images and code from my Week 5 report, representing the rough data visualization from the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization does not come from a standard nutrition API; instead, I am using Google Gemini to query the energy content of foods. At this stage, I am collecting nutritional data manually, but my next step is to find a functional API to automate this process within the visualization.
 
 ### Code
 ![Alt text](../assets/week-06/image1.png)
-![Alt text](../assets/week-06/image2.png)
-![Alt text](../assets/week-06/image3.png)
-![Alt text](../assets/week-06/image4.png)
-![Alt text](../assets/week-06/image5.png)
 
 ## 1. Data Exploration 
+
+In this phase of my research, I have been collecting personal dietary entries since April 16th. I began by establishing a structured dataset that includes dates, meal times, and specific food content. However, while auditing this data, I discovered that the records have significant limitations in terms of accuracy. Because I lack precise measurements for food quantities, my calorie estimations remain somewhat subjective. Additionally, I recognize that my current dataset is limited to my own experience and lacks broader social representativeness.
+More importantly, this recording process has clearly revealed my long-standing "meal skipping" behavior. I noticed a consistent pattern of skipping breakfast on holidays and ignoring lunch during busy school days. For me, this data is more than just numbers; it represents a significant health risk, especially given my family history of gastrointestinal diseases.
+
+Because of these findings, I want to shift the focus of my project. It is moving from being a simple "personal diary" to becoming a "social intervention tool." By revealing the behavioral vulnerabilities hidden within my own data, I aim to create a design that raises public awareness about the importance of regular eating habits and prioritizing one's well-being.
+
 ![Alt text](../assets/week-05/week5_image.jpg)
 
-### Data (since 5th of June)
+The data shows the food and dairy intakes of breakfast, lunch and dinner, began on 16th of April. 
 
 | Data | Breakfast | Lunch | Dinner |
 |-----|------|-------------------|------|
@@ -48,6 +50,7 @@ I am using p5.js to design the visual interface. Below are the initial images an
 | 05/02 | - | Shopping - funny sign I saw | - |
 | 05/03 | - | Comedy show on TV | - |
 | 05/04 | - | Funny video from friend | - |
+(end when week 7 task open)
 
 ## 2. Visual Research and Precedent Study 
 

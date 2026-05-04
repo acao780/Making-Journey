@@ -42,25 +42,25 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 
 | Data | Breakfast | Lunch | Dinner |
 |-----|------|-------------------|------|
-| 04/16 | NONE | Fried Rice | - |
-| 04/17 | Eggs + Nibbles | Steak Noddle | - |
-| 04/18 | NONE | Pie + Chocolate | - |
-| 04/19 | Bread + Milk | Cheese Paste + Chocolate | - |
-| 04/20 | Bread + Milk | NONE | - |
-| 04/21 | Bread + Egg | Pie | - |
-| 04/22 | Egg + Nibbles + Bread| NONE | - |
-| 04/23 | - | NONE | - |
-| 04/24 | Bread + Nibbles | NONE | - |
-| 04/25 | - | Morning joke from roommate | - |
-| 04/26 | - | Funny post on social media | - |
-| 04/27 | - | Classmate's comment funny | - |
-| 04/28 | - | Funny picture | - |
-| 04/29 | - | Friend's story about their day | - |
-| 04/30 | - | Party with friends - lots of laughing | - |
-| 05/01 | - | Brunch with friends - funny conversations | - |
-| 05/02 | - | Shopping - funny sign I saw | - |
-| 05/03 | - | Comedy show on TV | - |
-| 05/04 | - | Funny video from friend | - |
+| 04/16 | NONE | Fried Rice |------|
+| 04/17 | Eggs + Nibbles | Steak Noddle |------|
+| 04/18 | NONE | Pie + Chocolate |------|
+| 04/19 | Bread + Milk | Cheese Paste + Chocolate |------|
+| 04/20 | Bread + Milk | NONE |------|
+| 04/21 | Bread + Egg | Pie |------|
+| 04/22 | Egg + Nibbles + Bread| NONE |------|
+| 04/23 |------| NONE |------|
+| 04/24 | Bread + Nibbles | NONE |------|
+| 04/25 |------| Morning joke from roommate |------|
+| 04/26 |------| Funny post on social media |------|
+| 04/27 |------| Classmate's comment funny |------|
+| 04/28 |------| Funny picture |------|
+| 04/29 |------| Friend's story about their day |------|
+| 04/30 |------| Party with friends - lots of laughing |------|
+| 05/01 |------| Brunch with friends - funny conversations |------|
+| 05/02 |------| Shopping - funny sign I saw |------|
+| 05/03 |------| Comedy show on TV |------|
+| 05/04 |------| Funny video from friend |------|
 
 (end when week 7 task open)
 

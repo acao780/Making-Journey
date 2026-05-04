@@ -96,7 +96,7 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 
 ### 3. Initial Concept Sketch
 
-![Alt text](../assets/week-06/idea4.jpg)
+![Alt text](../assets/week-06/brainstorm.jpg)
 
 
 

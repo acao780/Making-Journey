@@ -15,7 +15,10 @@ I began recording my data on April 16th. Through this process, I discovered that
 
 I am using p5.js to design the visual interface. Below are the initial images and code from my Week 5 report, representing the rough data visualization from the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization does not come from a standard nutrition API; instead, I am using Google Gemini to query the energy content of foods. At this stage, I am collecting nutritional data manually, but my next step is to find a functional API to automate this process within the visualization.
 
-### Code
+### Video & Code
+
+https://www.youtube.com/watch?v=ZtuKyqvnCUM
+
 Below are the P5.JS code: 
 ![Alt text](../assets/week-06/screenshot1.png) 
 ![Alt text](../assets/week-06/Screenshot2.png) 

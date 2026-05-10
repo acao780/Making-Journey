@@ -126,6 +126,19 @@ Finally, I will book time at the laser cut workshop. I need to practice on cheap
 
 
 
+## Reference
+
+https://www.instagram.com/p/DDEtR3EiRrU/?img_index=3
+
+https://www.dear-data.com/theproject
+
+https://quantifiedself.com/
+
+https://quantifiedself.com/
+
+https://giorgialupi.com/bruises-the-data-we-dont-see
+
+https://www.domesticstreamers.com/work/data-strings/
 
 
 ## AI Usage Statement

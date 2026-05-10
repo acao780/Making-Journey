@@ -88,9 +88,19 @@ After seeing these references, I decided to move in a clearer direction. I want 
 
 ### 3.1 What do I need to make?
 
+I plan to create a project that combines a laser-cut physical piece .
+The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
+
+I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.
 
 ### 3.2 What do I need to learn?
 
+| Priority | Skill/Tool | Why I Need It |
+|----------|-----------|--------------|
+| 1 | Drawing / Sketching | To visualize my idea before making |
+| 2 | Laser Cut Machine | To create the physical layers |
+| 3 | Data Collection | To record and organize my food data |
+| 4 | Photography | To document my final project |
 
 ### 3.3 What are my next steps?
 

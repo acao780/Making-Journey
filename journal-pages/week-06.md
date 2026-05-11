@@ -134,8 +134,6 @@ https://www.dear-data.com/theproject
 
 https://quantifiedself.com/
 
-https://quantifiedself.com/
-
 https://giorgialupi.com/bruises-the-data-we-dont-see
 
 https://www.domesticstreamers.com/work/data-strings/

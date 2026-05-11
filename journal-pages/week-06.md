@@ -64,7 +64,35 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 | 05/03 |------| Comedy show on TV |------|
 | 05/04 |------| Funny video from friend |------|
 
-(end when week 7 task open)
+For the next stage of my project, I need to calculate my daily calorie intake through further research and problem-solving. I am currently exploring two ways to get this nutritional data: using a nutrition API like USDA FoodData Central or Edamam, or querying Google Gemini for estimated values. My current dataset, which includes the date, meal type, and food items, will serve as the initial foundation, but I plan to add the caloric content after completing this research.
+
+As I review my current spreadsheet, I have realized some significant limitations. First, this is an individual test case focused only on myself. I’ve realized that my data isn't enough for further development yet; I need more participants and more data records to create a strong pattern that truly shows why healthy eating is so significant. Second, my entries lack exact portion sizes, making my calorie estimations imprecise. Finally, the data doesn't capture the "why" behind my behavior—the reasons I skip meals, whether it's due to my mood or my busy school schedule.
+
+Because of these limitations, my project direction has shifted. Instead of a purely digital visualization in p5.js, I want to take a hybrid narrative approach that combines digital work with handmade visual data. I need to do more research, not just on my own records, but also online to find APIs and data that relate to the message I want to convey. To address these gaps and create a stronger foundation for my project, I have decided to redo my data collection process.
+
+#### My Redo Data:
+
+| Data | Breakfast | Lunch | Dinner | Energy |
+|-----|------|-------------------|------|------|
+| 04/16 | NONE | Fried Rice |------|------|
+| 04/17 | Eggs + Nibbles | Steak Noddle |------|------|
+| 04/18 | NONE | Pie + Chocolate |------|------|
+| 04/19 | Bread + Milk | Cheese Paste + Chocolate |------|------|
+| 04/20 | Bread + Milk | NONE |------|------|
+| 04/21 | Bread + Egg | Pie |------|------|
+| 04/22 | Egg + Nibbles + Bread| NONE |------|------|
+| 04/23 |------| NONE |------|------|
+| 04/24 | Bread + Nibbles | NONE |------|------|
+| 04/25 |------| Morning joke from roommate |------|------|
+| 04/26 |------| Funny post on social media |------|------|
+| 04/27 |------| Classmate's comment funny |------|------|
+| 04/28 |------| Funny picture |------|------|
+| 04/29 |------| Friend's story about their day |------|------|
+| 04/30 |------| Party with friends - lots of laughing |------|------|
+| 05/01 |------| Brunch with friends - funny conversations |------|------|
+| 05/02 |------| Shopping - funny sign I saw |------|------|
+| 05/03 |------| Comedy show on TV |------|------|
+| 05/04 |------| Funny video from friend |------|------|
 
 ## 2. Visual Research and Precedent Study 
 
@@ -120,19 +148,31 @@ Finally, I will book time at the laser cut workshop. I need to practice on cheap
 
 ## Independent Study
 
-### 1. Consultation Reflection
+### 1. Consultation Reflection  (需要修改）
+During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of losing weight last year and how this motivated me to take better care of my body.
 
+The instructor asked several helpful questions. First, he asked who my audience was. This made me think about whether my project was for myself or for others. Second, he asked how I would get accurate nutritional data. I admitted that I was not sure yet. Third, he suggested that I look at established data visualization projects for reference.
+
+This discussion changed my direction in a small but important way. Before, I thought only about collecting my own data. After the consultation, I realized that I needed to make the data meaningful to a wider audience. I started to think about how my personal story could connect to larger health issues.
+
+I will take two actions based on this consultation. First, I will add a column for the "reason" behind each meal. This makes the data more than just numbers. Second, I will research nutrition APIs to get accurate calorie information. 同时，我需要做更过关于吃饭为什么重要的research，并找一些数据等
 
 ### 2. Technical Skill Building
 
+Based on my skills roadmap, my top priority is to learn p5.js for digital visualization.
+利用课堂上制定的技能路线图，解决您的首要技术差距。记录您的学习过程，包括文字和图片证据，并反思您尝试了什么、学到了什么，以及这些如何帮助您推进项目开发（例如，通过提升技能以进行下一步，或者通过发现某些环节存在问题，您需要调整方向）。
+Based on my skills roadmap, my top priority is to learn laser cut design. I have used laser cut before, but only for simple projects. I need to learn how to design layered data visualizations.
+
+I drew several circles to represent my data layers. Each circle has a different size to show how much I ate. I cut these out by hand first to test the idea.
+
+What I learned is that paper prototyping works well. I can see the design quickly without wasting materials. I also learned that the stacking idea is visually interesting. When I put the layers together, the pattern becomes clear.
+
+This helps my project because now I know the laser cut direction works. I will continue iterating with paper cutouts. I will bring these to class for feedback.
 
 ### 3. Initial Concept Sketch
+Based on my paper sketches from class, I created a more detailed concept. The first layer is the physical laser-cut piece. Each day is a circular layer. The size of the circle shows how much I ate. Missing meals create empty spaces. When stacked together, these layers show my eating patterns over time.
 
 ![Alt text](../assets/week-06/brainstorm.jpg)
-
-
-
-
 
 ## Reference
 

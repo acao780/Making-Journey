@@ -14,7 +14,7 @@ in-class task:
 
 - feedback on the sketch you draw
     
-![Alt text](../assets/week-01/your-image.jpg)
+![Alt text](../assets/week-07/week7_inclass.jpg)
 
 - what if image
 

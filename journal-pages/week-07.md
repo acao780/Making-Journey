@@ -44,15 +44,13 @@ Everyone agreed that data accuracy is a critical element of this project. This a
 #### Reflection and Next Steps
 Based on the feedback received, I have refined my concept to focus more on what makes my visualization unique. The tactile experience of touching different thicknesses to "feel" the data is my key differentiating factor. 
 
-
-
-2. Creation Sprint (45 minutes)
-Activity Description
+## Creation Sprint 
+### Activity Description
 This activity required me to use rapid prototyping — short cycle iterations, focused making, and an experimental mindset — to spend 45 minutes producing my first practical experiment with my dataset and visualization method. The goal was to extract something visible from the data, even if rough. The objective was to create something testable rather than a final finished product.
-In-Class Prototyping Work
+### In-Class Prototyping Work
 During the creation sprint in class, I used sticky notes to directly sketch and test my laser-cut design concepts. The unique characteristic of sticky notes is that they have physical thickness, which perfectly simulates the laser-cut acrylic plates I am planning to create. I peeled off layers of sticky notes and stacked them together to simulate plates of different thicknesses. This method helped me convey my ideas to classmates much more intuitively than just drawing on paper.
 By physically stacking sticky notes, I could show different calorie levels — thin stack for low calories, thick stack for high calories. This gave immediate, tangible feedback on whether my concept would work.
-Autonomous Practice After Class
+
 After class, I continued working on my project during my free time. I used Adobe Illustrator to draw proper laser-cut design files, continuing to optimize my design. I transformed the results from my sticky note testing into数字化 (digital) design files, preparing for the next phase of actual production.
 These prototypes represent my journey from conceptual ideas to working models, documenting each step of experimentation along the way.
 

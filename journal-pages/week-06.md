@@ -21,7 +21,7 @@ I am using p5.js to design the visual interface. Below are the initial images an
 
 <iframe src="https://www.youtube.com/embed/ZtuKyqvnCUM" width="560" height="315"> </iframe>
 
-Below are the P5.JS code: 
+Below are the P5.JS code: (整合到一起）
 
 ![Alt text](../assets/week-06/screenshot1.png) 
 
@@ -94,7 +94,7 @@ Because of these limitations, my project direction has shifted. Instead of a pur
 | 05/03 |------| Comedy show on TV |------|------|
 | 05/04 |------| Funny video from friend |------|------|
 
-## 2. Visual Research and Precedent Study 
+## 2. Visual Research and Precedent Study （增加一个research, 好像有一个照片是一面墙体，这个跟你week 8要发展的很像）
 
 During Week 6, I spent 45 minutes collecting visual references related to my project. I used Google Gemini to help me search for examples of data visualization, physical data design, and nutrition tracking projects.
 

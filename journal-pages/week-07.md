@@ -69,7 +69,7 @@ Of these three directions, the second option — the interactive tactile experie
 
 | Food Item | Food types | Calories (kcal) | Thickness of physical board | Energy contribution value (0-5) |
 | :--- | :--- | :--- | :--- | :--- |
-| **None (空缺)** | Empty | 0 | **0 mm ** | 0 |
+| **None (空缺)** | Empty | 0 | **0 mm** | 0 |
 | **bread** | Carbs | 150 | **3 mm** | 1.5 |
 | **eggs / egg** | Protein | 150 | **3 mm** | 1.5 |
 | **milk** | Drink | 150 | **3 mm** | 1.0 |

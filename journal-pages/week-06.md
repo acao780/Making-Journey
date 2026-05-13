@@ -125,6 +125,8 @@ The fourth reference is Giorgia Lupi's project "Bruises: The Data We Don't See."
 
 The fifth reference is from "Domestic Data Streamers," a design team from Barcelona. They turn boring data into physical installations that let audiences "feel" the weight and volume of data. What attracts me is how they use weight and liquids to represent energy. I could use a leaking container to show energy loss, or different weights of sand to represent my daily intake.
 
+![Alt text](../assets/datadesign.jpg)
+
 ### The sixth Nathalie Miebach
 
 After seeing these references, I decided to move in a clearer direction. I want to combine digital visualization with handmade physical elements. The laser cut will show the patterns, and the colors will show the feelings. This approach feels more meaningful than just numbers on a screen.

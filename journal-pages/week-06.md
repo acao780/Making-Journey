@@ -101,8 +101,7 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 | **06/08** | School | eggs + milk | steak nodolles | steam chicken + rice + chicken soup | 1600 | 8 |
 | **06/09** | School | bread + nibbles | pie | fried rice + shredded potatoes | 1400 | 7 |
 
-## 2. Visual Research and Precedent Study （增加一个research, 好像有一个照片是一面墙体，这个跟你week 8要发展的很像）
-
+## 2. Visual Research and Precedent Study 
 During Week 6, I spent 45 minutes collecting visual references related to my project. I used Google Gemini to help me search for examples of data visualization, physical data design, and nutrition tracking projects.
 
 ![Alt text](../assets/week-06/lazer_cut.png)

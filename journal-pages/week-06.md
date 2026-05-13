@@ -34,6 +34,11 @@ Because of these findings, I want to shift the focus of my project. It is moving
 
 ![Alt text](../assets/week-05/week5_image.jpg)
 
+For the next stage of my project, I need to calculate my daily calorie intake through further research and problem-solving. I am currently exploring two ways to get this nutritional data: using a nutrition API like USDA FoodData Central or Edamam, or querying Google Gemini for estimated values. My current dataset, which includes the date, meal type, and food items, will serve as the initial foundation, but I plan to add the caloric content after completing this research.
+
+As I review my current spreadsheet, I have realized some significant limitations. First, this is an individual test case focused only on myself. I’ve realized that my data isn't enough for further development yet; I need more participants and more data records to create a strong pattern that truly shows why healthy eating is so significant. Second, my entries lack exact portion sizes, making my calorie estimations imprecise. Finally, the data doesn't capture the "why" behind my behavior—the reasons I skip meals, whether it's due to my mood or my busy school schedule.
+
+Because of these limitations, my project direction has shifted. Instead of a purely digital visualization in p5.js, I want to take a hybrid narrative approach that combines digital work with handmade visual data. I need to do more research, not just on my own records, but also online to find APIs and data that relate to the message I want to convey. To address these gaps and create a stronger foundation for my project, I have decided to redo my data collection process.
 The data shows the food and dairy intakes of breakfast, lunch and dinner, began on 16th of April and end on 9th of June. 
 
 ### 饮食与能量状态记录表 (04/16 - 06/09)
@@ -95,36 +100,6 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 | **06/07** | Holiday | None | Fried rice | steak dish + rice + vegetable | 1400 | 6 |
 | **06/08** | School | bread + egg | None | steak nodolles | 1150 | 4 |
 | **06/09** | School | eggs + milk | None | Fried rice | 1050 | 3 |
-
-For the next stage of my project, I need to calculate my daily calorie intake through further research and problem-solving. I am currently exploring two ways to get this nutritional data: using a nutrition API like USDA FoodData Central or Edamam, or querying Google Gemini for estimated values. My current dataset, which includes the date, meal type, and food items, will serve as the initial foundation, but I plan to add the caloric content after completing this research.
-
-As I review my current spreadsheet, I have realized some significant limitations. First, this is an individual test case focused only on myself. I’ve realized that my data isn't enough for further development yet; I need more participants and more data records to create a strong pattern that truly shows why healthy eating is so significant. Second, my entries lack exact portion sizes, making my calorie estimations imprecise. Finally, the data doesn't capture the "why" behind my behavior—the reasons I skip meals, whether it's due to my mood or my busy school schedule.
-
-Because of these limitations, my project direction has shifted. Instead of a purely digital visualization in p5.js, I want to take a hybrid narrative approach that combines digital work with handmade visual data. I need to do more research, not just on my own records, but also online to find APIs and data that relate to the message I want to convey. To address these gaps and create a stronger foundation for my project, I have decided to redo my data collection process.
-
-#### My Redo Data:
-
-| Data | Breakfast | Lunch | Dinner | Energy |
-|-----|------|-------------------|------|------|
-| 04/16 | NONE | Fried Rice |------|------|
-| 04/17 | Eggs + Nibbles | Steak Noddle |------|------|
-| 04/18 | NONE | Pie + Chocolate |------|------|
-| 04/19 | Bread + Milk | Cheese Paste + Chocolate |------|------|
-| 04/20 | Bread + Milk | NONE |------|------|
-| 04/21 | Bread + Egg | Pie |------|------|
-| 04/22 | Egg + Nibbles + Bread| NONE |------|------|
-| 04/23 |------| NONE |------|------|
-| 04/24 | Bread + Nibbles | NONE |------|------|
-| 04/25 |------| Morning joke from roommate |------|------|
-| 04/26 |------| Funny post on social media |------|------|
-| 04/27 |------| Classmate's comment funny |------|------|
-| 04/28 |------| Funny picture |------|------|
-| 04/29 |------| Friend's story about their day |------|------|
-| 04/30 |------| Party with friends - lots of laughing |------|------|
-| 05/01 |------| Brunch with friends - funny conversations |------|------|
-| 05/02 |------| Shopping - funny sign I saw |------|------|
-| 05/03 |------| Comedy show on TV |------|------|
-| 05/04 |------| Funny video from friend |------|------|
 
 ## 2. Visual Research and Precedent Study （增加一个research, 好像有一个照片是一面墙体，这个跟你week 8要发展的很像）
 

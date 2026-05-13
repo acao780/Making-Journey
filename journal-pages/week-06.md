@@ -21,15 +21,9 @@ I am using p5.js to design the visual interface. Below are the initial images an
 
 <iframe src="https://www.youtube.com/embed/ZtuKyqvnCUM" width="560" height="315"> </iframe>
 
-Below are the P5.JS code: (整合到一起）
+Below are the P5.JS code: 
 
-![Alt text](../assets/week-06/screenshot1.png) 
-
-![Alt text](../assets/week-06/Screenshot2.png) 
-
-![Alt text](../assets/week-06/Screenshot3.png) 
-
-![Alt text](../assets/week-06/Screenshot4.png) 
+![Alt text](../assets/week-06/code.png) 
 
 ## 1. Data Exploration 
 

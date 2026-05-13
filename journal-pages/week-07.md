@@ -9,8 +9,6 @@ layout: default
 ## Introduction
 This learning log documents my progress for Week 7 of the Data-Driven Visualization project course. The second phase of this course focuses on data-driven visualization projects, where I am required to continue documenting my work on my GitHub Pages website. This includes recording experimental processes, technical learning, concept development, and participating in peer review and exchange activities.
 
-### data table:
-
 ## Concept Sketch 
 ### Activity Description
 In this concept sketching session, I was tasked with further developing my concept sketches using drawings and annotations to think through my project. I displayed my sketches on my laptop screen and walked around the room, leaving sticky note comments on other students' work. For each sketch I viewed, I was required to leave at least one observation (what I noticed about the work) and one question (something I was curious about or uncertain about).
@@ -65,6 +63,27 @@ The second direction proposed was to make the visualization interactive, allowin
 
 The third suggestion was to add sound as a data dimension, where each food type produces a different tone or musical note. This would create an auditory layer to complement the visual and tactile elements. Low-calorie foods might produce higher pitches, while high-calorie foods produce lower tones. This direction offers an interesting way to make data more memorable and emotionally engaging, but it risks introducing complexity that distracts from the core tactile experience.
 Of these three directions, the second option — the interactive tactile experience — offers the most natural evolution for my project. It builds on my existing strength rather than abandoning it, and it deepens the viewer's connection to the data without requiring a complete overhaul of my concept.
+
+
+
+｜Food Item｜Typical Meal｜Category｜Calorie(kcal)|Energy 0-5|
+|None|Any|Empty|0|0|
+|bread|Breakfast|主食 (Carbs)|150|1.5|
+|eggs / egg,Breakfast,蛋白质 (Protein),150,1.5
+|milk,Breakfast,饮品 (Drink),150,1.0
+|nibbles (零食/小吃),Breakfast,零食 (Snack),250,1.0
+|fried rice,Lunch / Dinner,主食 (Carbs),450,3.0
+|steak nodolle(s),Lunch / Dinner,主食+肉 (Carbs+Meat),650,4.0
+|pie,Lunch,烘焙主食 (Carbs),400,2.5
+|cheese pasta,Lunch,主食 (Carbs),500,3.0
+|chocolate milk,Lunch,饮品 (Drink),250,1.5
+|rice,Dinner,主食 (Carbs),200,1.5
+|steak dish,Dinner,蛋白质 (Protein),450,3.0
+|steam chicken,Dinner,蛋白质 (Protein),250,2.5
+|chicken soup,Dinner,汤类 (Soup),150,1.5
+|rest fried shredded potatoes,Dinner,蔬菜/主食 (Veg/Carbs),200,1.5
+|Boiled green vegetable,Dinner,蔬菜 (Vegetable),50,0.5
+|Boiled broccoli,Dinner,蔬菜 (Vegetable),50,0.5
 
 ## Images & Media
 

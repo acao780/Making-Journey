@@ -66,24 +66,27 @@ Of these three directions, the second option — the interactive tactile experie
 
 
 
-｜Food Item｜Typical Meal｜Category｜Calorie(kcal)|Energy 0-5|
-|None|Any|Empty|0|0|
-|bread|Breakfast|主食 (Carbs)|150|1.5|
-|eggs / egg,Breakfast,蛋白质 (Protein),150,1.5
-|milk,Breakfast,饮品 (Drink),150,1.0
-|nibbles (零食/小吃),Breakfast,零食 (Snack),250,1.0
-|fried rice,Lunch / Dinner,主食 (Carbs),450,3.0
-|steak nodolle(s),Lunch / Dinner,主食+肉 (Carbs+Meat),650,4.0
-|pie,Lunch,烘焙主食 (Carbs),400,2.5
-|cheese pasta,Lunch,主食 (Carbs),500,3.0
-|chocolate milk,Lunch,饮品 (Drink),250,1.5
-|rice,Dinner,主食 (Carbs),200,1.5
-|steak dish,Dinner,蛋白质 (Protein),450,3.0
-|steam chicken,Dinner,蛋白质 (Protein),250,2.5
-|chicken soup,Dinner,汤类 (Soup),150,1.5
-|rest fried shredded potatoes,Dinner,蔬菜/主食 (Veg/Carbs),200,1.5
-|Boiled green vegetable,Dinner,蔬菜 (Vegetable),50,0.5
-|Boiled broccoli,Dinner,蔬菜 (Vegetable),50,0.5
+### 单个食物卡路里与能量参考表
+
+| 食物名称 (Food Item) | 常用餐次 | 食物类型 | 预估卡路里 (kcal) | 能量贡献值 (0-5) |
+| :--- | :--- | :--- | :--- | :--- |
+| **None** | Any | Empty | 0 | 0 |
+| **bread** | Breakfast | Carbs | 150 | 1.5 |
+| **eggs / egg** | Breakfast | Protein | 150 | 1.5 |
+| **milk** | Breakfast | Drink | 150 | 1.0 |
+| **nibbles** | Breakfast | Snack | 250 | 1.0 |
+| **fried rice** | L/D | Carbs | 450 | 3.0 |
+| **steak nodolle(s)** | L/D | Carbs+Meat | 650 | 4.0 |
+| **pie** | Lunch | Carbs | 400 | 2.5 |
+| **cheese pasta** | Lunch | Carbs | 500 | 3.0 |
+| **chocolate milk** | Lunch | Drink | 250 | 1.5 |
+| **rice** | Dinner | Carbs | 200 | 1.5 |
+| **steak dish** | Dinner | Protein | 450 | 3.0 |
+| **steam chicken** | Dinner | Protein | 250 | 2.5 |
+| **chicken soup** | Dinner | Soup | 150 | 1.5 |
+| **shredded potatoes**| Dinner | Veg/Carbs | 200 | 1.5 |
+| **Boiled green vegetable**| Dinner | Vegetable | 50 | 0.5 |
+| **Boiled broccoli** | Dinner | Vegetable | 50 | 0.5 |
 
 ## Images & Media
 

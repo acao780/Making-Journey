@@ -52,7 +52,7 @@ During the creation sprint in class, I used sticky notes to directly sketch and 
 By physically stacking sticky notes, I could show different calorie levels — thin stack for low calories, thick stack for high calories. This gave immediate, tangible feedback on whether my concept would work.
 ![Alt text](../assets/week-07/note.jpg)
 
-After class, I continued working on my project during my free time. I used Adobe Illustrator to draw proper laser-cut design files, continuing to optimize my design. I transformed the results from my sticky note testing into数字化 (digital) design files, preparing for the next phase of actual production.
+After class, I continued working on my project during my free time. I used Adobe Illustrator to draw proper laser-cut design files, continuing to optimize my design. I transformed the results from my sticky note testing into digital design files, preparing for the next phase of actual production.
 These prototypes represent my journey from conceptual ideas to working models, documenting each step of experimentation along the way.
 
 ![Alt text](../assets/week-07/note_1.png)

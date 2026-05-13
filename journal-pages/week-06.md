@@ -34,29 +34,67 @@ Because of these findings, I want to shift the focus of my project. It is moving
 
 ![Alt text](../assets/week-05/week5_image.jpg)
 
-The data shows the food and dairy intakes of breakfast, lunch and dinner, began on 16th of April. 
+The data shows the food and dairy intakes of breakfast, lunch and dinner, began on 16th of April and end on 9th of June. 
 
-| Data | Breakfast | Lunch | Dinner |
-|-----|------|-------------------|------|
-| 04/16 | NONE | Fried Rice |------|
-| 04/17 | Eggs + Nibbles | Steak Noddle |------|
-| 04/18 | NONE | Pie + Chocolate |------|
-| 04/19 | Bread + Milk | Cheese Paste + Chocolate |------|
-| 04/20 | Bread + Milk | NONE |------|
-| 04/21 | Bread + Egg | Pie |------|
-| 04/22 | Egg + Nibbles + Bread| NONE |------|
-| 04/23 |------| NONE |------|
-| 04/24 | Bread + Nibbles | NONE |------|
-| 04/25 |------| Morning joke from roommate |------|
-| 04/26 |------| Funny post on social media |------|
-| 04/27 |------| Classmate's comment funny |------|
-| 04/28 |------| Funny picture |------|
-| 04/29 |------| Friend's story about their day |------|
-| 04/30 |------| Party with friends - lots of laughing |------|
-| 05/01 |------| Brunch with friends - funny conversations |------|
-| 05/02 |------| Shopping - funny sign I saw |------|
-| 05/03 |------| Comedy show on TV |------|
-| 05/04 |------| Funny video from friend |------|
+### 饮食与能量状态记录表 (04/16 - 06/09)
+
+| 日期 (Date) | 状态 (Status) | 早餐 (Breakfast) | 午餐 (Lunch) | 晚餐 (Dinner) | 卡路里 (kcal) | 能量水平 (Energy 1-10) |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **04/16** | Holiday | None | Fried rice | chicken soup, rice + steak dish | 1400 | 5 |
+| **04/17** | Holiday | eggs + nibbles | steak nodolle | steam chicken, rice, Boiled green vegetable | 2100 | 8 |
+| **04/18** | Holiday | None | pie + chocolate milk | Boiled broccoli + steak dish + rice | 1600 | 6 |
+| **04/19** | Holiday | bread + milk | cheese pasta + chocolate milk | fried rice | 2200 | 9 |
+| **04/20** | School | eggs + milk | None | steak nodolles | 1100 | 3 |
+| **04/21** | School | bread + egg | pie | chicken soup + rice + vegetable + rest fried shredded potatoes | 1900 | 7 |
+| **04/22** | School | bread + nibbles + egg| None | Fried rice | 1200 | 4 |
+| **04/23** | School | None | None | steak nodolles | 800 | 2 |
+| **04/24** | School | bread + nibbes | None | None | 500 | 1 |
+| **04/25** | Holiday | None | Fried rice | steak dish + rice + vegetable | 1300 | 5 |
+| **04/26** | Holiday | None | cheese pasta + milk | steam chicken, rice | 1450 | 6 |
+| **04/27** | School | eggs + milk | None | fried rice | 1050 | 4 |
+| **04/28** | School | bread + egg | None | chicken soup + rice + broccoli | 1100 | 4 |
+| **04/29** | School | bread + nibbles | pie | steak nodolles | 1750 | 7 |
+| **04/30** | School | eggs + milk | None | steam chicken, rice, Boiled green vegetable | 1200 | 4 |
+| **05/01** | School | bread + milk | None | Fried rice + eggs | 1150 | 4 |
+| **05/02** | Holiday | None | pie + chocolate milk | Boiled broccoli + steak dish + rice | 1600 | 6 |
+| **05/03** | Holiday | bread + nibbles | Fried rice | chicken soup, rice + vegetable | 1800 | 8 |
+| **05/04** | School | eggs + egg | None | steak nodolles | 1000 | 3 |
+| **05/05** | School | bread + milk | None | fried rice + steam chicken | 1250 | 4 |
+| **05/06** | School | None | cheese pasta | steak dish + rice | 1400 | 5 |
+| **05/07** | School | bread + nibbles + egg| None | chicken soup + rice + shredded potatoes| 1350 | 5 |
+| **05/08** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
+| **05/09** | Holiday | None | Fried rice | steam chicken, rice, Boiled green vegetable | 1350 | 6 |
+| **05/10** | Holiday | None | pie + chocolate milk | steak dish + rice | 1500 | 6 |
+| **05/11** | School | bread + milk | None | Fried rice | 1000 | 3 |
+| **05/12** | School | bread + egg | None | chicken soup, rice + vegetable | 1150 | 4 |
+| **05/13** | School | eggs + nibbles | pie | steak nodolles | 1850 | 8 |
+| **05/14** | School | bread + milk | None | Boiled broccoli + steak dish + rice | 1250 | 4 |
+| **05/15** | School | bread + egg | None | fried rice | 1100 | 4 |
+| **05/16** | Holiday | None | cheese pasta + milk | chicken soup, rice + steak dish | 1700 | 7 |
+| **05/17** | Holiday | None | Fried rice | steam chicken, rice, Boiled green vegetable | 1350 | 5 |
+| **05/18** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
+| **05/19** | School | bread + nibbles | None | chicken soup + rice + shredded potatoes| 1200 | 4 |
+| **05/20** | School | None | pie | Fried rice | 1300 | 5 |
+| **05/21** | School | bread + egg | None | steam chicken, rice, vegetable | 1150 | 4 |
+| **05/22** | School | eggs + nibbles | None | steak nodolles | 1050 | 3 |
+| **05/23** | Holiday | None | cheese pasta | Boiled broccoli + steak dish + rice | 1450 | 6 |
+| **05/24** | Holiday | None | pie + chocolate milk | fried rice | 1300 | 5 |
+| **05/25** | School | bread + milk | None | chicken soup, rice + vegetable | 1100 | 4 |
+| **05/26** | School | bread + nibbles + egg| None | steak nodolles | 1250 | 4 |
+| **05/27** | School | eggs + milk | cheese pasta | steam chicken, rice | 1900 | 8 |
+| **05/28** | School | None | None | Fried rice | 850 | 2 |
+| **05/29** | School | bread + egg | None | chicken soup + rice + steak dish | 1350 | 5 |
+| **05/30** | Holiday | None | Fried rice | Boiled broccoli + steak dish + rice | 1500 | 6 |
+| **05/31** | Holiday | bread + milk | pie + chocolate milk | steam chicken, rice | 1950 | 8 |
+| **06/01** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
+| **06/02** | School | bread + nibbles | None | Fried rice | 1000 | 3 |
+| **06/03** | School | bread + egg | pie | chicken soup, rice + vegetable | 1800 | 7 |
+| **06/04** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
+| **06/05** | School | bread + nibbles | None | steam chicken, rice, Boiled green vegetable | 1200 | 4 |
+| **06/06** | Holiday | None | cheese pasta + milk | chicken soup + rice + shredded potatoes| 1650 | 7 |
+| **06/07** | Holiday | None | Fried rice | steak dish + rice + vegetable | 1400 | 6 |
+| **06/08** | School | bread + egg | None | steak nodolles | 1150 | 4 |
+| **06/09** | School | eggs + milk | None | Fried rice | 1050 | 3 |
 
 For the next stage of my project, I need to calculate my daily calorie intake through further research and problem-solving. I am currently exploring two ways to get this nutritional data: using a nutrition API like USDA FoodData Central or Edamam, or querying Google Gemini for estimated values. My current dataset, which includes the date, meal type, and food items, will serve as the initial foundation, but I plan to add the caloric content after completing this research.
 

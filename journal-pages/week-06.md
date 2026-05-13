@@ -41,65 +41,65 @@ As I review my current spreadsheet, I have realized some significant limitations
 Because of these limitations, my project direction has shifted. Instead of a purely digital visualization in p5.js, I want to take a hybrid narrative approach that combines digital work with handmade visual data. I need to do more research, not just on my own records, but also online to find APIs and data that relate to the message I want to convey. To address these gaps and create a stronger foundation for my project, I have decided to redo my data collection process.
 The data shows the food and dairy intakes of breakfast, lunch and dinner, began on 16th of April and end on 9th of June. 
 
-### 饮食与能量状态记录表 (04/16 - 06/09)
+### Diet and Calorie Record (April 16 - June 9)
 
-| 日期 (Date) | 状态 (Status) | 早餐 (Breakfast) | 午餐 (Lunch) | 晚餐 (Dinner) | 卡路里 (kcal) | 能量水平 (Energy 1-10) |
+| Date | state | Breakfast| Lunch | Dinner | Total calories | Energy Levels (1-10) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **04/16** | Holiday | None | Fried rice | chicken soup, rice + steak dish | 1400 | 5 |
-| **04/17** | Holiday | eggs + nibbles | steak nodolle | steam chicken, rice, Boiled green vegetable | 2100 | 8 |
-| **04/18** | Holiday | None | pie + chocolate milk | Boiled broccoli + steak dish + rice | 1600 | 6 |
-| **04/19** | Holiday | bread + milk | cheese pasta + chocolate milk | fried rice | 2200 | 9 |
-| **04/20** | School | eggs + milk | None | steak nodolles | 1100 | 3 |
-| **04/21** | School | bread + egg | pie | chicken soup + rice + vegetable + rest fried shredded potatoes | 1900 | 7 |
-| **04/22** | School | bread + nibbles + egg| None | Fried rice | 1200 | 4 |
-| **04/23** | School | None | None | steak nodolles | 800 | 2 |
-| **04/24** | School | bread + nibbes | None | None | 500 | 1 |
-| **04/25** | Holiday | None | Fried rice | steak dish + rice + vegetable | 1300 | 5 |
-| **04/26** | Holiday | None | cheese pasta + milk | steam chicken, rice | 1450 | 6 |
-| **04/27** | School | eggs + milk | None | fried rice | 1050 | 4 |
-| **04/28** | School | bread + egg | None | chicken soup + rice + broccoli | 1100 | 4 |
-| **04/29** | School | bread + nibbles | pie | steak nodolles | 1750 | 7 |
-| **04/30** | School | eggs + milk | None | steam chicken, rice, Boiled green vegetable | 1200 | 4 |
-| **05/01** | School | bread + milk | None | Fried rice + eggs | 1150 | 4 |
-| **05/02** | Holiday | None | pie + chocolate milk | Boiled broccoli + steak dish + rice | 1600 | 6 |
-| **05/03** | Holiday | bread + nibbles | Fried rice | chicken soup, rice + vegetable | 1800 | 8 |
-| **05/04** | School | eggs + egg | None | steak nodolles | 1000 | 3 |
-| **05/05** | School | bread + milk | None | fried rice + steam chicken | 1250 | 4 |
-| **05/06** | School | None | cheese pasta | steak dish + rice | 1400 | 5 |
-| **05/07** | School | bread + nibbles + egg| None | chicken soup + rice + shredded potatoes| 1350 | 5 |
-| **05/08** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
-| **05/09** | Holiday | None | Fried rice | steam chicken, rice, Boiled green vegetable | 1350 | 6 |
-| **05/10** | Holiday | None | pie + chocolate milk | steak dish + rice | 1500 | 6 |
-| **05/11** | School | bread + milk | None | Fried rice | 1000 | 3 |
-| **05/12** | School | bread + egg | None | chicken soup, rice + vegetable | 1150 | 4 |
-| **05/13** | School | eggs + nibbles | pie | steak nodolles | 1850 | 8 |
-| **05/14** | School | bread + milk | None | Boiled broccoli + steak dish + rice | 1250 | 4 |
-| **05/15** | School | bread + egg | None | fried rice | 1100 | 4 |
-| **05/16** | Holiday | None | cheese pasta + milk | chicken soup, rice + steak dish | 1700 | 7 |
-| **05/17** | Holiday | None | Fried rice | steam chicken, rice, Boiled green vegetable | 1350 | 5 |
-| **05/18** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
-| **05/19** | School | bread + nibbles | None | chicken soup + rice + shredded potatoes| 1200 | 4 |
-| **05/20** | School | None | pie | Fried rice | 1300 | 5 |
-| **05/21** | School | bread + egg | None | steam chicken, rice, vegetable | 1150 | 4 |
-| **05/22** | School | eggs + nibbles | None | steak nodolles | 1050 | 3 |
-| **05/23** | Holiday | None | cheese pasta | Boiled broccoli + steak dish + rice | 1450 | 6 |
-| **05/24** | Holiday | None | pie + chocolate milk | fried rice | 1300 | 5 |
-| **05/25** | School | bread + milk | None | chicken soup, rice + vegetable | 1100 | 4 |
-| **05/26** | School | bread + nibbles + egg| None | steak nodolles | 1250 | 4 |
-| **05/27** | School | eggs + milk | cheese pasta | steam chicken, rice | 1900 | 8 |
-| **05/28** | School | None | None | Fried rice | 850 | 2 |
-| **05/29** | School | bread + egg | None | chicken soup + rice + steak dish | 1350 | 5 |
-| **05/30** | Holiday | None | Fried rice | Boiled broccoli + steak dish + rice | 1500 | 6 |
-| **05/31** | Holiday | bread + milk | pie + chocolate milk | steam chicken, rice | 1950 | 8 |
-| **06/01** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
-| **06/02** | School | bread + nibbles | None | Fried rice | 1000 | 3 |
-| **06/03** | School | bread + egg | pie | chicken soup, rice + vegetable | 1800 | 7 |
-| **06/04** | School | eggs + milk | None | steak nodolles | 1100 | 4 |
-| **06/05** | School | bread + nibbles | None | steam chicken, rice, Boiled green vegetable | 1200 | 4 |
-| **06/06** | Holiday | None | cheese pasta + milk | chicken soup + rice + shredded potatoes| 1650 | 7 |
-| **06/07** | Holiday | None | Fried rice | steak dish + rice + vegetable | 1400 | 6 |
-| **06/08** | School | bread + egg | None | steak nodolles | 1150 | 4 |
-| **06/09** | School | eggs + milk | None | Fried rice | 1050 | 3 |
+| **04/16** | Holiday | None | fried rice | chicken soup + rice + steak dish | 1250 | 5 |
+| **04/17** | Holiday | eggs + nibbles | steak nodolles | steam chicken + rice + Boiled green vegetable| 1550 | 7 |
+| **04/18** | Holiday | None | pie + chocolate milk | Boiled broccoli + steak dish + rice | 1350 | 6 |
+| **04/19** | Holiday | bread + milk | cheese pasta + chocolate milk | fried rice | 1500 | 7 |
+| **04/20** | School | eggs + milk | None | steak nodolles | 950 | 3 |
+| **04/21** | School | bread + egg | pie | chicken soup + rice + Boiled green vegetable + shredded potatoes| 1150 | 5 |
+| **04/22** | School | bread + nibbles + egg| None | fried rice | 1000 | 4 |
+| **04/23** | School | None | None | steak nodolles | 650 | 2 |
+| **04/24** | School | bread + nibbles | None | None | 400 | 1 |
+| **04/25** | Holiday | eggs + milk | fried rice | steak dish + rice + Boiled broccoli | 1400 | 6 |
+| **04/26** | Holiday | bread + egg + milk | cheese pasta | steam chicken + rice + chicken soup | 1400 | 7 |
+| **04/27** | School | bread + nibbles + egg| steak nodolles | fried rice | 1650 | 8 |
+| **04/28** | School | eggs + milk | pie + chocolate milk | chicken soup + rice + steak dish | 1700 | 8 |
+| **04/29** | School | bread + milk | cheese pasta | steak nodolles | 1450 | 7 |
+| **04/30** | School | bread + nibbles | fried rice | steam chicken + rice + Boiled green vegetable| 1350 | 6 |
+| **05/01** | School | eggs + milk | pie | fried rice + steam chicken | 1400 | 7 |
+| **05/02** | Holiday | bread + egg + milk | steak nodolles | Boiled broccoli + steak dish + rice | 1800 | 9 |
+| **05/03** | Holiday | bread + nibbles | cheese pasta + chocolate milk| chicken soup + rice + shredded potatoes | 1650 | 8 |
+| **05/04** | School | eggs + egg | fried rice | steak nodolles | 1400 | 7 |
+| **05/05** | School | bread + milk | pie | steam chicken + rice + Boiled green vegetable| 1200 | 6 |
+| **05/06** | School | eggs + milk | cheese pasta | steak dish + rice | 1450 | 7 |
+| **05/07** | School | bread + nibbles + egg| steak nodolles | chicken soup + rice + shredded potatoes | 1750 | 8 |
+| **05/08** | School | bread + milk | fried rice | steam chicken + rice + chicken soup | 1350 | 7 |
+| **05/09** | Holiday | eggs + nibbles | pie + chocolate milk | steak dish + rice + Boiled broccoli | 1750 | 8 |
+| **05/10** | Holiday | bread + egg + milk | cheese pasta | fried rice + steam chicken | 1650 | 8 |
+| **05/11** | School | bread + nibbles | steak nodolles | chicken soup + rice + Boiled green vegetable| 1450 | 7 |
+| **05/12** | School | eggs + milk | fried rice | steak dish + rice | 1400 | 7 |
+| **05/13** | School | bread + egg | pie | steak nodolles | 1350 | 7 |
+| **05/14** | School | None | cheese pasta + chocolate milk| steam chicken + rice + shredded potatoes | 1400 | 6 |
+| **05/15** | School | bread + nibbles | fried rice | chicken soup + rice + steak dish | 1600 | 8 |
+| **05/16** | Holiday | eggs + egg + milk | steak nodolles | Boiled broccoli + steak dish + rice | 1800 | 9 |
+| **05/17** | Holiday | bread + egg | pie + chocolate milk | steam chicken + rice + Boiled green vegetable| 1450 | 7 |
+| **05/18** | School | eggs + milk | cheese pasta | steak nodolles | 1450 | 7 |
+| **05/19** | School | bread + nibbles | fried rice | chicken soup + rice + shredded potatoes | 1400 | 7 |
+| **05/20** | School | bread + egg + milk | pie | fried rice + steam chicken | 1550 | 8 |
+| **05/21** | School | eggs + nibbles | steak nodolles | steam chicken + rice + Boiled green vegetable| 1550 | 8 |
+| **05/22** | School | bread + milk | cheese pasta | steak dish + rice | 1450 | 7 |
+| **05/23** | Holiday | bread + egg | fried rice | Boiled broccoli + steak dish + rice | 1550 | 8 |
+| **05/24** | Holiday | eggs + milk | pie + chocolate milk | chicken soup + rice + steam chicken | 1450 | 7 |
+| **05/25** | School | bread + nibbles | cheese pasta | steak nodolles | 1550 | 8 |
+| **05/26** | School | bread + egg + milk | fried rice | steam chicken + rice + shredded potatoes | 1550 | 8 |
+| **05/27** | School | eggs + milk | pie | chicken soup + rice + steak dish | 1400 | 7 |
+| **05/28** | School | bread + nibbles | steak nodolles | fried rice + Boiled green vegetable | 1550 | 8 |
+| **05/29** | School | bread + egg | cheese pasta + chocolate milk| steam chicken + rice + Boiled broccoli | 1500 | 8 |
+| **05/30** | Holiday | eggs + nibbles | fried rice | Boiled broccoli + steak dish + rice | 1600 | 8 |
+| **05/31** | Holiday | bread + milk | steak nodolles | steam chicken + rice + chicken soup | 1500 | 8 |
+| **06/01** | School | bread + egg + milk | pie | steak dish + rice | 1500 | 8 |
+| **06/02** | School | eggs + milk | cheese pasta | fried rice + shredded potatoes | 1450 | 7 |
+| **06/03** | School | bread + nibbles | fried rice | chicken soup + rice + Boiled green vegetable| 1250 | 6 |
+| **06/04** | School | bread + egg | steak nodolles | steam chicken + rice | 1350 | 7 |
+| **06/05** | School | eggs + milk | pie + chocolate milk | steak dish + rice + Boiled broccoli | 1650 | 8 |
+| **06/06** | Holiday | bread + nibbles | cheese pasta | chicken soup + rice + shredded potatoes | 1500 | 8 |
+| **06/07** | Holiday | bread + egg + milk | fried rice | steak dish + rice + Boiled green vegetable| 1600 | 8 |
+| **06/08** | School | eggs + milk | steak nodolles | steam chicken + rice + chicken soup | 1600 | 8 |
+| **06/09** | School | bread + nibbles | pie | fried rice + shredded potatoes | 1400 | 7 |
 
 ## 2. Visual Research and Precedent Study （增加一个research, 好像有一个照片是一面墙体，这个跟你week 8要发展的很像）
 

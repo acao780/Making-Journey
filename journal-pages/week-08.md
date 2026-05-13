@@ -8,6 +8,8 @@ layout: default
 
 ## Documentation 
 
+
+I did not go to the class this week since im not avaible, so I will took a video to explore my idea within 5 mins. 
 我发现我需要裁剪的lazer cut的东西太多了。所以要换设计，但是依然延续lazer cut
 
 ## Images & Media

@@ -65,28 +65,27 @@ The third suggestion was to add sound as a data dimension, where each food type 
 Of these three directions, the second option — the interactive tactile experience — offers the most natural evolution for my project. It builds on my existing strength rather than abandoning it, and it deepens the viewer's connection to the data without requiring a complete overhaul of my concept.
 
 
+### Solid Food Plate Manufacturing Checklist (Mapping Rule: 50 kcal = 1 mm thickness)
 
-### 单个食物卡路里与能量参考表
-
-| 食物名称 (Food Item) | 常用餐次 | 食物类型 | 预估卡路里 (kcal) | 能量贡献值 (0-5) |
+| Food Item | Food types | Calories (kcal) | Thickness of physical board | Energy contribution value (0-5) |
 | :--- | :--- | :--- | :--- | :--- |
-| **None** | Any | Empty | 0 | 0 |
-| **bread** | Breakfast | Carbs | 150 | 1.5 |
-| **eggs / egg** | Breakfast | Protein | 150 | 1.5 |
-| **milk** | Breakfast | Drink | 150 | 1.0 |
-| **nibbles** | Breakfast | Snack | 250 | 1.0 |
-| **fried rice** | L/D | Carbs | 450 | 3.0 |
-| **steak nodolle(s)** | L/D | Carbs+Meat | 650 | 4.0 |
-| **pie** | Lunch | Carbs | 400 | 2.5 |
-| **cheese pasta** | Lunch | Carbs | 500 | 3.0 |
-| **chocolate milk** | Lunch | Drink | 250 | 1.5 |
-| **rice** | Dinner | Carbs | 200 | 1.5 |
-| **steak dish** | Dinner | Protein | 450 | 3.0 |
-| **steam chicken** | Dinner | Protein | 250 | 2.5 |
-| **chicken soup** | Dinner | Soup | 150 | 1.5 |
-| **shredded potatoes**| Dinner | Veg/Carbs | 200 | 1.5 |
-| **Boiled green vegetable**| Dinner | Vegetable | 50 | 0.5 |
-| **Boiled broccoli** | Dinner | Vegetable | 50 | 0.5 |
+| **None (空缺)** | Empty | 0 | **0 mm ** | 0 |
+| **bread** | Carbs | 150 | **3 mm** | 1.5 |
+| **eggs / egg** | Protein | 150 | **3 mm** | 1.5 |
+| **milk** | Drink | 150 | **3 mm** | 1.0 |
+| **nibbles** | Snack | 250 | **5 mm** | 1.0 |
+| **fried rice** | Carbs | 450 | **9 mm** | 3.0 |
+| **steak nodolles** | Carbs+Meat | 650 | **13 mm** | 4.0 |
+| **pie** | Carbs | 400 | **8 mm** | 2.5 |
+| **cheese pasta** | Carbs | 500 | **10 mm** | 3.0 |
+| **chocolate milk** | Drink | 250 | **5 mm** | 1.5 |
+| **rice** | Carbs | 200 | **4 mm** | 1.5 |
+| **steak dish** | Protein | 450 | **9 mm** | 3.0 |
+| **steam chicken** | Protein | 250 | **5 mm** | 2.5 |
+| **chicken soup** | Soup | 150 | **3 mm** | 1.5 |
+| **shredded potatoes**| Veg/Carbs | 200 | **4 mm** | 1.5 |
+| **Boiled green vegetable**| Vegetable | 50 | **1 mm** | 0.5 |
+| **Boiled broccoli** | Vegetable | 50 | **1 mm** | 0.5 |
 
 ## Images & Media
 

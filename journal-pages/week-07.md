@@ -106,6 +106,8 @@ visual research/references
 two or three specific questions you want feedback on
 Come to class ready to present and to receive feedback from peers and teachers.
 
+（following up the video)
+
 
 ## Images & Media
 

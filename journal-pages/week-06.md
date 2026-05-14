@@ -159,6 +159,17 @@ Finally, I will book time at the laser cut workshop. I need to practice on cheap
 ## Independent Study
 
 ### 1. Consultation Reflection
+
+During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of losing weight last year and how this motivated me to take better care of my body.
+
+The instructor asked several helpful questions. First, he asked who my audience was. This made me think about whether my project was for myself or for others. Second, he asked how I would get accurate nutritional data. I admitted that I was not sure yet. Third, he suggested that I look at established data visualization projects for reference.
+
+This discussion changed my direction in a small but important way. Before, I thought only about collecting my own data. After the consultation, I realized that I needed to make the data meaningful to a wider audience. I started to think about how my personal story could connect to larger health issues.
+
+I will take two actions based on this consultation. First, I will add a column for the "reason" behind each meal. This makes the data more than just numbers. Second, I will research nutrition APIs to get accurate calorie information. 同时，我需要做更过关于吃饭为什么重要的research，并找一些数据等
+
+（second one)
+
 During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of having a medicine cause weight losing, having an irregular eating habits and how this motivated me to take better care of my body through mindful eating.
 
 The instructor asked several helpful questions that shifted my thinking. First, he asked who my target audience was — myself or others? This made me reconsider whether my project was purely personal or should share a broader message. Second, he asked how I would obtain accurate nutritional data. I admitted that I was still unsure about reliable sources. Third, he suggested that I research established data visualization projects for reference and inspiration.

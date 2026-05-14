@@ -159,25 +159,18 @@ Finally, I will book time at the laser cut workshop. I need to practice on cheap
 ## Independent Study
 
 ### 1. Consultation Reflection  (需要修改）
-During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of losing weight last year and how this motivated me to take better care of my body.
+During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of having a medicine cause weight losing, having an irregular eating habits and how this motivated me to take better care of my body through mindful eating.
 
-The instructor asked several helpful questions. First, he asked who my audience was. This made me think about whether my project was for myself or for others. Second, he asked how I would get accurate nutritional data. I admitted that I was not sure yet. Third, he suggested that I look at established data visualization projects for reference.
+The instructor asked several helpful questions that shifted my thinking. First, he asked who my target audience was — myself or others? This made me reconsider whether my project was purely personal or should share a broader message. Second, he asked how I would obtain accurate nutritional data. I admitted that I was still unsure about reliable sources. Third, he suggested that I research established data visualization projects for reference and inspiration.
 
-This discussion changed my direction in a small but important way. Before, I thought only about collecting my own data. After the consultation, I realized that I needed to make the data meaningful to a wider audience. I started to think about how my personal story could connect to larger health issues.
+This discussion changed my direction in a small but important way. Before, I focused only on collecting my own data. After the consultation, I realized I needed to make the data meaningful to a wider audience. I began thinking about how my personal story could connect to larger conversations about health and eating habits.
 
-I will take two actions based on this consultation. First, I will add a column for the "reason" behind each meal. This makes the data more than just numbers. Second, I will research nutrition APIs to get accurate calorie information. 同时，我需要做更过关于吃饭为什么重要的research，并找一些数据等
+*I will take two actions based on this consultation. First, I will add a column for the "emotional reason" behind each meal — why am I eating? Am I hungry, bored, stressed, or celebrating? This makes the data richer than just numbers. Second, I will research nutrition APIs (such as the USDA FoodData Central or Nutritionix) to obtain accurate calorie information.** (这个需要增加一些research）
+
+**[Insert Photo: Photo 1 — Consultation notes or mind map showing feedback themes]**
 
 ### 2. Technical Skill Building
 
-Based on my skills roadmap, my top priority is to learn p5.js for digital visualization.
-利用课堂上制定的技能路线图，解决您的首要技术差距。记录您的学习过程，包括文字和图片证据，并反思您尝试了什么、学到了什么，以及这些如何帮助您推进项目开发（例如，通过提升技能以进行下一步，或者通过发现某些环节存在问题，您需要调整方向）。
-Based on my skills roadmap, my top priority is to learn laser cut design. I have used laser cut before, but only for simple projects. I need to learn how to design layered data visualizations.
-
-I drew several circles to represent my data layers. Each circle has a different size to show how much I ate. I cut these out by hand first to test the idea.
-
-What I learned is that paper prototyping works well. I can see the design quickly without wasting materials. I also learned that the stacking idea is visually interesting. When I put the layers together, the pattern becomes clear.
-
-This helps my project because now I know the laser cut direction works. I will continue iterating with paper cutouts. I will bring these to class for feedback.
 
 ### 3. Initial Concept Sketch
 Based on my paper sketches from class, I created a more detailed concept. The first layer is the physical laser-cut piece. Each day is a circular layer. The size of the circle shows how much I ate. Missing meals create empty spaces. When stacked together, these layers show my eating patterns over time.

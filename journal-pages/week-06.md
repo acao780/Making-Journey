@@ -158,14 +158,14 @@ Finally, I will book time at the laser cut workshop. I need to practice on cheap
 
 ## Independent Study
 
-### 1. Consultation Reflection  (需要修改）
+### 1. Consultation Reflection
 During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of having a medicine cause weight losing, having an irregular eating habits and how this motivated me to take better care of my body through mindful eating.
 
 The instructor asked several helpful questions that shifted my thinking. First, he asked who my target audience was — myself or others? This made me reconsider whether my project was purely personal or should share a broader message. Second, he asked how I would obtain accurate nutritional data. I admitted that I was still unsure about reliable sources. Third, he suggested that I research established data visualization projects for reference and inspiration.
 
 This discussion changed my direction in a small but important way. Before, I focused only on collecting my own data. After the consultation, I realized I needed to make the data meaningful to a wider audience. I began thinking about how my personal story could connect to larger conversations about health and eating habits.
 
-*I will take two actions based on this consultation. First, I will add a column for the "emotional reason" behind each meal — why am I eating? Am I hungry, bored, stressed, or celebrating? This makes the data richer than just numbers. Second, I will research nutrition APIs (such as the USDA FoodData Central or Nutritionix) to obtain accurate calorie information.** (这个需要增加一些research）
+**I will take two actions based on this consultation. First, I will add a column for the "emotional reason" behind each meal — why am I eating? Am I hungry, bored, stressed, or celebrating? This makes the data richer than just numbers. Second, I will research nutrition APIs (such as the USDA FoodData Central or Nutritionix) to obtain accurate calorie information.** (这个需要增加一些research）
 
 **[Insert Photo: Photo 1 — Consultation notes or mind map showing feedback themes]**
 

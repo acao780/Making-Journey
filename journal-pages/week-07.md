@@ -106,8 +106,7 @@ visual research/references
 two or three specific questions you want feedback on
 Come to class ready to present and to receive feedback from peers and teachers.
 
-（following up the video)
-
+按照视频的呈现，去写这个过程 ：）
 
 ## Images & Media
 

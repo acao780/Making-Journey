@@ -111,8 +111,8 @@ I designed the lazer cut board using lazer cut, and here is my process, firstly,
 
 ![Alt text](../assets/week-07/week7_lazer1.png)
 ![Alt text](../assets/week-07/week7_lazer2.png)
-
-
+![Alt text](../assets/week-07/week7_lazer3.png)
+![Alt text](../assets/week-07/week7_lazer4.png)
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*

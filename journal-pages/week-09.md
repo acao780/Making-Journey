@@ -19,6 +19,8 @@ It is important to complete all in-class activities (this is still the case if y
 
 - you testing idea image. 
 
+![Alt text](../assets/week-09/week9_version4.jpg)
+![Alt text](../assets/week-09/week9_version5.jpg)
 
 ## Images & Media
 

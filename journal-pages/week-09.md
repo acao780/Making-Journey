@@ -12,6 +12,10 @@ layout: default
 
 It is important to complete all in-class activities (this is still the case if you are absent for a class). Include documentation of these activities in your journal entries, along with the independent study tasks.
 
+
+![Alt text](../assets/week-09/week9_inclass.png)
+
+
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*

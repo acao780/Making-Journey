@@ -107,6 +107,9 @@ two or three specific questions you want feedback on
 Come to class ready to present and to receive feedback from peers and teachers.
 
 按照视频的呈现，去写这个过程 ：）
+I designed the lazer cut board using lazer cut, and here is my process, firstly, i used ai to design my pattern
+
+
 
 ## Images & Media
 

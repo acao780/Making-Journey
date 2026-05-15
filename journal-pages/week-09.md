@@ -26,6 +26,8 @@ week 9 (feedback)
 线 - （长短表示时间， 挂绳子到板子上）（
 - 从data string 变成 挂着的方式
 
+（同时看一下vibe coding 一个精美的便利贴装置，可以用的
+
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*

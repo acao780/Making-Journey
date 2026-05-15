@@ -22,6 +22,10 @@ It is important to complete all in-class activities (this is still the case if y
 ![Alt text](../assets/week-09/week9_version4.jpg)
 ![Alt text](../assets/week-09/week9_version5.jpg)
 
+week 9 (feedback)
+线 - （长短表示时间， 挂绳子到板子上）（
+- 从data string 变成 挂着的方式
+
 ## Images & Media
 
 *Use the format below to embed images from your assets folder:*

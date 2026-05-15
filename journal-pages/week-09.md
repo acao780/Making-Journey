@@ -15,6 +15,10 @@ It is important to complete all in-class activities (this is still the case if y
 
 ![Alt text](../assets/week-09/week9_inclass.png)
 
+- notebook vidoe
+
+- you testing idea image. 
+
 
 ## Images & Media
 

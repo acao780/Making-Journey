@@ -109,6 +109,8 @@ Come to class ready to present and to receive feedback from peers and teachers.
 按照视频的呈现，去写这个过程 ：）
 I designed the lazer cut board using lazer cut, and here is my process, firstly, i used ai to design my pattern
 
+![Alt text](../assets/week-07/week7_lazer1.png)
+![Alt text](../assets/week-07/week7_lazer2.png)
 
 
 ## Images & Media

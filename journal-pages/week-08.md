@@ -14,6 +14,10 @@ I did not go to the class this week since im not avaible, so I will took a video
 
 ## Images & Media
 
+after the presentation, i rethink about how to develop my project, due to the presentaion, i get some of the feedback. 
+`![Alt text](../assets/week-01/your-image.jpg)`
+
+
 *Use the format below to embed images from your assets folder:*
 
 `![Alt text](../assets/week-01/your-image.jpg)`

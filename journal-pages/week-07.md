@@ -98,6 +98,7 @@ Continue developing your project, building directly on the outcomes of today's M
 
 2. Progress Report
 
+## prepare a short presentation (5 slides)
 Prepare a short, 5-minute progress report to share with a small group in next week's class. This should take the form of a simple slideshow (around 5 slides), covering:
 
 where your project currently stands

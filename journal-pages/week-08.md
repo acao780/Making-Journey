@@ -9,14 +9,18 @@ layout: default
 ## Documentation 
 
 
-I did not go to the class this week since im not avaible, so I will took a video to explore my idea within 5 mins. 
-我发现我需要裁剪的lazer cut的东西太多了。所以要换设计，但是依然延续lazer cut
+## class work
+### 1
+### 2
 
-## Images & Media
+
+on this presentation, i get a feedback on: if i am using this to present my work, i will lazer cut a lot o
+我发现我需要裁剪的lazer cut的东西太多了。所以要换设计，但是依然延续lazer cut
 
 ## presenting: 
 ![Alt text](../assets/week-08/presentation.jpg)]
 
+# Individual work:
 ## after the presentation, i rethink about how to develop my project, due to the presentaion, i get some of the feedback. 
 ![Alt text](../assets/week-08/week8_1.jpg)]
 ![Alt text](../assets/week-08/week8_2.jpg)]

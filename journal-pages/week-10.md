@@ -10,7 +10,12 @@ layout: default
 
 
 ## presentation (on padlet and you have role)
-image of your work
+image of your work 
+- your padlet image, your working project and also your presentation.
+![Alt text](../assets/week-10/week10.png)
+![Alt text](../assets/week-10/week10.png)
+![Alt text](../assets/week-10/week10.png)
+
 
 after showing this image to the teacher.
 ![Alt text](../assets/week-10/week10.png)

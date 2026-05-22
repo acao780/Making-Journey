@@ -26,6 +26,8 @@ week 9 (feedback)
 I shared my idea... while i talkiing to instrutor, who told me that my planning could not show the data clear, since i want to disorder the timeline to show the colour line level, this base on the intake energy level. since i had been told the timeline should not be changed, therefore the string section and the stomach that showing the health level are not going to be a good idea. she told me to shows the time by using the length of the string, the short string represent the date and the colour of the string show the intake level. I realised that it was a great idea, i will try to find out more clear way to show my idea. 
 线 - （长短表示时间， 挂绳子到板子上）（
 - 从data string 变成 挂着的方式
+![Alt text](../assets/week-09/week9_design.jpg)
+(code 和单独的视频）
 
 （同时看一下vibe coding 一个精美的便利贴装置，可以用的webisite
 

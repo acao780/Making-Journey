@@ -44,10 +44,10 @@ people can track their data and analyse themselves and also others.
 6. 灵感来源在哪里需要提到
 
 回家后，我开始重新设计，这是我设计的：
-![Alt text](../assets/week-10/week1_6.png)
-![Alt text](../assets/week-10/week1_7.png)
-![Alt text](../assets/week-10/week1_8.png)
-![Alt text](../assets/week-10/week1_9.png)
+![Alt text](../assets/week-10/week10_6.png)
+![Alt text](../assets/week-10/week10_7.png)
+![Alt text](../assets/week-10/week10_8.png)
+![Alt text](../assets/week-10/week10_9.png)
 
 
 

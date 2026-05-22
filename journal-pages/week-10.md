@@ -13,6 +13,7 @@ layout: default
 image of your work
 
 after showing this image to the teacher.
+![Alt text](../assets/week-10/week10.png)
 
 
 ## action plan wrap-up

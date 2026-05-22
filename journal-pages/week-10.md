@@ -17,6 +17,7 @@ image of your work
 ![Alt text](../assets/week-10/week10_2.png)
 ![Alt text](../assets/week-10/week10_3.png)
 ![Alt text](../assets/week-10/week10_4.png)
+![Alt text](../assets/week-10/week10_5.png)
 
 
 after showing this image to the teacher.

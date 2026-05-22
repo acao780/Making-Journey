@@ -13,8 +13,10 @@ layout: default
 image of your work 
 - your padlet image, your working project and also your presentation.
 ![Alt text](../assets/week-10/week10_1.jpg)
-![Alt text](../assets/week-10/week10.png)
-![Alt text](../assets/week-10/week10.png)
+
+![Alt text](../assets/week-10/week10_2.png)
+![Alt text](../assets/week-10/week10_3.png)
+![Alt text](../assets/week-10/week10_4.png)
 
 
 after showing this image to the teacher.

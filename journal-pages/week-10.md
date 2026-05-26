@@ -32,8 +32,8 @@ for the community, people can joined and record there’s data. people can see o
 can taking care of other’s life, a sharing place where people can help each other to take caring each other. 
 people can track their data and analyse themselves and also others.
 
-![Alt text](../assets/week-10/week10_image.png)
-![Alt text](../assets/week-10/week10_image2.png)
+![Alt text](../assets/week-10/week10.png)
+
 
 （also describe your first version, 在这个图片里面，）
 
@@ -53,7 +53,7 @@ people can track their data and analyse themselves and also others.
 
 the next improve:
 ![Alt text](../assets/week-10/week10_image.png)
-
+![Alt text](../assets/week-10/week10_image2.png)
 
 
 

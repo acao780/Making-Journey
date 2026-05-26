@@ -49,6 +49,10 @@ people can track their data and analyse themselves and also others.
 ![Alt text](../assets/week-10/week10_8.png)
 ![Alt text](../assets/week-10/week10_9.png)
 
+the next improve:
+![Alt text](../assets/week-10/week10_image.png)
+
+
 
 
 ## action plan wrap-up

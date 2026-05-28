@@ -22,13 +22,13 @@ Question 2:  Should I simplify to focus on 6-9 key meal types since I will need 
 Question 3: For interactivity—should audiences be able to touch and rearrange the layers, or just observe?
 
 ### Peer Feedback & Collaborative Insights
-My classmate gave highly positive feedback on my concept. While discussing how to represent energy values through thickness to promote healthy eating, she proposed a fascinating perspective: creating a strict visual distinction between "healthy" and "unhealthy" food. This insight was incredibly inspiring and sparked a lot of deeper thinking for my next design iteration.
+My classmate gave highly positive feedback on my concept. While discussing how to represent energy values through thickness to promote healthy eating, she proposed a fascinating perspective: creating a strict visual distinction between "healthy" and "unhealthy" food. This insight was incredibly inspiring and sparked a lot of deeper thinking for my next design iteration. In the same time, I started concern about myworkload and how this unhealth and health food can presented, the representation of health and unhealth food will gain my workload and even changed my measurement area, since i just want to convey an idea to keep people in mind that having food is really important, do not miss them. 
 
 
 on this presentation, i get a feedback on: if i am using this to present my work, i will lazer cut a lot o
 我发现我需要裁剪的lazer cut的东西太多了。所以要换设计，但是依然延续lazer cut
 
-## presenting: 
+### Presenting: 
 ![Alt text](../assets/week-08/presentation.jpg)]
 
 # Individual work:

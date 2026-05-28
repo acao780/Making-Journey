@@ -15,8 +15,14 @@ To be honest, due to personal work commitments, I fell behind on some of the cla
 During this presentation, I shared my secondary research, which includes six different data-driven artists. Among them, the installation Noisy Factory by Hangjie Cai serves as my primary design direction. I selected his work because his use of laser-cutting to deconstruct and refine layers is incredibly sophisticated. Inspired by this, I realized I could visualize food data in a tangible, physical form. Since the laser-cut panels do not stick together, they can be repeatedly rearranged, which creates great potential for interactivity.
 
 Furthermore, I have already advanced this concept into a physical prototype. I used Adobe Illustrator to draft the initial blueprints and successfully fabricated the prototype using a laser cutter. Although I was originally supposed to present this in Week 8, I brought the physical model to our Week 9 sharing session.
-### 1
-### 2
+
+### Critical Questions Raised
+Question 1: Does this thickness represent the Calorie a good idea? How can I best represent "tickness"? Should I use color, texture, or form?
+Question 2:  Should I simplify to focus on 6-9 key meal types since I will need to cut a lot of the board. 
+Question 3: For interactivity—should audiences be able to touch and rearrange the layers, or just observe?
+
+### Peer Feedback & Collaborative Insights
+My classmate gave highly positive feedback on my concept. While discussing how to represent energy values through thickness to promote healthy eating, she proposed a fascinating perspective: creating a strict visual distinction between "healthy" and "unhealthy" food. This insight was incredibly inspiring and sparked a lot of deeper thinking for my next design iteration.
 
 
 on this presentation, i get a feedback on: if i am using this to present my work, i will lazer cut a lot o

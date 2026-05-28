@@ -18,11 +18,15 @@ Furthermore, I have already advanced this concept into a physical prototype. I u
 
 ### Critical Questions Raised
 Question 1: Does this thickness represent the Calorie a good idea? How can I best represent "tickness"? Should I use color, texture, or form?
+Feedback & Insights: "She strongly approved of the thickness concept but recommended shifting the materiality to achieve it more sustainably. Instead of heavy, wasteful wooden boards, she suggested using paper as the primary medium. Furthermore, she proposed a spatial installation approach: hanging these paper layers from the ceiling. Each hanging cluster could represent a single day's food intake data. To elevate the aesthetic value, I could either hand-draw or digitally print stylized food illustrations on the paper, turning the data visualization into an elegant, decorative hanging installation. This not only drastically reduces material waste but also shifts the project from a rigid object into a dynamic, lightweight spatial experience."
+
 Question 2:  Should I simplify to focus on 6-9 key meal types since I will need to cut a lot of the board. 
+Yes, it might cause i alot of design on illustrator and they will be a lot of food. but if you simplify into 6-9 types, the data could be really hard to collect, since you can not tell you just only eat 6-9 food. 
 Question 3: For interactivity—should audiences be able to touch and rearrange the layers, or just observe?
+i like the way to interacted with people, since if observed, you need to have a really clear idea and design, but for interation. people can join you....
 
 ### Peer Feedback & Collaborative Insights
-My classmate gave highly positive feedback on my concept. While discussing how to represent energy values through thickness to promote healthy eating, she proposed a fascinating perspective: creating a strict visual distinction between "healthy" and "unhealthy" food. This insight was incredibly inspiring and sparked a lot of deeper thinking for my next design iteration. In the same time, I started concern about myworkload and how this unhealth and health food can presented, the representation of health and unhealth food will gain my workload and even changed my measurement area, since i just want to convey an idea to keep people in mind that having food is really important, do not miss them. 
+My classmate gave highly positive feedback on my concept. While discussing how to represent energy values through thickness to promote healthy eating, she proposed a fascinating perspective: creating a strict visual distinction between "healthy" and "unhealthy" food. This insight was incredibly inspiring and sparked a lot of deeper thinking for my next design iteration.  At the same time, I started worry to about my workload and how this unhealth and health food can presented, the representation of health and unhealth food will expand the project scope and even alter my focus area, since i just want to convey an idea to raise awareness that having food is really important, do not miss them. 
 
 
 on this presentation, i get a feedback on: if i am using this to present my work, i will lazer cut a lot o

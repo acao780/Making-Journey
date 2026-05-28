@@ -10,6 +10,11 @@ layout: default
 
 
 ## class work
+To be honest, due to personal work commitments, I fell behind on some of the classroom progress. To catch up, I conducted a 1-on-1 peer review session with a classmate in Week 9, where we presented our work and exchanged critical feedback.
+
+During this presentation, I shared my secondary research, which includes six different data-driven artists. Among them, the installation Noisy Factory by Hangjie Cai serves as my primary design direction. I selected his work because his use of laser-cutting to deconstruct and refine layers is incredibly sophisticated. Inspired by this, I realized I could visualize food data in a tangible, physical form. Since the laser-cut panels do not stick together, they can be repeatedly rearranged, which creates great potential for interactivity.
+
+Furthermore, I have already advanced this concept into a physical prototype. I used Adobe Illustrator to draft the initial blueprints and successfully fabricated the prototype using a laser cutter. Although I was originally supposed to present this in Week 8, I brought the physical model to our Week 9 sharing session.
 ### 1
 ### 2
 

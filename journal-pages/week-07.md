@@ -101,6 +101,12 @@ Continue developing your project, building directly on the outcomes of today's M
 ## prepare a short presentation (5 slides)
 Prepare a short, 5-minute progress report to share with a small group in next week's class. This should take the form of a simple slideshow (around 5 slides), covering:
 
+![Alt text](../assets/week-07/1.png)
+![Alt text](../assets/week-07/2.png)
+![Alt text](../assets/week-07/3.png)
+![Alt text](../assets/week-07/4.png)
+![Alt text](../assets/week-07/5.png)
+
 where your project currently stands
 key developments and decisions so far
 visual research/references

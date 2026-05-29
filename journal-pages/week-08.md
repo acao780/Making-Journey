@@ -30,8 +30,7 @@ Feedback & Insights: "She strongly advocated for a fully interactive experience 
 My classmate gave highly positive feedback on my concept. While discussing how to represent energy values through thickness to promote healthy eating, she proposed a fascinating perspective: creating a strict visual distinction between "healthy" and "unhealthy" food. This insight was incredibly inspiring and sparked a lot of deeper thinking for my next design iteration.  At the same time, I started worry to about my workload and how this unhealth and health food can presented, the representation of health and unhealth food will expand the project scope and even alter my focus area, since i just want to convey an idea to raise awareness that having food is really important, do not miss them. 
 
 
-on this presentation, i get a feedback on: if i am using this to present my work, i will lazer cut a lot o
-我发现我需要裁剪的lazer cut的东西太多了。所以要换设计，但是依然延续lazer cut
+During the presentation, I received feedback regarding my fabrication process. I realized that my original design would require an overwhelming amount of laser cutting, which is not practical for the given timeline and resources. To address this, I am going to modify the design to significantly reduce the volume of cutting required. However, I will still continue to use laser cutting as my primary fabrication method, focusing instead on a more efficient and streamlined way to apply the technique.
 
 ### Presenting: 
 ![Alt text](../assets/week-08/presentation.jpg)]

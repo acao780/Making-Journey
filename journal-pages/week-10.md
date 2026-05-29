@@ -19,7 +19,9 @@ image of your work
 ![Alt text](../assets/week-10/week10_4.png)
 ![Alt text](../assets/week-10/week10_5.png)
 
-## ACTION PLAN
+## ACTION PLAN (下面的是你的写作要回答的问题）
+![Alt text](../assets/week-10/week10_actionplan.png)
+
 
 
 after showing this image to the teacher. everything is fine, do not need to change anything, 

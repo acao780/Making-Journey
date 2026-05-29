@@ -26,6 +26,13 @@ image of your work
 
 Today, I presented the project images and data concepts to the teacher. The overall feedback was highly positive; the core structure, logic, and visual presentation were approved as they are, with no modifications required. During the review, we discussed the core "why" behind the design choices, specifically focusing on the purpose of the data collection and the necessity of the community feature.
 
+Key Discussion Points & Rationales
+The Purpose of the Food Intake Data The teacher questioned the underlying purpose of tracking daily dietary habits. I explained that just as the Apple Watch monitors heart rate/blood pressure for cardiovascular health, or WeChat tracks daily steps to promote physical activity, our app captures food intake to make nutritional habits visible and measurable. It transforms abstract daily eating into concrete, actionable data.
+
+The Purpose of the Community Feature We discussed why a shared space is vital rather than keeping the data strictly private. The community is designed to build an ecosystem of mutual care:
+- Shared Care & Accountability: It creates a space where users can observe the data of peers or family members, allowing them to actively look out for each other’s well-being and offer real-time support.
+- Analysis & Learning: It enables users to not only track and analyze their own personal health trends over time but also study the data patterns of others to learn healthier lifestyles and best practices.
+
 ![Alt text](../assets/week-10/week10.png)
 
 

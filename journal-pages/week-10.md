@@ -47,7 +47,7 @@ people can track their data and analyse themselves and also others.
 4. 回家后我快速的推翻之前的设计。 我在保留之前的设计的情况下，我把吊坠变成了风铃，一个风铃的吊坠代表了早餐/中餐/晚餐。然后你的小树苗会随着你的记录，慢慢的长大。然后你有一个share space,大家可以建立自己的树苗，然后互相照看对方。
 
 5. 搜索竞品，思考每一个竞品的中心思想传达，每一个component如何影响传达，如何用数据流增强传达体验，然后自己的设计是如何推导出来的。 看这个youtube: https://www.bilibili.com/video/BV1EAQgBXEYh/?spm_id_from=333.337.search-card.all.click&vd_source=100c3d31aac041bf3b15403f227447a5
-6. 灵感来源在哪里需要提到
+6. 灵感来源在哪里需要提到。 和姐姐聊了我的想法后，她告诉我她正在用的软件，名为pikmin bloom （步数游戏）。这是一款可以邀请朋友记录步数的app，同时可以与朋友进行互动。
 
 回家后，我开始重新设计，这是我设计的：
 ![Alt text](../assets/week-10/week10_6.png)

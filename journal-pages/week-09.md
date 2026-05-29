@@ -23,8 +23,9 @@ It is important to complete all in-class activities (this is still the case if y
 ![Alt text](../assets/week-09/week9_version5.jpg)
 
 week 9 (feedback)
-I shared my idea... while i talkiing to instrutor, who told me that my planning could not show the data clear, since i want to disorder the timeline to show the colour line level, this base on the intake energy level. since i had been told the timeline should not be changed, therefore the string section and the stomach that showing the health level are not going to be a good idea. she told me to shows the time by using the length of the string, the short string represent the date and the colour of the string show the intake level. I realised that it was a great idea, i will try to find out more clear way to show my idea. 
-线 - （长短表示时间， 挂绳子到板子上）（
+While discussing my idea with the instructor, she pointed out that my current plan did not display the data clearly. Originally, I wanted to disrupt the chronological timeline in order to prioritize showing the energy intake levels through colored lines. However, she advised that the timeline should remain unchanged, which meant my initial ideas—using a section of string and a stomach graphic to show health levels—would not work well.
+
+Instead, she suggested a much better approach: use the length of the string to represent time (where a shorter string represents a specific date) and use the color of the string to indicate the energy intake level. These strings could then be hung on a board. I realized this was an excellent idea, and I will now focus on finding a clearer, more effective way to present my concept based on this feedback.
 - 从data string 变成 挂着的方式
 ![Alt text](../assets/week-09/week9_design.png)
 ![Alt text](../assets/week-09/week9_code.png)

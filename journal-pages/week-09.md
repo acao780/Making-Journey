@@ -30,6 +30,8 @@ Instead, she suggested a much better approach: use the length of the string to r
 ![Alt text](../assets/week-09/week9_design.png)
 ![Alt text](../assets/week-09/week9_code.png)
 
+https://www.youtube.com/shorts/i9QJMwGp3e4
+
 (code 和单独的视频）
 
 （同时看一下vibe coding 一个精美的便利贴装置，可以用的webisite

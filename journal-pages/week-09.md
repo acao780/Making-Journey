@@ -27,6 +27,8 @@ I shared my idea... while i talkiing to instrutor, who told me that my planning 
 线 - （长短表示时间， 挂绳子到板子上）（
 - 从data string 变成 挂着的方式
 ![Alt text](../assets/week-09/week9_design.png)
+![Alt text](../assets/week-09/week9_code.png)
+
 (code 和单独的视频）
 
 （同时看一下vibe coding 一个精美的便利贴装置，可以用的webisite

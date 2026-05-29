@@ -10,7 +10,8 @@ layout: default
 in-class task:
 using this check point sheet to check my weekly journey, here's what i check at class:
 
-
+![Alt text](../assets/week-10/week11.jpg)
+![Alt text](../assets/week-10/week11_1.jpg)
 ### add your project's development pictures
 
 

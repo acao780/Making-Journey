@@ -8,7 +8,7 @@ layout: default
 
 ## Documentation 
 in-class task:
-using this check point sheet to check my weekly journey, here's what i check at class:
+using this check point sheet to check my weekly journey, here's what i check at class (The instructor gave me feedback on the sheet (answering the in-class question shown on the powerpoint):
 ![Alt text](../assets/week-11/week11_2.png)
 
 ### add your project's development pictures

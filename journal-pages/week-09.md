@@ -30,7 +30,8 @@ Instead, she suggested a much better approach: use the length of the string to r
 ![Alt text](../assets/week-09/week9_design.png)
 ![Alt text](../assets/week-09/week9_code.png)
 
-https://www.youtube.com/shorts/i9QJMwGp3e4
+
+<iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
 (code 和单独的视频）
 

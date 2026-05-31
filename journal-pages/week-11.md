@@ -17,7 +17,7 @@ using this check point sheet to check my weekly journey, here's what i check at 
 
 ## vibe coding & techique
 
-https://www.youtube.com/watch?v=g6AiSVqSqZo
+<iframe src="https://www.youtube.com/embed/g6AiSVqSqZo" width="560" height="315"> </iframe>
 
 
 

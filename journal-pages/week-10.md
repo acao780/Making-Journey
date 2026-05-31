@@ -62,8 +62,7 @@ the next improve:
 ![Alt text](../assets/week-10/week10_image2.png)
 ![Alt text](../assets/week-10/week10_image3.png)
 ![Alt text](../assets/week-10/week10_image4.png)
-![Alt text](../assets/week-10/week10_image6.png)
-![Alt text](../assets/week-10/week10_image5.png)
+![Alt text](../assets/week-10/week10_look.png)
 
 
 ## action plan wrap-up

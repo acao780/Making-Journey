@@ -57,7 +57,8 @@ The Purpose of the Community Feature We discussed why a shared space is vital ra
 ![Alt text](../assets/week-10/week10_9.png)
 
 the next improve:
-![Alt text](../assets/week-10/week10_image.png)
+![Alt text](../assets/week-10/element_image.png)
+
 ![Alt text](../assets/week-10/week10_image2.png)
 ![Alt text](../assets/week-10/week10_image3.png)
 ![Alt text](../assets/week-10/week10_image4.png)

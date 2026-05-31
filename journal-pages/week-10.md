@@ -33,6 +33,7 @@ The Purpose of the Community Feature We discussed why a shared space is vital ra
 - Shared Care & Accountability: It creates a space where users can observe the data of peers or family members, allowing them to actively look out for each other’s well-being and offer real-time support.
 - Analysis & Learning: It enables users to not only track and analyze their own personal health trends over time but also study the data patterns of others to learn healthier lifestyles and best practices.
 
+## first iteration: 
 ![Alt text](../assets/week-10/week10.png)
 
 
@@ -47,7 +48,8 @@ The Purpose of the Community Feature We discussed why a shared space is vital ra
 6. 灵感来源在哪里需要提到。 和姐姐聊了我的想法后，她告诉我她正在用的软件，名为pikmin bloom （步数游戏）。这是一款可以邀请朋友记录步数的app，同时可以与朋友进行互动。
 
 回家后，我开始重新设计，这是我设计的：
-![Alt text](../assets/week-10/week10_6.png)
+## second interation: 
+![Alt text](../assets/week-10/image.png)
 ![Alt text](../assets/week-10/week10_7.png)
 ![Alt text](../assets/week-10/week10_8.png)
 ![Alt text](../assets/week-10/week10_9.png)

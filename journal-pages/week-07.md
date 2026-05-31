@@ -69,23 +69,41 @@ Of these three directions, the second option — the interactive tactile experie
 
 | Food Item | Food types | Calories (kcal) | Thickness of physical board | Energy contribution value (0-5) |
 | :--- | :--- | :--- | :--- | :--- |
-| **None (空缺)** | Empty | 0 | **0 mm** | 0 |
+| **None** | Empty | 0 | **0 mm** | 0 |
+| **apple** | Fruit | 80 | **2 mm** | 1.0 |
+| **pear** | Fruit | 90 | **2 mm** | 1.0 |
+| **strawberry** | Fruit | 30 | **1 mm** | 0.5 |
+| **grape** | Fruit | 60 | **1 mm** | 0.5 |
+| **mango** | Fruit| 120 | **2 mm** | 1.5 |
+| **orange juice** | Fruit | 120 | **2 mm** | 1.0 |
+| **yogurt** | Dairy | 150 | **3 mm** | 1.5 |
+| **rice** | Carbs | 200 | **4 mm** | 1.5 |
+| **cereal** | Carbs | 200 | **4 mm** | 1.0 |
 | **bread** | Carbs | 150 | **3 mm** | 1.5 |
-| **eggs / egg** | Protein | 150 | **3 mm** | 1.5 |
-| **milk** | Drink | 150 | **3 mm** | 1.0 |
-| **nibbles** | Snack | 250 | **5 mm** | 1.0 |
 | **fried rice** | Carbs | 450 | **9 mm** | 3.0 |
-| **steak nodolles** | Carbs+Meat | 650 | **13 mm** | 4.0 |
 | **pie** | Carbs | 400 | **8 mm** | 2.5 |
 | **cheese pasta** | Carbs | 500 | **10 mm** | 3.0 |
-| **chocolate milk** | Drink | 250 | **5 mm** | 1.5 |
-| **rice** | Carbs | 200 | **4 mm** | 1.5 |
-| **steak dish** | Protein | 450 | **9 mm** | 3.0 |
-| **steam chicken** | Protein | 250 | **5 mm** | 2.5 |
-| **chicken soup** | Soup | 150 | **3 mm** | 1.5 |
+| **steak nodolles** | Carbs+Meat | 650 | **13 mm** | 4.0 |
 | **shredded potatoes**| Veg/Carbs | 200 | **4 mm** | 1.5 |
 | **Boiled green vegetable**| Vegetable | 50 | **1 mm** | 0.5 |
 | **Boiled broccoli** | Vegetable | 50 | **1 mm** | 0.5 |
+| **hot dog** | Processed Meat | 300 | **6 mm** | 2.0 |
+| **pizza**| Fast Food | 600 | **12 mm** | 3.5 |
+| **pepperoni pizza**| Fast Food | 700 | **14 mm** | 4.0 |
+| **cheeseburger** | Fast Food | 550 | **11 mm** | 3.5 |
+| **chip** | Snack | 300 | **6 mm** | 1.5 |
+| **coke** | Soft Drink| 140 | **3 mm** | 0.5 |
+| **blacktea** | Drink | 10 | **1 mm** | 0.5 |
+| **milk** | Drink | 150 | **3 mm** | 1.0 |
+| **chocolate milk** | Drink | 250 | **5 mm** | 1.5 |
+| **chicken noddles** | Carbs+Protein | 500 | **10 mm** | 3.0 |
+| **fried egg** | Protein | 180 | **4 mm** | 1.5 |
+| **steak dish** | Protein | 450 | **9 mm** | 3.0 |
+| **steam chicken** | Protein | 250 | **5 mm** | 2.5 |
+| **apple pie** | Dessert | 450 | **9 mm** | 2.5 |
+| **nibbles** | Snack | 250 | **5 mm** | 1.0 |
+| **chocolate** | Snack | 200 | **4 mm** | 1.0 |
+| **chicken soup** | Soup | 150 | **3 mm** | 1.5 |
 
 
 

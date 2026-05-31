@@ -50,8 +50,9 @@ The Purpose of the Community Feature We discussed why a shared space is vital ra
 回家后，我开始重新设计，这是我设计的：
 ## second interation: 
 ![Alt text](../assets/week-10/image.png)
-![Alt text](../assets/week-10/week10_7.png)
-![Alt text](../assets/week-10/week10_8.png)
+
+![Alt text](../assets/week-10/image(1).png)
+![Alt text](../assets/week-10/image(2).png)
 ![Alt text](../assets/week-10/week10_9.png)
 
 the next improve:

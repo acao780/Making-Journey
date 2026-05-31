@@ -15,6 +15,11 @@ using this check point sheet to check my weekly journey, here's what i check at 
 
 
 
+## vibe coding & techique
+
+https://www.youtube.com/watch?v=g6AiSVqSqZo
+
+
 
 *The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 

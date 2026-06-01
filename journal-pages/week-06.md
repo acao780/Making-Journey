@@ -7,25 +7,13 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Documentation 
-During the Week 6 proposal consultation, I introduced my topic to the instructor. I explained my plan to create a food diary that tracks both my eating behavior and daily caloric intake. My purpose for recording this data is to remind myself to take care of my body. My motivation stems from an experience last year when a medication I was taking caused a loss of appetite and a dislike for meat. My weight dropped from 53kg to below 50kg, which left me feeling exhausted and unhealthy.
+During the Week 6 proposal consultation, I introduced my topic to the teacher. I explained my plan to create a food diary that tracks both my eating behavior and daily caloric intake. My purpose for recording this data is to remind myself to take care of my body. My motivation stems from an experience last year when a medication I was taking caused a loss of appetite and a dislike for meat. My weight dropped from 53kg to below 50kg, which left me feeling exhausted and unhealthy. From the article, "Gastic Health - how Overating or under eating can impact your stomach" it mentions "when you do eat enough food, your body goes into starvation mode. This can cause gastric pain, constipation, and other digestive problems. Skipping meals can also make you feel weak, tired, and irritable, which can affect your overall wellbeing." This made me realize the vital importance of eating well—it's the foundation for growth and vitality. I want to use this micro-perspective to observe my eating habits, analyze and uncover my dietary issues, and ultimately use data as a daily reminder for myself. 
 
-I began recording my data on April 16th. Through this process, I discovered that I often skip breakfast during holidays and occasionally skip lunch on school days. This pattern is a significant concern for my future health, especially since my grandfather suffered from a stomach disease caused by food scarcity during his childhood. By tracking my energy intake and monitoring my behaviors, I aim to create a visual data design that reminds me to prioritize my well-being and conveys the importance of taking care of one's body through healthy daily eating.
+Therefore, I began recording my data on April 16th, at the start of the school break. After a few days, I discovered that I often skip breakfast during holidays and occasionally skip lunch on school days. This pattern is a significant concern for my future health, especially since my grandfather suffered from a stomach disease caused by food scarcity during his childhood. Thus, I have a strong motivation to track my energy intake and monitor my behavior. Through this, I aim to create a visual data design that reminds me to prioritize my well-being and conveys the importance of caring for one's body through healthy daily eating.
 
 The purpose of my project is to remind people to take care of their bodies. By showing my own eating habits, I want to raise awareness about the importance of regular meals. I believe that small behaviors, like skipping breakfast, can add up to big health problems over time.
 
-## Secondary Research
-
-## personas 
-- people like me, busy,
-- children
-- people who can not
-
-why this people will be interested in my data, or even my data design can be a remind to let them take care of themselve?
-
-
-
 ### Current Progress and Development 
-
 I am using p5.js to design the visual interface. Below are the initial images and code from my Week 5 report, representing the rough data visualization from the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization does not come from a standard nutrition API; instead, I am using Google Gemini to query the energy content of foods. At this stage, I am collecting nutritional data manually, but my next step is to find a functional API to automate this process within the visualization.
 
 ### Video & Code
@@ -192,6 +180,9 @@ Based on my paper sketches from class, I created a more detailed concept. The fi
 ![Alt text](../assets/week-06/brainstorm.jpg)
 
 ## Reference
+
+(Gastric Health – How Overeating or Under-eating Can Impact Your Stomach)
+https://gastro.com.sg/gastric-health-how-overeating-or-under-eating-can-impact-your-stomach/#:~:text=When%20you%20do%20not%20eat,can%20affect%20your%20overall%20wellbeing.
 
 https://www.instagram.com/p/DDEtR3EiRrU/?img_index=3
 

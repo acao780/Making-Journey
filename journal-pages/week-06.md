@@ -39,20 +39,9 @@ From the article - “How Many Calories Should You Eat in a Day?”
 
 I also rate my energy level between 1 and 10; this represents my overall physical and mental state for the day, capturing how my body actually feels in response to what I eat. In this design project, while Calories serve as the objective, quantitative input (measuring the raw energy consumed), the Energy Level acts as the subjective, qualitative output (tracking holistic vitality, cognitive focus, and physical fatigue). By juxtaposing these two metrics, the data visualization highlights the critical correlation between food intake and daily performance. More importantly, it maps the behavioral chain reaction—such as the severe energy drops (levels 1–3) that directly follow skipped meals—thereby transforming personal intuition into a visible, data-driven warning system for self-care.
 
-More importantly, this recording process has clearly revealed my long-standing "meal skipping" behavior, overeating and not eat enough. I noticed a consistent pattern of skipping breakfast on holidays and ignoring lunch during busy school days. For me, this data is more than just numbers; it represents a significant health risk, especially given my family history of gastrointestinal diseases.
+In conclusion, an audit of my dietary logs from April 16th to June 1 revealed a chronic pattern of missing meals—specifically skipping breakfast on holidays and lunch on busy school days. Recognizing that simple food logs lacked data depth, I upgraded my tracking methodology by introducing two critical metrics: total calories and daily energy levels (1–10) to map the physical and psychological impact of these habits. However, I soon realized that focusing solely on my own experience created a severe limitation in social representation, failing to capture the broader 'why' behind meal-skipping. Driven by these insights, my project is undergoing a profound shift from a simple 'personal diary' to a 'social intervention tool' aimed at raising public awareness about irregular eating habits and self-care. To achieve this, my design direction is transitioning from a purely digital p5.js visualization into a hybrid narrative approach that combines digital outputs with handmade visual data. To build a robust foundation for this new direction, I will expand my scope to simultaneously track the dietary data of family members and friends, thereby better reflecting the diverse habits of my target personas. Consequently, to address all existing data gaps and gather a more scientifically and emotionally rigorous dataset, I have decided to officially redo and restart my data collection process."
 
-Because of these findings, I want to shift the focus of my project. It is moving from being a simple "personal diary" to becoming a "social intervention tool." By revealing the behavioral vulnerabilities hidden within my own data, I aim to create a design that raises public awareness about the importance of regular eating habits and prioritizing one's well-being.
-
-
-For the next stage of my project, I need to calculate my daily calorie intake through further research and problem-solving. I am currently exploring two ways to get this nutritional data: using a nutrition API like USDA FoodData Central or Edamam, or querying Google Gemini for estimated values. My current dataset, which includes the date, meal type, and food items, will serve as the initial foundation, but I plan to add the caloric content after completing this research.
-
-As I review my current spreadsheet, I have realized some significant limitations. First, this is an individual test case focused only on myself. I’ve realized that my data isn't enough for further development yet; I need more participants and more data records to create a strong pattern that truly shows why healthy eating is so significant. Second, my entries lack exact portion sizes, making my calorie estimations imprecise. Finally, the data doesn't capture the "why" behind my behavior—the reasons I skip meals, whether it's due to my mood or my busy school schedule.
-
-Because of these limitations, my project direction has shifted. Instead of a purely digital visualization in p5.js, I want to take a hybrid narrative approach that combines digital work with handmade visual data. I need to do more research, not just on my own records, but also online to find APIs and data that relate to the message I want to convey. To address these gaps and create a stronger foundation for my project, I have decided to redo my data collection process.
-The data shows the food and dairy intakes of breakfast, lunch and dinner, began on 16th of April and end on 9th of June. 
-
-### Diet and Calorie Record (April 16 - June 9)
-
+### Anna's Diet and Calorie Record (April 16 - June )
 | Date | state | Breakfast| Lunch | Dinner | Total calories | Energy Levels (1-10) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **04/16** | Holiday | None | fried rice | chicken soup + rice + steak dish | 1650 | 5 |
@@ -101,6 +90,15 @@ The data shows the food and dairy intakes of breakfast, lunch and dinner, began 
 | **05/29** | School | None| cheese pasta + chocolate milk| steam chicken + rice + Boiled broccoli | 1400 | 4 |
 | **05/30** | weekend  | eggs + nibbles + grapes | fried rice + apple | Boiled broccoli + steak dish + rice | 1900 | 7 |
 | **05/31** | weekend  | chicken noodles + black tea | steak noodles + apple | steam chicken + rice + chicken soup | 2100 | 8 |
+
+### Anna's friend's Diet and Calorie Record (April 16 - June), 
+- he always missed breakfast, almost do not have breakfast. and he also want to loss wait, so this would be a really unhealthy sign。但是这里也揭露了他少时的原因，一方面是漏掉早餐，但是一方面是减肥故意减少摄取量。这就给我带来了不同的原因。
+
+
+### Anna's friend two Diet and Calorie Record (April 16 - June), 
+
+### Anna's sister Diet and Calorie Record (April 16 - June), 
+### Anna's mom Diet and Calorie Record (April 16 - June), 
 
 
 ## 2. Visual Research and Precedent Study 

@@ -191,15 +191,13 @@ The discussion helped sharpen my project direction. Initially, I focused mainly 
 Following the skills roadmap developed in class, I decided to focus on p5.js as my first technical skill. Before this project, I had use p5.js since week 1, therefore this would be a good tool option for my data design. To learn the software, I used Google Gemini to help generate p5.js code based on natural language descriptions of my ideas. Instead of writing code from scratch, I described the visual effects I wanted to create and then modified the generated code through testing and experimentation.
 
 Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
+![Alt text](../assets/week-06/week6_images2.png)
+![code](../assets/week-06/week6_images1.png)
 
 
 One important insight from this process was that digital visualisation alone did not fully communicate the emotional and personal aspects of my dataset. While p5.js was effective for showing patterns and numerical information, it felt less successful at expressing the lived experience behind irregular eating habits. This led me to explore physical data visualisation and laser-cut fabrication as an alternative direction.
 
 As a result, I began investigating how laser-cut layers could represent daily eating behaviour in a tangible form. Learning p5.js not only improved my technical skills but also helped me refine the overall direction of the project by showing me what worked and what was missing.
-
- 
-
-
 
 ### Current Progress and Development 
 
@@ -224,17 +222,8 @@ The data also influenced my design direction. Originally, I planned to create a 
 
 For these reasons, I decided to restart the data collection process with a larger group of participants and use the new dataset to inform the final design outcome.
 
-
-### Video & Code
-
-<iframe src="https://www.youtube.com/embed/ZtuKyqvnCUM" width="560" height="315"> </iframe>
-
-Below are the P5.JS code: 
-
-![Alt text](../assets/week-06/code.png) 
 ### 3. Initial Concept Sketch
 Based on my paper sketches from class, I created a more detailed concept. The first layer is the physical laser-cut piece. Each day is a circular layer. The size of the circle shows how much I ate. Missing meals create empty spaces. When stacked together, these layers show my eating patterns over time.
-
 ![Alt text](../assets/week-06/brainstorm.jpg)
 
 ## Reference

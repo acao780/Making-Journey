@@ -20,21 +20,22 @@ In this phase of my research, I have been collecting personal dietary entries si
 Based on my secondary research and the behavioral patterns observed so far—specifically, my habit of frequently skipping breakfast or lunch—I have decided to add two new measurement metrics to my tracking sheets. Therefore, I need to incorporate the measurement of both total calories and daily energy levels.
 
 From the article - “How Many Calories Should You Eat in a Day?”
+
 | Gender | Age Group | Sedentary (Low) | Moderately Active (Mid) | Active (High) | Total Intake Range |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Female** | 21–25 | 2,000 Calories | 2,200 Calories | 2,400 Calories | **2,000–2,400 Calories** |
-| | 26–50 | 1,800 Calories | 2,000 Calories | 2,400 Calories | **1,800–2,400 Calories** |
-| | 51–60 | 1,600 Calories | 1,800 Calories | 2,200 Calories | **1,600–2,200 Calories** |
-| | 61+ | 1,600 Calories | 1,800 Calories | 2,000 Calories | **1,600–2,000 Calories** |
-| **Male** | 21–25 | 2,400 Calories | 2,800 Calories | 3,000 Calories | **2,400–3,000 Calories** |
-| | 26–35 | 2,400 Calories | 2,600 Calories | 3,000 Calories | **2,400–3,000 Calories** |
-| | 36–40 | 2,400 Calories | 2,600 Calories | 2,800 Calories | **2,400–2,800 Calories** |
-| | 41–45 | 2,200 Calories | 2,600 Calories | 2,800 Calories | **2,200–2,800 Calories** |
-| | 46–55 | 2,200 Calories | 2,400 Calories | 2,800 Calories | **2,200–2,800 Calories** |
-| | 56–60 | 2,200 Calories | 2,400 Calories | 2,600 Calories | **2,200–2,600 Calories** |
-| | 61–65 | 2,000 Calories | 2,400 Calories | 2,600 Calories | **2,000–2,600 Calories** |
-| | 66–75 | 2,000 Calories | 2,200 Calories | 2,600 Calories | **2,000–2,600 Calories** |
-| | 76+ | 2,000 Calories | 2,200 Calories | 2,400 Calories | **2,000–2,400 Calories** |
+|-----|-----|-----|-----|-----|-----|
+| Female | 21–25 | 2,000 Calories | 2,200 Calories | 2,400 Calories | 2,000–2,400 Calories |
+| | 26–50 | 1,800 Calories | 2,000 Calories | 2,400 Calories | 1,800–2,400 Calories |
+| | 51–60 | 1,600 Calories | 1,800 Calories | 2,200 Calories | 1,600–2,200 Calories |
+| | 61+ | 1,600 Calories | 1,800 Calories | 2,000 Calories | 1,600–2,000 Calories |
+| Male | 21–25 | 2,400 Calories | 2,800 Calories | 3,000 Calories | 2,400–3,000 Calories |
+| | 26–35 | 2,400 Calories | 2,600 Calories | 3,000 Calories | 2,400–3,000 Calories |
+| | 36–40 | 2,400 Calories | 2,600 Calories | 2,800 Calories | 2,400–2,800 Calories |
+| | 41–45 | 2,200 Calories | 2,600 Calories | 2,800 Calories | 2,200–2,800 Calories |
+| | 46–55 | 2,200 Calories | 2,400 Calories | 2,800 Calories | 2,200–2,800 Calories |
+| | 56–60 | 2,200 Calories | 2,400 Calories | 2,600 Calories | 2,200–2,600 Calories |
+| | 61–65 | 2,000 Calories | 2,400 Calories | 2,600 Calories | 2,000–2,600 Calories |
+| | 66–75 | 2,000 Calories | 2,200 Calories | 2,600 Calories | 2,000–2,600 Calories |
+| | 76+ | 2,000 Calories | 2,200 Calories | 2,400 Calories | 2,000–2,400 Calories |
 
 Another limitation of this project is the calorie calculations are based on estimated food portions rather than exact measurements. Because I did not weigh every meal, some calorie values may be inaccurate. Unfortunately, I don't have a food scale to weight every meals。 And I have no way to weigh myself when eating at restaurants. However, the data is still useful for identifying overall patterns and trends.
 

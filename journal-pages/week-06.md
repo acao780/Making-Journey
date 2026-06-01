@@ -19,7 +19,7 @@ In this phase of my research, I have been collecting personal dietary entries si
 
 Based on my secondary research and the behavioral patterns observed so far—specifically, my habit of frequently skipping breakfast or lunch—I have decided to add two new measurement metrics to my tracking sheets. Therefore, I need to incorporate the measurement of both total calories and daily energy levels.
 
-From the article - “How Many Calories Should You Eat in a Day?”
+### From the article - “How Many Calories Should You Eat in a Day?”
 
 | Gender | Age Group | Sedentary (Low) | Moderately Active (Mid) | Active (High) | Total Intake Range |
 |-----|-----|-----|-----|-----|-----|

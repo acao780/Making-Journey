@@ -106,14 +106,34 @@ This is a self-reported score that reflects how energetic I felt throughout the 
 | 05/30 | weekend  | eggs + nibbles + grapes | fried rice + apple | Boiled broccoli + steak dish + rice | 1900 | 7 |
 | 05/31 | weekend  | chicken noodles + black tea | steak noodles + apple | steam chicken + rice + chicken soup | 2100 | 8 |
 
-### Anna's friend's Diet and Calorie Record (April 16 - June), 
-- he always missed breakfast, almost do not have breakfast. and he also want to loss wait, so this would be a really unhealthy sign。但是这里也揭露了他少时的原因，一方面是漏掉早餐，但是一方面是减肥故意减少摄取量。这就给我带来了不同的原因。
+#### My mum's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
+
+#### My older sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
+
+#### My youger sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
 
 
-### Anna's friend two Diet and Calorie Record (April 16 - June), 
+#### My friend's Diet and Calorie Record (April 16 - June) 10 days：
 
-### Anna's sister Diet and Calorie Record (April 16 - June), 
-### Anna's mom Diet and Calorie Record (April 16 - June), 
+| Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
+|------|------|------|------|------|------|------|
+| 05/20 | Working Day | None | Fried Rice + Bubble Tea | Fried Chicken + Coke + Nibbles | 2450 | 7 |
+| 05/22 | Working Day | Milk Tea | Steak Dish + Rice | Boiled Vegetable + Rice + Steam Chicken | 2150 | 7 |
+| 05/23 | Weekend | None | Pizza | Steam Chicken + Rice + Fish | 2200 | 7 |
+| 05/24 | Weekend | None | Hamburger + Coke | Cheese Pasta | 2350 | 8 |
+| 05/25 | Working Day | Coffee | Fried Rice | Chicken Soup | 1600 | 5 |
+| 05/26 | Working Day | None | Steak Noodles | Hamburger + Coke | 2250 | 7 |
+| 05/27 | Working Day | Milk Tea | Steak Dish + Rice | Seafood Soup + Rice + Steak Dish | 2400 | 8 |
+| 05/28 | Working Day | None | Hamburger | Dumplings | 1850 | 6 |
+| 05/29 | Working Day | Coffee | Fried Chicken + Steak Noodles | Hot Pot | 2800 | 9 |
+| 05/30 | Weekend | None | Pizza | Sushi + Milk Tea | 2400 | 8 |
+| 05/31 | Weekend | None | Sandwich + Egg | Steak Noodles | 1750 | 6 |
+
+Friend's dietary record revealed another reason behind irregular eating habits. Similar to older sister, breakfast was frequently skipped. However, unlike intentional dieting, this participant regularly consumed calorie-dense foods such as fried chicken, hamburgers, pizza, milk tea, and soft drinks throughout the day. Despite believing that skipping breakfast would help control weight, the total daily calorie intake remained relatively high, averaging over 2200 kcal per day.
+
+This dataset highlighted a common misconception that eating fewer meals automatically leads to healthier eating habits. In reality, hidden calories from sugary drinks, fast food, and snacks can easily offset the calories saved from skipping meals. Compared with my own data, which was influenced by busy schedules, and Friend A's data, which was driven by dieting goals, Friend B's data demonstrated how a lack of nutritional awareness can also contribute to unhealthy eating patterns.
+
+Together, these datasets revealed that meal-skipping is not caused by a single factor. Instead, it can result from different motivations, lifestyles, and understandings of food, reinforcing the need for broader public awareness around self-care and healthy eating habits.
 
 
 ## 2. Visual Research and Precedent Study 

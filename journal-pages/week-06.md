@@ -91,6 +91,7 @@ In conclusion, an audit of my dietary logs from April 16th to June 1 revealed a 
 | **05/30** | weekend  | eggs + nibbles + grapes | fried rice + apple | Boiled broccoli + steak dish + rice | 1900 | 7 |
 | **05/31** | weekend  | chicken noodles + black tea | steak noodles + apple | steam chicken + rice + chicken soup | 2100 | 8 |
 
+## （在week10加上这些数据）
 ### Anna's friend's Diet and Calorie Record (April 16 - June), 
 - he always missed breakfast, almost do not have breakfast. and he also want to loss wait, so this would be a really unhealthy sign。但是这里也揭露了他少时的原因，一方面是漏掉早餐，但是一方面是减肥故意减少摄取量。这就给我带来了不同的原因。
 

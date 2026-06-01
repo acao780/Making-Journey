@@ -147,9 +147,7 @@ After researching how different artists express data in unique ways, I am really
 At this stage, I need to create a series of experiments that explore different ways of representing my food diary data. Rather than focusing on a final outcome, I will produce sketches, concept drawings, and small prototypes to test how information can be translated into visual and physical forms.
 
 My experiments will investigate how calorie intake, meal patterns, and energy levels can be represented through colour, shape, size, layering, or movement. I will test both digital outputs using p5.js and physical outputs using paper, cardboard, and laser-cut materials. These explorations will help me evaluate which approach communicates the data most effectively and identify a suitable direction for the final project.
-
-
-## 画一个草图
+![Alt text](../assets/week-06/week6_images.jpg)
 
 ### 3.2 What do I need to learn?
 1. Data Visualisation Principles

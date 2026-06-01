@@ -190,9 +190,14 @@ The discussion helped sharpen my project direction. Initially, I focused mainly 
 ### 2. Technical Skill Building
 Following the skills roadmap developed in class, I decided to focus on p5.js as my first technical skill. Before this project, I had use p5.js since week 1, therefore this would be a good tool option for my data design. To learn the software, I used Google Gemini to help generate p5.js code based on natural language descriptions of my ideas. Instead of writing code from scratch, I described the visual effects I wanted to create and then modified the generated code through testing and experimentation.
 
-Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
 ![Alt text](../assets/week-06/week6_images2.png)
 ![code](../assets/week-06/week6_images1.png)
+This is my first version design, 这是课堂上的sketch，我转化成了一个p5.js的数据version。这个版本的红点不能展示信息。所以基于迭代，我和google gemini 进行了迭代的对话。我让他增加了当鼠标移动到红点上就会展示园圈之前交互形成的点，就是每天吃的重复的食物。每一个圆代表了一天，圆的大小表示卡路里。
+
+
+Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
+
+
 
 
 One important insight from this process was that digital visualisation alone did not fully communicate the emotional and personal aspects of my dataset. While p5.js was effective for showing patterns and numerical information, it felt less successful at expressing the lived experience behind irregular eating habits. This led me to explore physical data visualisation and laser-cut fabrication as an alternative direction.

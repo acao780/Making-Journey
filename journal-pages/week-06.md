@@ -193,7 +193,7 @@ Following the skills roadmap developed in class, I decided to focus on p5.js as 
 ![Alt text](../assets/week-06/week6_images2.png)
 ![code](../assets/week-06/week6_images1.png)
 This is my first version design, 这是课堂上的sketch，我转化成了一个p5.js的数据version。这个版本的红点不能展示信息。所以基于迭代，我和google gemini 进行了迭代的对话。我让他增加了当鼠标移动到红点上就会展示园圈之前交互形成的点，就是每天吃的重复的食物。每一个圆代表了一天，圆的大小表示卡路里。
-
+![code](../assets/week-06/week6_code.png)
 
 Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
 

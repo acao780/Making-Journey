@@ -191,6 +191,16 @@ The discussion helped sharpen my project direction. Initially, I focused mainly 
 
 ### 2. Technical Skill Building
 
+2. 技术技能培养
+
+利用课堂上制定的技能路线图，解决你的首要技术差距。记录你的学习过程，包括文字和图片证据，并反思你尝试了什么、学到了什么，以及这些如何帮助你推进项目开发（例如，通过培养技能以进行下一步，或者通过揭示你需要调整方向，因为某些方法行不通）。
+
+3. 初步概念草图
+
+在课堂上绘制的草图/示意图的基础上，根据你选择的数据集，绘制更精细的草图、粗略的数字原型、实体模型或编写简短的代码实验，以可视化某些内容——无论它只是初步的。下周上课时请带上你的草图。
+
+ 
+
 My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
 The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
 I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.

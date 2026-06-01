@@ -33,6 +33,8 @@ The Purpose of the Community Feature We discussed why a shared space is vital ra
 - Shared Care & Accountability: It creates a space where users can observe the data of peers or family members, allowing them to actively look out for each other’s well-being and offer real-time support.
 - Analysis & Learning: It enables users to not only track and analyze their own personal health trends over time but also study the data patterns of others to learn healthier lifestyles and best practices.
 
+## Independant study
+(table of their data, i only recorded them at 22/05, since im doing a physical 3d data design, so im justing going to use my own data. 
 ## first iteration: 
 ![Alt text](../assets/week-10/week10.png)
 

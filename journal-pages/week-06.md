@@ -188,6 +188,7 @@ The instructor asked several helpful questions that challenged my thinking. Firs
 The discussion helped sharpen my project direction. Initially, I focused mainly on documenting my own eating habits. However, I realised that I need to connect my personal experience to wider issues surrounding nutrition, health, and wellbeing. As a result, I plan to expand my research beyond my own dataset and investigate why regular eating is important, including the physical and mental impacts of skipping meals. I will also explore nutrition databases and APIs to improve the accuracy of my calorie data and study existing data visualisation and data sculpture projects to inform future design decisions.
 
 ### 2. Technical Skill Building
+课堂介绍后，我开始用p5.js 去复刻我课上的skech
 
 2. 技术技能培养
 

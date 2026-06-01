@@ -13,25 +13,32 @@ Therefore, I began recording my data on April 16th, at the start of the school b
 
 The purpose of my project is to remind people to take care of their bodies. By showing my own eating habits, I want to raise awareness about the importance of regular meals. I believe that small behaviors, like skipping breakfast, can add up to big health problems over time.
 
-### Current Progress and Development 
-I am using p5.js to design the visual interface. Below are the initial images and code from my Week 5 report, representing the rough data visualization from the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization does not come from a standard nutrition API; instead, I am using Google Gemini to query the energy content of foods. At this stage, I am collecting nutritional data manually, but my next step is to find a functional API to automate this process within the visualization.
-
-### Video & Code
-
-<iframe src="https://www.youtube.com/embed/ZtuKyqvnCUM" width="560" height="315"> </iframe>
-
-Below are the P5.JS code: 
-
-![Alt text](../assets/week-06/code.png) 
-
 ## 1. Data Exploration 
+In this phase of my research, I have been collecting personal dietary entries since April 16th. I began by establishing a structured dataset that includes dates, meal times, and specific food content. However, while auditing this data, I discovered that the records have significant limitations in terms of accuracy. Because I lack precise measurements for food quantities, my calorie estimations remain somewhat subjective. The energy intake is also really important eventhough you do not missed any meals. Therefore, I need this meansurement of total calorie and enery level as well. 
+From the article, How Many Calories Should You Eat in a Day? 
+| Gender | Age Group | Sedentary (Low) | Moderately Active (Mid) | Active (High) | Total Intake Range |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Female** | 21–25 | 2,000 Calories | 2,200 Calories | 2,400 Calories | **2,000–2,400 Calories** |
+| | 26–50 | 1,800 Calories | 2,000 Calories | 2,400 Calories | **1,800–2,400 Calories** |
+| | 51–60 | 1,600 Calories | 1,800 Calories | 2,200 Calories | **1,600–2,200 Calories** |
+| | 61+ | 1,600 Calories | 1,800 Calories | 2,000 Calories | **1,600–2,000 Calories** |
+| **Male** | 21–25 | 2,400 Calories | 2,800 Calories | 3,000 Calories | **2,400–3,000 Calories** |
+| | 26–35 | 2,400 Calories | 2,600 Calories | 3,000 Calories | **2,400–3,000 Calories** |
+| | 36–40 | 2,400 Calories | 2,600 Calories | 2,800 Calories | **2,400–2,800 Calories** |
+| | 41–45 | 2,200 Calories | 2,600 Calories | 2,800 Calories | **2,200–2,800 Calories** |
+| | 46–55 | 2,200 Calories | 2,400 Calories | 2,800 Calories | **2,200–2,800 Calories** |
+| | 56–60 | 2,200 Calories | 2,400 Calories | 2,600 Calories | **2,200–2,600 Calories** |
+| | 61–65 | 2,000 Calories | 2,400 Calories | 2,600 Calories | **2,000–2,600 Calories** |
+| | 66–75 | 2,000 Calories | 2,200 Calories | 2,600 Calories | **2,000–2,600 Calories** |
+| | 76+ | 2,000 Calories | 2,200 Calories | 2,400 Calories | **2,000–2,400 Calories** |
 
-In this phase of my research, I have been collecting personal dietary entries since April 16th. I began by establishing a structured dataset that includes dates, meal times, and specific food content. However, while auditing this data, I discovered that the records have significant limitations in terms of accuracy. Because I lack precise measurements for food quantities, my calorie estimations remain somewhat subjective. Additionally, I recognize that my current dataset is limited to my own experience and lacks broader social representativeness.
+
+Additionally, I recognize that my current dataset is limited to my own experience and lacks broader social representativeness.
 More importantly, this recording process has clearly revealed my long-standing "meal skipping" behavior. I noticed a consistent pattern of skipping breakfast on holidays and ignoring lunch during busy school days. For me, this data is more than just numbers; it represents a significant health risk, especially given my family history of gastrointestinal diseases.
 
 Because of these findings, I want to shift the focus of my project. It is moving from being a simple "personal diary" to becoming a "social intervention tool." By revealing the behavioral vulnerabilities hidden within my own data, I aim to create a design that raises public awareness about the importance of regular eating habits and prioritizing one's well-being.
 
-![Alt text](../assets/week-05/week5_image.jpg)
+![sketch data](../assets/week-05/week5_image.jpg)
 
 For the next stage of my project, I need to calculate my daily calorie intake through further research and problem-solving. I am currently exploring two ways to get this nutritional data: using a nutrition API like USDA FoodData Central or Edamam, or querying Google Gemini for estimated values. My current dataset, which includes the date, meal type, and food items, will serve as the initial foundation, but I plan to add the caloric content after completing this research.
 
@@ -173,7 +180,16 @@ This discussion changed my direction in a small but important way. Before, I foc
 
 ### 2. Technical Skill Building
 
+### Current Progress and Development 
+I am using p5.js to design the visual interface. Below are the initial images and code from my Week 5 report, representing the rough data visualization from the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization does not come from a standard nutrition API; instead, I am using Google Gemini to query the energy content of foods. At this stage, I am collecting nutritional data manually, but my next step is to find a functional API to automate this process within the visualization.
 
+### Video & Code
+
+<iframe src="https://www.youtube.com/embed/ZtuKyqvnCUM" width="560" height="315"> </iframe>
+
+Below are the P5.JS code: 
+
+![Alt text](../assets/week-06/code.png) 
 ### 3. Initial Concept Sketch
 Based on my paper sketches from class, I created a more detailed concept. The first layer is the physical laser-cut piece. Each day is a circular layer. The size of the circle shows how much I ate. Missing meals create empty spaces. When stacked together, these layers show my eating patterns over time.
 
@@ -183,6 +199,9 @@ Based on my paper sketches from class, I created a more detailed concept. The fi
 
 (Gastric Health – How Overeating or Under-eating Can Impact Your Stomach)
 https://gastro.com.sg/gastric-health-how-overeating-or-under-eating-can-impact-your-stomach/#:~:text=When%20you%20do%20not%20eat,can%20affect%20your%20overall%20wellbeing.
+
+(How Many Calories Should You Eat in a Day?)
+https://health.clevelandclinic.org/how-many-calories-a-day-should-i-eat
 
 https://www.instagram.com/p/DDEtR3EiRrU/?img_index=3
 

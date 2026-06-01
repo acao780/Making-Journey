@@ -282,6 +282,7 @@ My project is a physical data visualization that combines digital design and las
 | 2 | Laser Cut Machine | To create the physical layers |
 | 3 | Data Collection | To record and organize my food data |
 | 4 | Photography | To document my final project |
+
 ![Alt text](../assets/week-06/brainstorm.jpg)
 
 ## Reference

@@ -183,40 +183,25 @@ To support this process, I will improve my skills in p5.js, Adobe Illustrator, a
 ## Independent Study
 
 ### 1. Consultation Reflection
+During the proposal consultation, I met with my instructor to discuss my project idea of creating a food diary that tracks both eating behaviour and daily calorie intake. I shared my personal experience of losing weight due to medication, developing irregular eating habits, and how this motivated me to pay more attention to my health through mindful eating.
 
-During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of losing weight last year and how this motivated me to take better care of my body.
+The instructor asked several helpful questions that challenged my thinking. First, he asked who my target audience was—myself or others. This made me reconsider whether my project should remain a personal reflection or communicate a broader message. Second, he asked how I would obtain accurate nutritional data. At the time, I was unsure about reliable sources and methods for calorie calculation. Finally, he encouraged me to research existing data visualisation projects for inspiration and to understand how other designers communicate complex information.
 
-The instructor asked several helpful questions. First, he asked who my audience was. This made me think about whether my project was for myself or for others. Second, he asked how I would get accurate nutritional data. I admitted that I was not sure yet. Third, he suggested that I look at established data visualization projects for reference.
-
-This discussion changed my direction in a small but important way. Before, I thought only about collecting my own data. After the consultation, I realized that I needed to make the data meaningful to a wider audience. I started to think about how my personal story could connect to larger health issues.
-
-I will take two actions based on this consultation. First, I will add a column for the "reason" behind each meal. This makes the data more than just numbers. Second, I will research nutrition APIs to get accurate calorie information. 同时，我需要做更过关于吃饭为什么重要的research，并找一些数据等
-
-（second one)
-
-During the proposal consultation, I met with my instructor to discuss my project. I explained my idea about creating a food diary that tracks both my eating behavior and daily caloric intake. I shared my personal experience of having a medicine cause weight losing, having an irregular eating habits and how this motivated me to take better care of my body through mindful eating.
-
-The instructor asked several helpful questions that shifted my thinking. First, he asked who my target audience was — myself or others? This made me reconsider whether my project was purely personal or should share a broader message. Second, he asked how I would obtain accurate nutritional data. I admitted that I was still unsure about reliable sources. Third, he suggested that I research established data visualization projects for reference and inspiration.
-
-This discussion changed my direction in a small but important way. Before, I focused only on collecting my own data. After the consultation, I realized I needed to make the data meaningful to a wider audience. I began thinking about how my personal story could connect to larger conversations about health and eating habits.
-
-**I will take two actions based on this consultation. First, I will add a column for the "emotional reason" behind each meal — why am I eating? Am I hungry, bored, stressed, or celebrating? This makes the data richer than just numbers. Second, I will research nutrition APIs (such as the USDA FoodData Central or Nutritionix) to obtain accurate calorie information.** (这个需要增加一些research）
-
-**[Insert Photo: Photo 1 — Consultation notes or mind map showing feedback themes]**
+The discussion helped sharpen my project direction. Initially, I focused mainly on documenting my own eating habits. However, I realised that I need to connect my personal experience to wider issues surrounding nutrition, health, and wellbeing. As a result, I plan to expand my research beyond my own dataset and investigate why regular eating is important, including the physical and mental impacts of skipping meals. I will also explore nutrition databases and APIs to improve the accuracy of my calorie data and study existing data visualisation and data sculpture projects to inform future design decisions.
 
 ### 2. Technical Skill Building
 
 My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
 The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
 I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.
-### 3.2 What do I need to learn?
+
 | Priority | Skill/Tool | Why I Need It |
 |----------|-----------|--------------|
 | 1 | Drawing / Sketching | To visualize my idea before making |
 | 2 | Laser Cut Machine | To create the physical layers |
 | 3 | Data Collection | To record and organize my food data |
 | 4 | Photography | To document my final project |
-### 3.3 What are my next steps?
+
 My next step is to finish the data collection. I need to add the "reason" column to my table. This means recording why I skipped a meal. Was I busy? Was I not hungry? Did I sleep late? Understanding the "why" behind my behavior is important. I also need to calculate the calories for each meal. There are two ways to do this. First, I can use the USDA FoodData Central API, which is free and accurate. Second, I can search on Google Gemini for estimated values. Either way, I need to finish this before I start designing.
 After the data is ready, I will start drawing the first sketch on paper. I want to try 2-3 different designs. Each design will show the data in a different way. I will ask my classmates for feedback on these sketches. This will help me choose the best direction. While waiting for feedback, I will begin to make a simple version first. I will add colors and more details later.
 Finally, I will book time at the laser cut workshop. I need to practice on cheap paper before using the final material. This helps me reduce waste and save money. I will iterate 3-4 times until the design looks good.

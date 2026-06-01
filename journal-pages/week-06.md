@@ -258,6 +258,7 @@ Following the skills roadmap developed in class, I decided to focus on p5.js as 
 
 To further develop this skill, I used Google Gemini to help generate p5.js code based on natural language descriptions of my ideas. Instead of writing code from scratch, I described the visual effects I wanted to create and then modified the generated code through testing and experimentation.
 
+#### Intial concept sketch:
 ![Alt text](../assets/week-06/week6_images2.png)
 ![code](../assets/week-06/week6_images1.png)
 This was my first design concept, which I initially sketched during class and later transformed into a digital version using p5.js. In this version, each circle represents one day of recorded data, and the size of the circle reflects the total calorie intake for that day. However, after testing the visualisation, I realised that the red dots did not communicate enough information on their own. As a result, I began an iterative process with Google Gemini to improve the design. Through several rounds of discussion and experimentation, I added an interactive feature that reveals additional information when the user hovers over a red dot. The visualisation now displays the food items associated with that day, highlighting repeated foods that appeared across multiple days. This iteration helped make the data more informative and engaging. Instead of only showing calorie intake through circle size, the visualisation now allows users to explore eating patterns and recurring food choices. Through this process, I learned how interaction design can help communicate complex data more effectively and encourage deeper exploration of the dataset.
@@ -270,11 +271,10 @@ One important insight from this process was that digital visualisation alone did
 
 As a result, I began investigating how laser-cut layers could represent daily eating behaviour in a tangible form. Learning p5.js not only improved my technical skills but also helped me refine the overall direction of the project by showing me what worked and what was missing. 
 
-### Current Progress and Development 
-After a few day, I just relised that p5.js is really hard to convey ideas since my initial sketch was too simple and can't tell any useful message to awareness of taking care of body by having food... the p5.js design looks really simple and i can not develop through a lot, 
-My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
-The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
-I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.
+## 3. Concept Sketch & Current Progress and Development 
+After spending several days experimenting with p5.js, I realised that it was difficult to communicate the message I wanted to convey. While p5.js was useful for displaying data patterns, my initial visualisations felt too simple and did not effectively raise awareness about the importance of maintaining healthy eating habits. At the same time, I reflected on my previous experience with laser cutting from last year. Since I was already familiar with the fabrication process, I felt more confident exploring a physical approach. This led me to shift my focus towards laser-cut data visualisation. I believe a physical object can better communicate the presence, absence, and impact of eating habits, while also creating a more engaging and memorable experience for viewers.
+
+My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. The physical part will be made with laser cut. Each piece will represent a food. The thickness of each piece will show how much I ate. If I skipped a meal, that piece will be missing. When all pieces are stacked together, viewers will see the pattern of my eating habits.
 
 | Priority | Skill/Tool | Why I Need It |
 |----------|-----------|--------------|
@@ -282,19 +282,6 @@ I will first draw the design on paper. This helps me see the idea before cutting
 | 2 | Laser Cut Machine | To create the physical layers |
 | 3 | Data Collection | To record and organize my food data |
 | 4 | Photography | To document my final project |
-
-My next step is to finish the data collection. I need to add the "reason" column to my table. This means recording why I skipped a meal. Was I busy? Was I not hungry? Did I sleep late? Understanding the "why" behind my behavior is important. I also need to calculate the calories for each meal. There are two ways to do this. First, I can use the USDA FoodData Central API, which is free and accurate. Second, I can search on Google Gemini for estimated values. Either way, I need to finish this before I start designing.
-After the data is ready, I will start drawing the first sketch on paper. I want to try 2-3 different designs. Each design will show the data in a different way. I will ask my classmates for feedback on these sketches. This will help me choose the best direction. While waiting for feedback, I will begin to make a simple version first. I will add colors and more details later.
-Finally, I will book time at the laser cut workshop. I need to practice on cheap paper before using the final material. This helps me reduce waste and save money. I will iterate 3-4 times until the design looks good.
-
-After seeing these references, I decided to move in a clearer direction. I want to combine digital visualization with handmade physical elements. The laser cut will show the patterns, and the colors will show the feelings. This approach feels more meaningful than just numbers on a screen.
-
-The data also influenced my design direction. Originally, I planned to create a digital visualisation using p5.js. However, I realised that a physical data sculpture could better communicate the personal and emotional aspects of eating habits. The calorie data can provide a clear numerical structure, while handmade physical elements can represent personal experiences, emotions, and energy levels in a more meaningful way.
-
-For these reasons, I decided to restart the data collection process with a larger group of participants and use the new dataset to inform the final design outcome.
-
-### 3. Initial Concept Sketch
-Based on my paper sketches from class, I created a more detailed concept. The first layer is the physical laser-cut piece. Each day is a circular layer. The size of the circle shows how much I ate. Missing meals create empty spaces. When stacked together, these layers show my eating patterns over time.
 ![Alt text](../assets/week-06/brainstorm.jpg)
 
 ## Reference

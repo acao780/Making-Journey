@@ -105,6 +105,7 @@ I will be documenting all my data collection here, although this is week 6 journ
 | 05/31 | weekend  | chicken noodles + black tea | steak noodles + apple | steam chicken + rice + chicken soup | 2100 | 8 |
 
 #### My mum's dietary log (May 22, 2026 – May 31, 2026)， 10 days:
+
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
 | 05/22 | Working Day | Chicken Noodles + Black Tea | Dumpling | Steak Dish + Rice | 1850 | 7 |
@@ -125,6 +126,7 @@ Unlike my own habit of occasionally missing meals due to busy schedules, or my f
 This dataset became an important comparison point within my project. It demonstrated that regular eating habits are achievable within everyday life and highlighted the potential benefits of meal consistency. Comparing these three datasets revealed that eating behaviour is shaped by different motivations, lifestyles, and responsibilities. Together, they provided a broader understanding of how people relate to food and reinforced the importance of promoting awareness around regular meals and personal wellbeing.
 
 #### My older sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days:
+
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
 | 05/22 | Working Day | Chicken Noodles + Juice | Dumpling | Steak Dish + Rice | 1950 | 7 |
@@ -139,6 +141,7 @@ This dataset became an important comparison point within my project. It demonstr
 | 05/31 | Weekend | None | Steak Noodles | Steam Chicken + Rice + Chicken Soup | 1700 | 6 |
 
 #### My youger sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days:
+
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
 | 05/22 | School | Chicken Noodles + Milk | None | Steak Dish + Rice | 1500 | 5 |
@@ -153,6 +156,7 @@ This dataset became an important comparison point within my project. It demonstr
 | 05/31 | Weekend | Nibbles + Cereal + Chocolate Milk | Fried Rice | Steam Chicken + Rice + Chicken Soup | 2350 | 9 |
 
 #### My friend's Diet and Calorie Record (April 16 - June) 10 days：
+
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
 | 05/20 | Working Day | None | Fried Rice + Bubble Tea | Fried Chicken + Coke + Nibbles | 2450 | 7 |

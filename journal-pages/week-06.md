@@ -142,43 +142,43 @@ The fifth reference is from "Domestic Data Streamers," a design team from Barcel
 The sixth reference is from Nathalie Miebach, an artist who translates complex data into hand-woven 3D sculptures. She turns abstract numbers into intricate physical structures that let audiences observe the fragility and interconnectedness of data. What attracts me is how she uses the structural integrity of a weave as a metaphor for stability. I could use this weaving concept to represent my daily eating routines; consistent meals would form a strong, tightly woven pattern.
 
 After researching how different artists express data in unique ways, I am really excited to move on to the next phase: transforming my own data collection into amazing artwork. I am incredibly inspired by their use of drawing, laser-cutting, handcrafting, and coding to visualize data. This has deeply impacted me and made me reflect on how I can express and convey my own data to make a meaningful impact on others.
-
-## 3. Project Planning and Skills Roadmap
+## 3. Project Planning and Skills Roadmap 
 ### 3.1 What do I need to make?
-At this stage, I need to create a range of experiments and prototypes rather than a final outcome. These experiments will help me explore different ways of representing my food diary data.
+At this stage, I need to create a series of experiments that explore different ways of representing my food diary data. Rather than focusing on a final outcome, I will produce sketches, concept drawings, and small prototypes to test how information can be translated into visual and physical forms.
 
-I plan to produce sketches, concept drawings, and simple prototypes using both digital and physical methods. This may include p5.js visualisations, paper models, laser-cut samples, and material tests. Through these experiments, I hope to identify the most suitable approach for communicating eating habits, calorie intake, and energy levels.
+My experiments will investigate how calorie intake, meal patterns, and energy levels can be represented through colour, shape, size, layering, or movement. I will test both digital outputs using p5.js and physical outputs using paper, cardboard, and laser-cut materials. These explorations will help me evaluate which approach communicates the data most effectively and identify a suitable direction for the final project.
 
-The purpose of this stage is to explore possibilities and develop a clear direction for the final project.
+
+## 画一个草图
+
 ### 3.2 What do I need to learn?
-1. **p5.js Programming**
+1. Data Visualisation Principles
 
-   * Learn how to visualise data using code and create interactive experiments.
+Learn how designers transform raw information into meaningful visual forms and how visual elements can communicate patterns and relationships.
 
-2. **Laser Cutting**
+2. p5.js Programming
 
-   * Learn how to prepare vector files and understand the fabrication process.
+Develop basic coding skills to create digital and interactive data visualisations.
 
-3. **Adobe Illustrator**
+3. Adobe Illustrator
 
-   * Create digital drawings and files for prototyping and laser cutting.
+Learn how to create vector graphics and prepare files for fabrication and prototyping.
 
-4. **Data Visualisation Methods**
+4. Laser Cutting Techniques
 
-   * Research different ways designers represent information and transform data into visual forms.
+Understand how to prepare laser-cut files, choose suitable materials, and operate fabrication equipment safely.
 
-5. **Material Experimentation**
+5. Material Experimentation
 
-   * Explore how different materials, such as cardboard, wood, and acrylic, can communicate information through form and structure.
-### 3.3 What are my next steps? 
-At this stage, I am still exploring possible directions for my project and have not decided on a final outcome. My next step is to experiment with different tools and methods to understand what kind of data visualisation best suits my food diary dataset.
+Explore how different materials and construction methods can influence the communication of data.
 
-I plan to explore both digital and physical approaches. For the digital side, I will use p5.js to test different ways of visualising calorie intake, meal patterns, and energy levels. For the physical side, I will research laser-cutting techniques and create simple prototypes to investigate how data can be represented through shape, size, layering, or material.
+### 3.3 What are my next steps?
 
-At the same time, I will continue collecting and organising my data to identify interesting patterns and themes. I will also look at examples of data visualisation and data sculptures from other designers to gain inspiration.
+My next step is to continue collecting and organising my food diary data while analysing it for patterns and relationships. Once the dataset is complete, I will identify which variables are most meaningful to visualise, such as calorie intake, meal frequency, and energy levels.
 
-Through experimentation, sketching, and prototyping, I hope to develop a clearer design direction and determine the most effective way to communicate the relationship between eating habits, calorie intake, and wellbeing.
+At the same time, I will begin researching examples of data visualisation, data sculptures, and physical data representations created by other designers. Using these references, I will generate a range of sketches and concepts before developing simple digital and physical prototypes.
 
+To support this process, I will improve my skills in p5.js, Adobe Illustrator, and laser cutting. Through testing, reflection, and iteration, I aim to discover an appropriate visual language for my dataset and establish a clear direction for the final project.
 
 ## Independent Study
 

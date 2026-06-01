@@ -188,17 +188,20 @@ The instructor asked several helpful questions that challenged my thinking. Firs
 The discussion helped sharpen my project direction. Initially, I focused mainly on documenting my own eating habits. However, I realised that I need to connect my personal experience to wider issues surrounding nutrition, health, and wellbeing. As a result, I plan to expand my research beyond my own dataset and investigate why regular eating is important, including the physical and mental impacts of skipping meals. I will also explore nutrition databases and APIs to improve the accuracy of my calorie data and study existing data visualisation and data sculpture projects to inform future design decisions.
 
 ### 2. Technical Skill Building
-课堂介绍后，我开始用p5.js 去复刻我课上的skech.我用自然语言描述了我的需求，然后google gemini 给我生成了p5.js的代码。在这一次的尝试中，我发现这个软件可以准确的表达出我i想要的效果。与此同时，我还尝试了不同的设计，例如。。。
+Following the skills roadmap developed in class, I decided to focus on p5.js as my first technical skill. Before this project, I had use p5.js since week 1, therefore this would be a good tool option for my data design. To learn the software, I used Google Gemini to help generate p5.js code based on natural language descriptions of my ideas. Instead of writing code from scratch, I described the visual effects I wanted to create and then modified the generated code through testing and experimentation.
 
-2. 技术技能培养
+Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
 
-利用课堂上制定的技能路线图，解决你的首要技术差距。记录你的学习过程，包括文字和图片证据，并反思你尝试了什么、学到了什么，以及这些如何帮助你推进项目开发（例如，通过培养技能以进行下一步，或者通过揭示你需要调整方向，因为某些方法行不通）。
 
-3. 初步概念草图
+One important insight from this process was that digital visualisation alone did not fully communicate the emotional and personal aspects of my dataset. While p5.js was effective for showing patterns and numerical information, it felt less successful at expressing the lived experience behind irregular eating habits. This led me to explore physical data visualisation and laser-cut fabrication as an alternative direction.
 
-在课堂上绘制的草图/示意图的基础上，根据你选择的数据集，绘制更精细的草图、粗略的数字原型、实体模型或编写简短的代码实验，以可视化某些内容——无论它只是初步的。下周上课时请带上你的草图。
+As a result, I began investigating how laser-cut layers could represent daily eating behaviour in a tangible form. Learning p5.js not only improved my technical skills but also helped me refine the overall direction of the project by showing me what worked and what was missing.
 
  
+
+
+
+### Current Progress and Development 
 
 My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
 The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
@@ -221,9 +224,6 @@ The data also influenced my design direction. Originally, I planned to create a 
 
 For these reasons, I decided to restart the data collection process with a larger group of participants and use the new dataset to inform the final design outcome.
 
-
-### Current Progress and Development 
-I am using p5.js to design the visual interface. Below are the initial images and code from my Week 5 report, representing the rough data visualization from the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization does not come from a standard nutrition API; instead, I am using Google Gemini to query the energy content of foods. At this stage, I am collecting nutritional data manually, but my next step is to find a functional API to automate this process within the visualization.
 
 ### Video & Code
 

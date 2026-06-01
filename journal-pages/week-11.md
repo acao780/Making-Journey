@@ -13,6 +13,10 @@ using this check point sheet to check my weekly journey, here's what i check at 
 
 ### add your project's development pictures
 ![Alt text](../assets/week-11/week11_design.png)
+![Alt text](../assets/week-11/trees.png)
+![Alt text](../assets/week-11/datatree_website.png)
+![Alt text](../assets/week-11/detailed_design.png)
+![Alt text](../assets/week-11/detailed_design1.png)
 
 
 

@@ -41,7 +41,7 @@ I also rate my energy level between 1 and 10; this represents my overall physica
 
 In conclusion, an audit of my dietary logs from April 16th to June 1 revealed a chronic pattern of missing meals—specifically skipping breakfast on holidays and lunch on busy school days. Recognizing that simple food logs lacked data depth, I upgraded my tracking methodology by introducing two critical metrics: total calories and daily energy levels (1–10) to map the physical and psychological impact of these habits. However, I soon realized that focusing solely on my own experience created a severe limitation in social representation, failing to capture the broader 'why' behind meal-skipping. Driven by these insights, my project is undergoing a profound shift from a simple 'personal diary' to a 'social intervention tool' aimed at raising public awareness about irregular eating habits and self-care. To achieve this, my design direction is transitioning from a purely digital p5.js visualization into a hybrid narrative approach that combines digital outputs with handmade visual data. To build a robust foundation for this new direction, I will expand my scope to simultaneously track the dietary data of family members and friends, thereby better reflecting the diverse habits of my target personas. Consequently, to address all existing data gaps and gather a more scientifically and emotionally rigorous dataset, I have decided to officially redo and restart my data collection process."
 
-### Anna's Diet and Calorie Record (April 16 - June )
+### Anna's Diet and Calorie Record (16/04 - 31/05)， 46 days.
 | Date | state | Breakfast| Lunch | Dinner | Total calories | Energy Levels (1-10) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **04/16** | Holiday | None | fried rice | chicken soup + rice + steak dish | 1650 | 5 |
@@ -134,7 +134,7 @@ After seeing these references, I decided to move in a clearer direction. I want 
 ## 3. Project Planning and Skills Roadmap
 ### 3.1 What do I need to make?
 
-## （My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
+My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
 The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
 I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.
 ### 3.2 What do I need to learn?
@@ -174,6 +174,8 @@ This discussion changed my direction in a small but important way. Before, I foc
 **[Insert Photo: Photo 1 — Consultation notes or mind map showing feedback themes]**
 
 ### 2. Technical Skill Building
+
+
 
 ### Current Progress and Development 
 I am using p5.js to design the visual interface. Below are the initial images and code from my Week 5 report, representing the rough data visualization from the planning stage. Following the proposal consultation, I am now focused on further developing this idea. The first step in the development phase is to find a usable API that can be integrated into my project. Currently, the nutritional data for my p5.js visualization does not come from a standard nutrition API; instead, I am using Google Gemini to query the energy content of foods. At this stage, I am collecting nutritional data manually, but my next step is to find a functional API to automate this process within the visualization.

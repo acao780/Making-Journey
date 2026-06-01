@@ -46,14 +46,10 @@ In conclusion, an audit of my dietary logs from April 16th to June 1 revealed a 
 ### Data Collection Method
 The data was collected through a daily food diary. Each day, I recorded what I ate, the type of day it was (school day, weekend, or holiday), my estimated calorie intake, and my daily energy level on a scale from 1 to 10.
 ### Data Categories
-#### Date and Day Type
-This records when the data was collected and provides context about my daily routine. Different types of days, such as school days, weekends, and holidays, may influence eating habits.
-#### Breakfast, Lunch, and Dinner
-These categories record what foods were eaten during each meal. They also show whether a meal was skipped.
-#### Total Calories
-This is an estimate of the total amount of energy consumed each day through food and drinks.
-#### Energy Level (1–10)
-This is a self-reported score that reflects how energetic I felt throughout the day. Higher scores indicate feeling more focused, active, and energetic, while lower scores indicate tiredness or lack of energy.
+Date and Day Type: This records when the data was collected and provides context about my daily routine. Different types of days, such as school days, weekends, and holidays, may influence eating habits.
+Breakfast, Lunch, and Dinner: These categories record what foods were eaten during each meal. They also show whether a meal was skipped.
+Total Calories: This is an estimate of the total amount of energy consumed each day through food and drinks.
+Energy Level (1–10): This is a self-reported score that reflects how energetic I felt throughout the day. Higher scores indicate feeling more focused, active, and energetic, while lower scores indicate tiredness or lack of energy.
 
 ### Data collections (5 people)
 I will be documenting all my data collection here, eventually this is week 6 journal page, I want my data collection to be clear and clean just gather them in one place.

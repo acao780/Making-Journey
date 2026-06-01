@@ -57,7 +57,7 @@ This is a self-reported score that reflects how energetic I felt throughout the 
 
 ### Anna's Self-tracked personal dietary log (April 16, 2026 – May 31, 2026)， 46 days.
 
-| Date | state | Breakfast| Lunch | Dinner | Total calories | Energy Levels (1-10) |
+｜ Date ｜ state | Breakfast| Lunch | Dinner | Total calories | Energy Levels (1-10) |
 |-----|-----|-----|-----|-----|-----|-----|
 | 04/16 | Holiday | None | fried rice | chicken soup + rice + steak dish | 1650 | 5 |
 | 04/17 | Holiday | eggs + nibbles | steak nodolles | steam chicken + rice + Boiled green vegetable| 2150 | 8 |

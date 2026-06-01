@@ -14,8 +14,7 @@ Therefore, I began recording my data on April 16th, at the start of the school b
 The purpose of my project is to remind people to take care of their bodies. By showing my own eating habits, I want to raise awareness about the importance of regular meals. I believe that small behaviors, like skipping breakfast, can add up to big health problems over time.
 
 ## 1. Data Exploration 
-In this phase of my research, I have been collecting personal dietary entries since April 16th. I began by establishing a structured dataset that includes dates, meal times, and specific food content. However, while auditing this data, I discovered that the records have significant limitations in terms of data visualization and depth. Currently, my data is strictly confined to logs of what I eat for each meal, lacking any supporting metrics or deeper quantitative evidence. Furthermore, I realized that my current findings are limited to my personal experience and lack broader social representation. Therefore, moving forward, I will simultaneously track the dietary data of my family members and friends, which will allow the project to better reflect the diverse habits of my target personas.
-
+In this phase of my research, I have been collecting personal dietary entries since April 16th. I began by establishing a structured dataset that includes dates, meal times, and specific food content. However, while auditing this data, I discovered that the records have significant limitations in terms of data visualization and depth. Currently, my data is strictly confined to logs of what I eat for each meal, lacking any supporting metrics or deeper quantitative evidence. Furthermore, I realized that my current findings are limited to my personal experience and lack broader social representation. If only collecting my dietary, it would have limited sample size. One limitation of this project is that the data only comes from one person. Since the food diary records my own eating habits, it does not represent the experiences of a wider group of people. This makes it difficult to draw broader conclusions about eating behaviours in society. Therefore, I will simultaneously track the dietary data of my family members and friends, which will allow the project to better reflect the diverse habits of my target personas.
 ![sketch data](../assets/week-05/week5_image.jpg)
 
 Based on my secondary research and the behavioral patterns observed so far—specifically, my habit of frequently skipping breakfast or lunch—I have decided to add two new measurement metrics to my tracking sheets. Therefore, I need to incorporate the measurement of both total calories and daily energy levels.
@@ -37,11 +36,25 @@ From the article - “How Many Calories Should You Eat in a Day?”
 | | 66–75 | 2,000 Calories | 2,200 Calories | 2,600 Calories | **2,000–2,600 Calories** |
 | | 76+ | 2,000 Calories | 2,200 Calories | 2,400 Calories | **2,000–2,400 Calories** |
 
+Another limitation of this project is the calorie calculations are based on estimated food portions rather than exact measurements. Because I did not weigh every meal, some calorie values may be inaccurate. Unfortunately, I don't have a food scale to weight every meals。 And I have no way to weigh myself when eating at restaurants. However, the data is still useful for identifying overall patterns and trends.
+
 I also rate my energy level between 1 and 10; this represents my overall physical and mental state for the day, capturing how my body actually feels in response to what I eat. In this design project, while Calories serve as the objective, quantitative input (measuring the raw energy consumed), the Energy Level acts as the subjective, qualitative output (tracking holistic vitality, cognitive focus, and physical fatigue). By juxtaposing these two metrics, the data visualization highlights the critical correlation between food intake and daily performance. More importantly, it maps the behavioral chain reaction—such as the severe energy drops (levels 1–3) that directly follow skipped meals—thereby transforming personal intuition into a visible, data-driven warning system for self-care.
 
-In conclusion, an audit of my dietary logs from April 16th to June 1 revealed a chronic pattern of missing meals—specifically skipping breakfast on holidays and lunch on busy school days. Recognizing that simple food logs lacked data depth, I upgraded my tracking methodology by introducing two critical metrics: total calories and daily energy levels (1–10) to map the physical and psychological impact of these habits. However, I soon realized that focusing solely on my own experience created a severe limitation in social representation, failing to capture the broader 'why' behind meal-skipping. Driven by these insights, my project is undergoing a profound shift from a simple 'personal diary' to a 'social intervention tool' aimed at raising public awareness about irregular eating habits and self-care. To achieve this, my design direction is transitioning from a purely digital p5.js visualization into a hybrid narrative approach that combines digital outputs with handmade visual data. To build a robust foundation for this new direction, I will expand my scope to simultaneously track the dietary data of family members and friends, thereby better reflecting the diverse habits of my target personas. Consequently, to address all existing data gaps and gather a more scientifically and emotionally rigorous dataset, I have decided to officially redo and restart my data collection process."
+In conclusion, an audit of my dietary logs from April 16th to June 1 revealed a chronic pattern of missing meals—specifically skipping breakfast on holidays and lunch on busy school days. Recognizing that simple food logs lacked data depth, I upgraded my tracking methodology by introducing two critical metrics: total calories and daily energy levels (1–10) to map the physical and psychological impact of these habits. However, I soon realized that focusing solely on my own experience created a severe limitation in social representation, failing to capture the broader 'why' behind meal-skipping. Driven by these insights, my project is undergoing a profound shift from a simple 'personal diary' to a 'social intervention tool' aimed at raising public awareness about irregular eating habits and self-care. To achieve this, my design direction using digital p5.js visualization to approach. To build a robust foundation for this new direction, I will expand my scope to simultaneously track the dietary data of family members and friends, thereby better reflecting the diverse habits of my target personas. Consequently, to address all existing data gaps and gather a more scientifically and emotionally rigorous dataset, I have decided to officially redo and restart my data collection process.
 
-### Anna's Diet and Calorie Record (16/04 - 31/05)， 46 days.
+### Data Collection Method
+The data was collected through a daily food diary. Each day, I recorded what I ate, the type of day it was (school day, weekend, or holiday), my estimated calorie intake, and my daily energy level on a scale from 1 to 10.
+### Data Categories
+#### Date and Day Type
+This records when the data was collected and provides context about my daily routine. Different types of days, such as school days, weekends, and holidays, may influence eating habits.
+#### Breakfast, Lunch, and Dinner
+These categories record what foods were eaten during each meal. They also show whether a meal was skipped.
+#### Total Calories
+This is an estimate of the total amount of energy consumed each day through food and drinks.
+#### Energy Level (1–10)
+This is a self-reported score that reflects how energetic I felt throughout the day. Higher scores indicate feeling more focused, active, and energetic, while lower scores indicate tiredness or lack of energy.
+
+### Anna's Self-tracked personal dietary log (April 16, 2026 – May 31, 2026)， 46 days.
 | Date | state | Breakfast| Lunch | Dinner | Total calories | Energy Levels (1-10) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **04/16** | Holiday | None | fried rice | chicken soup + rice + steak dish | 1650 | 5 |
@@ -91,7 +104,6 @@ In conclusion, an audit of my dietary logs from April 16th to June 1 revealed a 
 | **05/30** | weekend  | eggs + nibbles + grapes | fried rice + apple | Boiled broccoli + steak dish + rice | 1900 | 7 |
 | **05/31** | weekend  | chicken noodles + black tea | steak noodles + apple | steam chicken + rice + chicken soup | 2100 | 8 |
 
-## （在week10加上这些数据）
 ### Anna's friend's Diet and Calorie Record (April 16 - June), 
 - he always missed breakfast, almost do not have breakfast. and he also want to loss wait, so this would be a really unhealthy sign。但是这里也揭露了他少时的原因，一方面是漏掉早餐，但是一方面是减肥故意减少摄取量。这就给我带来了不同的原因。
 
@@ -129,25 +141,44 @@ The fifth reference is from "Domestic Data Streamers," a design team from Barcel
 
 The sixth reference is from Nathalie Miebach, an artist who translates complex data into hand-woven 3D sculptures. She turns abstract numbers into intricate physical structures that let audiences observe the fragility and interconnectedness of data. What attracts me is how she uses the structural integrity of a weave as a metaphor for stability. I could use this weaving concept to represent my daily eating routines; consistent meals would form a strong, tightly woven pattern.
 
-After seeing these references, I decided to move in a clearer direction. I want to combine digital visualization with handmade physical elements. The laser cut will show the patterns, and the colors will show the feelings. This approach feels more meaningful than just numbers on a screen.
+After researching how different artists express data in unique ways, I am really excited to move on to the next phase: transforming my own data collection into amazing artwork. I am incredibly inspired by their use of drawing, laser-cutting, handcrafting, and coding to visualize data. This has deeply impacted me and made me reflect on how I can express and convey my own data to make a meaningful impact on others.
 
 ## 3. Project Planning and Skills Roadmap
 ### 3.1 What do I need to make?
+At this stage, I need to create a range of experiments and prototypes rather than a final outcome. These experiments will help me explore different ways of representing my food diary data.
 
-My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
-The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
-I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.
+I plan to produce sketches, concept drawings, and simple prototypes using both digital and physical methods. This may include p5.js visualisations, paper models, laser-cut samples, and material tests. Through these experiments, I hope to identify the most suitable approach for communicating eating habits, calorie intake, and energy levels.
+
+The purpose of this stage is to explore possibilities and develop a clear direction for the final project.
 ### 3.2 What do I need to learn?
-| Priority | Skill/Tool | Why I Need It |
-|----------|-----------|--------------|
-| 1 | Drawing / Sketching | To visualize my idea before making |
-| 2 | Laser Cut Machine | To create the physical layers |
-| 3 | Data Collection | To record and organize my food data |
-| 4 | Photography | To document my final project |
-### 3.3 What are my next steps?
-My next step is to finish the data collection. I need to add the "reason" column to my table. This means recording why I skipped a meal. Was I busy? Was I not hungry? Did I sleep late? Understanding the "why" behind my behavior is important. I also need to calculate the calories for each meal. There are two ways to do this. First, I can use the USDA FoodData Central API, which is free and accurate. Second, I can search on Google Gemini for estimated values. Either way, I need to finish this before I start designing.
-After the data is ready, I will start drawing the first sketch on paper. I want to try 2-3 different designs. Each design will show the data in a different way. I will ask my classmates for feedback on these sketches. This will help me choose the best direction. While waiting for feedback, I will begin to make a simple version first. I will add colors and more details later.
-Finally, I will book time at the laser cut workshop. I need to practice on cheap paper before using the final material. This helps me reduce waste and save money. I will iterate 3-4 times until the design looks good.
+1. **p5.js Programming**
+
+   * Learn how to visualise data using code and create interactive experiments.
+
+2. **Laser Cutting**
+
+   * Learn how to prepare vector files and understand the fabrication process.
+
+3. **Adobe Illustrator**
+
+   * Create digital drawings and files for prototyping and laser cutting.
+
+4. **Data Visualisation Methods**
+
+   * Research different ways designers represent information and transform data into visual forms.
+
+5. **Material Experimentation**
+
+   * Explore how different materials, such as cardboard, wood, and acrylic, can communicate information through form and structure.
+### 3.3 What are my next steps? 
+At this stage, I am still exploring possible directions for my project and have not decided on a final outcome. My next step is to experiment with different tools and methods to understand what kind of data visualisation best suits my food diary dataset.
+
+I plan to explore both digital and physical approaches. For the digital side, I will use p5.js to test different ways of visualising calorie intake, meal patterns, and energy levels. For the physical side, I will research laser-cutting techniques and create simple prototypes to investigate how data can be represented through shape, size, layering, or material.
+
+At the same time, I will continue collecting and organising my data to identify interesting patterns and themes. I will also look at examples of data visualisation and data sculptures from other designers to gain inspiration.
+
+Through experimentation, sketching, and prototyping, I hope to develop a clearer design direction and determine the most effective way to communicate the relationship between eating habits, calorie intake, and wellbeing.
+
 
 ## Independent Study
 
@@ -175,6 +206,26 @@ This discussion changed my direction in a small but important way. Before, I foc
 
 ### 2. Technical Skill Building
 
+My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
+The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
+I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.
+### 3.2 What do I need to learn?
+| Priority | Skill/Tool | Why I Need It |
+|----------|-----------|--------------|
+| 1 | Drawing / Sketching | To visualize my idea before making |
+| 2 | Laser Cut Machine | To create the physical layers |
+| 3 | Data Collection | To record and organize my food data |
+| 4 | Photography | To document my final project |
+### 3.3 What are my next steps?
+My next step is to finish the data collection. I need to add the "reason" column to my table. This means recording why I skipped a meal. Was I busy? Was I not hungry? Did I sleep late? Understanding the "why" behind my behavior is important. I also need to calculate the calories for each meal. There are two ways to do this. First, I can use the USDA FoodData Central API, which is free and accurate. Second, I can search on Google Gemini for estimated values. Either way, I need to finish this before I start designing.
+After the data is ready, I will start drawing the first sketch on paper. I want to try 2-3 different designs. Each design will show the data in a different way. I will ask my classmates for feedback on these sketches. This will help me choose the best direction. While waiting for feedback, I will begin to make a simple version first. I will add colors and more details later.
+Finally, I will book time at the laser cut workshop. I need to practice on cheap paper before using the final material. This helps me reduce waste and save money. I will iterate 3-4 times until the design looks good.
+
+After seeing these references, I decided to move in a clearer direction. I want to combine digital visualization with handmade physical elements. The laser cut will show the patterns, and the colors will show the feelings. This approach feels more meaningful than just numbers on a screen.
+
+The data also influenced my design direction. Originally, I planned to create a digital visualisation using p5.js. However, I realised that a physical data sculpture could better communicate the personal and emotional aspects of eating habits. The calorie data can provide a clear numerical structure, while handmade physical elements can represent personal experiences, emotions, and energy levels in a more meaningful way.
+
+For these reasons, I decided to restart the data collection process with a larger group of participants and use the new dataset to inform the final design outcome.
 
 
 ### Current Progress and Development 

@@ -14,8 +14,13 @@ Therefore, I began recording my data on April 16th, at the start of the school b
 The purpose of my project is to remind people to take care of their bodies. By showing my own eating habits, I want to raise awareness about the importance of regular meals. I believe that small behaviors, like skipping breakfast, can add up to big health problems over time.
 
 ## 1. Data Exploration 
-In this phase of my research, I have been collecting personal dietary entries since April 16th. I began by establishing a structured dataset that includes dates, meal times, and specific food content. However, while auditing this data, I discovered that the records have significant limitations in terms of accuracy. Because I lack precise measurements for food quantities, my calorie estimations remain somewhat subjective. The energy intake is also really important eventhough you do not missed any meals. Therefore, I need this meansurement of total calorie and enery level as well. 
-From the article, How Many Calories Should You Eat in a Day? 
+In this phase of my research, I have been collecting personal dietary entries since April 16th. I began by establishing a structured dataset that includes dates, meal times, and specific food content. However, while auditing this data, I discovered that the records have significant limitations in terms of data visualization and depth. Currently, my data is strictly confined to logs of what I eat for each meal, lacking any supporting metrics or deeper quantitative evidence. Furthermore, I realized that my current findings are limited to my personal experience and lack broader social representation. Therefore, moving forward, I will simultaneously track the dietary data of my family members and friends, which will allow the project to better reflect the diverse habits of my target personas.
+
+![sketch data](../assets/week-05/week5_image.jpg)
+
+Based on my secondary research and the behavioral patterns observed so far—specifically, my habit of frequently skipping breakfast or lunch—I have decided to add two new measurement metrics to my tracking sheets. Therefore, I need to incorporate the measurement of both total calories and daily energy levels.
+
+From the article - “How Many Calories Should You Eat in a Day?”
 | Gender | Age Group | Sedentary (Low) | Moderately Active (Mid) | Active (High) | Total Intake Range |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Female** | 21–25 | 2,000 Calories | 2,200 Calories | 2,400 Calories | **2,000–2,400 Calories** |
@@ -32,13 +37,12 @@ From the article, How Many Calories Should You Eat in a Day?
 | | 66–75 | 2,000 Calories | 2,200 Calories | 2,600 Calories | **2,000–2,600 Calories** |
 | | 76+ | 2,000 Calories | 2,200 Calories | 2,400 Calories | **2,000–2,400 Calories** |
 
+I also rate my energy level between 1 and 10; this represents my overall physical and mental state for the day, capturing how my body actually feels in response to what I eat. In this design project, while Calories serve as the objective, quantitative input (measuring the raw energy consumed), the Energy Level acts as the subjective, qualitative output (tracking holistic vitality, cognitive focus, and physical fatigue). By juxtaposing these two metrics, the data visualization highlights the critical correlation between food intake and daily performance. More importantly, it maps the behavioral chain reaction—such as the severe energy drops (levels 1–3) that directly follow skipped meals—thereby transforming personal intuition into a visible, data-driven warning system for self-care.
 
-Additionally, I recognize that my current dataset is limited to my own experience and lacks broader social representativeness.
-More importantly, this recording process has clearly revealed my long-standing "meal skipping" behavior. I noticed a consistent pattern of skipping breakfast on holidays and ignoring lunch during busy school days. For me, this data is more than just numbers; it represents a significant health risk, especially given my family history of gastrointestinal diseases.
+More importantly, this recording process has clearly revealed my long-standing "meal skipping" behavior, overeating and not eat enough. I noticed a consistent pattern of skipping breakfast on holidays and ignoring lunch during busy school days. For me, this data is more than just numbers; it represents a significant health risk, especially given my family history of gastrointestinal diseases.
 
 Because of these findings, I want to shift the focus of my project. It is moving from being a simple "personal diary" to becoming a "social intervention tool." By revealing the behavioral vulnerabilities hidden within my own data, I aim to create a design that raises public awareness about the importance of regular eating habits and prioritizing one's well-being.
 
-![sketch data](../assets/week-05/week5_image.jpg)
 
 For the next stage of my project, I need to calculate my daily calorie intake through further research and problem-solving. I am currently exploring two ways to get this nutritional data: using a nutrition API like USDA FoodData Central or Edamam, or querying Google Gemini for estimated values. My current dataset, which includes the date, meal type, and food items, will serve as the initial foundation, but I plan to add the caloric content after completing this research.
 

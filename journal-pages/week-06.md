@@ -107,7 +107,7 @@ I will be documenting all my data collection here, eventually this is week 6 jou
 | 05/30 | weekend  | eggs + nibbles + grapes | fried rice + apple | Boiled broccoli + steak dish + rice | 1900 | 7 |
 | 05/31 | weekend  | chicken noodles + black tea | steak noodles + apple | steam chicken + rice + chicken soup | 2100 | 8 |
 
-#### My mum's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
+#### My mum's dietary log (May 22, 2026 – May 31, 2026)， 10 days:
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
 | 05/22 | Working Day | Chicken Noodles + Black Tea | Dumpling | Steak Dish + Rice | 1850 | 7 |
@@ -127,13 +127,35 @@ Unlike my own habit of occasionally missing meals due to busy schedules, or my f
 
 This dataset became an important comparison point within my project. It demonstrated that regular eating habits are achievable within everyday life and highlighted the potential benefits of meal consistency. Comparing these three datasets revealed that eating behaviour is shaped by different motivations, lifestyles, and responsibilities. Together, they provided a broader understanding of how people relate to food and reinforced the importance of promoting awareness around regular meals and personal wellbeing.
 
-#### My older sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
+#### My older sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days:
+| Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
+|------|------|------|------|------|------|------|
+| 05/22 | Working Day | Chicken Noodles + Juice | Dumpling | Steak Dish + Rice | 1950 | 7 |
+| 05/23 | Weekend | None | Hamburger | Boiled Broccoli + Steak Dish + Rice | 1700 | 6 |
+| 05/24 | Weekend | Steak Noodles + Coffee | Pizza | Chicken Soup + Rice + Steam Chicken | 2350 | 8 |
+| 05/25 | Working Day | Coffee + Bread | Fried Rice | Steak Noodles | 1800 | 6 |
+| 05/26 | Working Day | Coffee + Egg + Dumpling | Sandwich + Salad | Steam Chicken + Rice + Shredded Potatoes | 1900 | 7 |
+| 05/27 | Working Day | Coffee + Sandwich | Steak Dish + Rice | Chicken Soup + Rice + Steak Dish | 2150 | 8 |
+| 05/28 | Working Day | None | Hamburger | Fried Rice + Boiled Green Vegetable + Strawberry | 1800 | 6 |
+| 05/29 | Working Day | Coffee + Cereal + Bread | None | Steam Chicken + Rice + Boiled Broccoli | 1450 | 5 |
+| 05/30 | Weekend | Coffee + Fried Rice | Pizza | Boiled Broccoli + Steak Dish + Rice | 2250 | 8 |
+| 05/31 | Weekend | None | Steak Noodles | Steam Chicken + Rice + Chicken Soup | 1700 | 6 |
 
-#### My youger sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
-
+#### My youger sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days:
+| Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
+|------|------|------|------|------|------|------|
+| 05/22 | School | Chicken Noodles + Milk | None | Steak Dish + Rice | 1500 | 5 |
+| 05/23 | Weekend | Cereal + Sandwich | Fried Rice + Milk | Boiled Broccoli + Steak Dish + Rice | 2050 | 8 |
+| 05/24 | Weekend | Steak Noodles + Juice | Pizza | Chicken Soup + Rice + Steam Chicken | 2400 | 9 |
+| 05/25 | School | Black Tea + Bread | Fried Rice | Steak Noodles | 1850 | 7 |
+| 05/26 | School | Black Tea + Egg + Dumpling | Pie | Steam Chicken + Rice + Shredded Potatoes | 2100 | 8 |
+| 05/27 | School | Sandwich + Milk | Steak Dish + Rice | Chicken Soup + Rice + Steak Dish | 2200 | 8 |
+| 05/28 | School | Egg + Cereal | Pie + Juice | Fried Rice + Boiled Green Vegetable + Strawberry | 2050 | 8 |
+| 05/29 | School | Cereal + Bread | Noodles | Steam Chicken + Rice + Boiled Broccoli | 1900 | 7 |
+| 05/30 | Weekend | Fried Rice + Milk | Bread + Juice | Boiled Broccoli + Steak Dish + Rice | 2150 | 8 |
+| 05/31 | Weekend | Nibbles + Cereal + Chocolate Milk | Fried Rice | Steam Chicken + Rice + Chicken Soup | 2350 | 9 |
 
 #### My friend's Diet and Calorie Record (April 16 - June) 10 days：
-
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
 | 05/20 | Working Day | None | Fried Rice + Bubble Tea | Fried Chicken + Coke + Nibbles | 2450 | 7 |

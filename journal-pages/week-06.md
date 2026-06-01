@@ -188,22 +188,21 @@ The instructor asked several helpful questions that challenged my thinking. Firs
 The discussion helped sharpen my project direction. Initially, I focused mainly on documenting my own eating habits. However, I realised that I need to connect my personal experience to wider issues surrounding nutrition, health, and wellbeing. As a result, I plan to expand my research beyond my own dataset and investigate why regular eating is important, including the physical and mental impacts of skipping meals. I will also explore nutrition databases and APIs to improve the accuracy of my calorie data and study existing data visualisation and data sculpture projects to inform future design decisions.
 
 ### 2. Technical Skill Building
-Following the skills roadmap developed in class, I decided to focus on p5.js as my first technical skill. Before this project, I had use p5.js since week 1, therefore this would be a good tool option for my data design. To learn the software, I used Google Gemini to help generate p5.js code based on natural language descriptions of my ideas. Instead of writing code from scratch, I described the visual effects I wanted to create and then modified the generated code through testing and experimentation.
+My main technical gap was understanding how to translate raw food diary data into a meaningful visual form. Although I had previously used p5.js for simple coding exercises, I had never used it as a data visualisation tool. I was unsure how numerical data, such as calorie intake and energy levels, could be represented through visual elements and interaction. Therefore, I chose p5.js as a way to experiment with different methods of presenting data and to better understand the possibilities and limitations of digital visualisation.
+
+Following the skills roadmap developed in class, I decided to focus on p5.js as my first technical skill. Although I had been using p5.js since Week 1, I had only used it for simple coding exercises and small visual experiments. My main technical gap was understanding how to transform a real dataset into a meaningful and interactive visualisation. I was particularly interested in exploring the possibilities and limitations of p5.js for communicating information beyond basic graphics.
+
+To further develop this skill, I used Google Gemini to help generate p5.js code based on natural language descriptions of my ideas. Instead of writing code from scratch, I described the visual effects I wanted to create and then modified the generated code through testing and experimentation.
 
 ![Alt text](../assets/week-06/week6_images2.png)
 ![code](../assets/week-06/week6_images1.png)
 This was my first design concept, which I initially sketched during class and later transformed into a digital version using p5.js. In this version, each circle represents one day of recorded data, and the size of the circle reflects the total calorie intake for that day. However, after testing the visualisation, I realised that the red dots did not communicate enough information on their own. As a result, I began an iterative process with Google Gemini to improve the design. Through several rounds of discussion and experimentation, I added an interactive feature that reveals additional information when the user hovers over a red dot. The visualisation now displays the food items associated with that day, highlighting repeated foods that appeared across multiple days. This iteration helped make the data more informative and engaging. Instead of only showing calorie intake through circle size, the visualisation now allows users to explore eating patterns and recurring food choices. Through this process, I learned how interaction design can help communicate complex data more effectively and encourage deeper exploration of the dataset.
-![code](../assets/week-06/week6_code.png)
-https://www.youtube.com/watch?v=LwOWF_-xIHc
-
+<iframe src="https://www.youtube.com/embed/LwOWF_-xIHc" width="560" height="315"> </iframe>
 Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
-
-
-
 
 One important insight from this process was that digital visualisation alone did not fully communicate the emotional and personal aspects of my dataset. While p5.js was effective for showing patterns and numerical information, it felt less successful at expressing the lived experience behind irregular eating habits. This led me to explore physical data visualisation and laser-cut fabrication as an alternative direction.
 
-As a result, I began investigating how laser-cut layers could represent daily eating behaviour in a tangible form. Learning p5.js not only improved my technical skills but also helped me refine the overall direction of the project by showing me what worked and what was missing.
+As a result, I began investigating how laser-cut layers could represent daily eating behaviour in a tangible form. Learning p5.js not only improved my technical skills but also helped me refine the overall direction of the project by showing me what worked and what was missing. 
 
 ### Current Progress and Development 
 

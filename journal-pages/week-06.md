@@ -271,7 +271,7 @@ One important insight from this process was that digital visualisation alone did
 As a result, I began investigating how laser-cut layers could represent daily eating behaviour in a tangible form. Learning p5.js not only improved my technical skills but also helped me refine the overall direction of the project by showing me what worked and what was missing. 
 
 ### Current Progress and Development 
-
+After a few day, I just relised that p5.js is really hard to convey ideas since my initial sketch was too simple and can't tell any useful message to awareness of taking care of body by having food... the p5.js design looks really simple and i can not develop through a lot, 
 My project is a physical data visualization that combines digital design and laser-cut craftsmanship. This idea is inspired by Hangjie Cai’s project, "Noisy Factory." My goal is to transform my abstract dietary data into a tangible, 3D piece that people can see and touch. 
 The physical part will be made with laser cut. Each layer will represent a day. The size of each layer will show how much I ate. If I skipped a meal, that layer will be smaller or missing. When all layers are stacked together, viewers will see the pattern of my eating habits.
 I will first draw the design on paper. This helps me see the idea before cutting expensive materials. I will iterate with paper many times until the design looks good. Then I will use the laser cut machine to make the final piece.

@@ -202,6 +202,7 @@ This was my first design concept, which I initially sketched during class and la
 
 ## 声音问题
 <iframe src="https://www.youtube.com/embed/LwOWF_-xIHc" width="560" height="315"> </iframe>
+
 Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
 
 One important insight from this process was that digital visualisation alone did not fully communicate the emotional and personal aspects of my dataset. While p5.js was effective for showing patterns and numerical information, it felt less successful at expressing the lived experience behind irregular eating habits. This led me to explore physical data visualisation and laser-cut fabrication as an alternative direction.

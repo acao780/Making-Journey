@@ -200,8 +200,7 @@ To further develop this skill, I used Google Gemini to help generate p5.js code 
 ![code](../assets/week-06/week6_images1.png)
 This was my first design concept, which I initially sketched during class and later transformed into a digital version using p5.js. In this version, each circle represents one day of recorded data, and the size of the circle reflects the total calorie intake for that day. However, after testing the visualisation, I realised that the red dots did not communicate enough information on their own. As a result, I began an iterative process with Google Gemini to improve the design. Through several rounds of discussion and experimentation, I added an interactive feature that reveals additional information when the user hovers over a red dot. The visualisation now displays the food items associated with that day, highlighting repeated foods that appeared across multiple days. This iteration helped make the data more informative and engaging. Instead of only showing calorie intake through circle size, the visualisation now allows users to explore eating patterns and recurring food choices. Through this process, I learned how interaction design can help communicate complex data more effectively and encourage deeper exploration of the dataset.
 
-## 声音问题
-<iframe src="https://www.youtube.com/embed/LwOWF_-xIHc" width="560" height="315"> </iframe>
+<iframe src="https://www.youtube.com/embed/dpoyehsbqws" width="560" height="315"> </iframe>
 
 Through this process, I learned how p5.js can transform data into visual elements such as shapes, colours, and patterns. I recreated several sketches from class and experimented with different layouts to represent calorie intake, meal frequency, and energy levels. Some designs were too complicated and difficult to read, while others communicated the data more clearly. These experiments helped me understand the strengths and limitations of digital visualisation.
 

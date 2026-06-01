@@ -108,6 +108,24 @@ I will be documenting all my data collection here, eventually this is week 6 jou
 | 05/31 | weekend  | chicken noodles + black tea | steak noodles + apple | steam chicken + rice + chicken soup | 2100 | 8 |
 
 #### My mum's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
+| Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
+|------|------|------|------|------|------|------|
+| 05/22 | Working Day | Chicken Noodles + Black Tea | Dumpling | Steak Dish + Rice | 1850 | 7 |
+| 05/23 | Weekend | Cereal + Sandwich | Fried Rice + Apple | Boiled Broccoli + Steak Dish + Rice | 2100 | 8 |
+| 05/24 | Weekend | Steak Noodles + Tea | Pizza | Chicken Soup + Rice + Steam Chicken | 2300 | 8 |
+| 05/25 | Working Day | Black Tea + Bread | Fried Rice | Steak Noodles | 1800 | 7 |
+| 05/26 | Working Day | Black Tea + Egg + Dumpling | Steak Noodles | Steam Chicken + Rice + Shredded Potatoes | 2050 | 8 |
+| 05/27 | Working Day | Tea + Sandwich | Steak Dish + Rice | Chicken Soup + Rice + Steak Dish | 2200 | 8 |
+| 05/28 | Working Day | Tea + Egg + Cereal | Hamburger | Fried Rice + Boiled Green Vegetable + Strawberry | 2000 | 7 |
+| 05/29 | Working Day | Tea + Cereal + Bread | Noodles | Steam Chicken + Rice + Boiled Broccoli | 1850 | 7 |
+| 05/30 | Weekend | Tea + Fried Rice | Pizza | Boiled Broccoli + Steak Dish + Rice | 2200 | 8 |
+| 05/31 | Weekend | Tea + Nibbles + Cereal | Steak Noodles | Steam Chicken + Rice + Chicken Soup | 2100 | 8 |
+
+My mother's dietary record presented a very different pattern from both my own data and my friend's data. Across the recording period, she consistently ate three meals a day and rarely skipped breakfast. Her meals generally included a balance of carbohydrates, protein, and vegetables, resulting in a relatively stable calorie intake and consistently high energy levels.
+
+Unlike my own habit of occasionally missing meals due to busy schedules, or my friend's intentional meal restriction for weight loss, my mother's eating habits reflected a routine centred around regular nourishment and self-care. Although her diet was not strictly a "healthy diet" in the conventional sense, the consistency of her meal timing appeared to contribute to more stable energy levels throughout the week.
+
+This dataset became an important comparison point within my project. It demonstrated that regular eating habits are achievable within everyday life and highlighted the potential benefits of meal consistency. Comparing these three datasets revealed that eating behaviour is shaped by different motivations, lifestyles, and responsibilities. Together, they provided a broader understanding of how people relate to food and reinforced the importance of promoting awareness around regular meals and personal wellbeing.
 
 #### My older sister's dietary log (May 22, 2026 – May 31, 2026)， 10 days.
 

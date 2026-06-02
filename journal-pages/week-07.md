@@ -53,6 +53,8 @@ By physically stacking sticky notes, I could show different calorie levels — t
 After class, I continued working on my project during my free time. I used Adobe Illustrator to draw proper laser-cut design files, continuing to optimize my design. I transformed the results from my sticky note testing into digital design files, preparing for the next phase of actual production.
 These prototypes represent my journey from conceptual ideas to working models, documenting each step of experimentation along the way.
 
+This experiment helped me understand that physical thickness is much easier to communicate than numerical calorie values alone. When classmates could see and compare different stack heights, they immediately understood the relationship between thickness and calorie intake. This confirmed that a tactile approach may be more effective than a purely digital visualization for communicating food-related data.
+
 ## "What If..." Variant 
 For this activity, I paired up with a partner to share my creation sprint results and receive feedback on my food visualization project. My partner introduced me to three hypothetical alternative directions that could expand my project's potential, encouraging me to think more critically and experimentally about my work.
 ![Alt text](../assets/week-07/note_1.png)

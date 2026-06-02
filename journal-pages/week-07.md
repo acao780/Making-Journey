@@ -67,6 +67,10 @@ The third suggestion was to add sound as a data dimension, where each food type 
 Of these three directions, the second option — the interactive tactile experience — offers the most natural evolution for my project. It builds on my existing strength rather than abandoning it, and it deepens the viewer's connection to the data without requiring a complete overhaul of my concept.
 
 
+## 1. Project Development & Skill Building
+
+Continue developing your project, building directly on the outcomes of today's Making Sprint and 'What if' Variations. As you work, address the technical skill gaps identified in your Week 6 roadmap. Document your learning alongside your making processes, including both textual and visual evidence. Reflect on what you tried, what you learnt, and how this has moved your project forward.
+
 ### Solid Food Plate Manufacturing Checklist (Mapping Rule: 50 kcal = 1 mm thickness)
 
 | Food Item | Food types | Calories (kcal) | Thickness of physical board | Energy contribution value (0-5) |
@@ -107,14 +111,11 @@ Of these three directions, the second option — the interactive tactile experie
 | **chocolate** | Snack | 200 | **4 mm** | 1.0 |
 | **chicken soup** | Soup | 150 | **3 mm** | 1.5 |
 
-
-
-## 1. Project Development & Skill Building
-
-Continue developing your project, building directly on the outcomes of today's Making Sprint and 'What if' Variations. As you work, address the technical skill gaps identified in your Week 6 roadmap. Document your learning alongside your making processes, including both textual and visual evidence. Reflect on what you tried, what you learnt, and how this has moved your project forward.
-
 ## lazar picture and your process of lazer cuting
-
+![Alt text](../assets/week-07/week7_lazer1.png)
+![Alt text](../assets/week-07/week7_lazer2.png)
+![Alt text](../assets/week-07/week7_lazer3.jpg)
+![Alt text](../assets/week-07/week7_lazer4.jpg)
 
 2. Progress Report
 
@@ -133,19 +134,6 @@ visual research/references
 two or three specific questions you want feedback on
 Come to class ready to present and to receive feedback from peers and teachers.
 
-
-![Alt text](../assets/week-07/week7_lazer1.png)
-![Alt text](../assets/week-07/week7_lazer2.png)
-![Alt text](../assets/week-07/week7_lazer3.jpg)
-![Alt text](../assets/week-07/week7_lazer4.jpg)
-## Images & Media
-
-*Use the format below to embed images from your assets folder:*
-
-`![Alt text](../assets/week-01/your-image.jpg)`
-`*Your caption here*`
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
 
 ## AI Usage Statement
 

@@ -21,7 +21,19 @@ layout: default
 
 ## ACTION PLAN (下面的是你的写作要回答的问题）
 ![Alt text](../assets/week-10/week10_actionplan.png)
+### Reflective Summary
 
+The critique session provided valuable feedback that helped me better understand both the strengths and weaknesses of my project. One of the most significant points raised was that the thematic focus of the project is clear. Several classmates commented that using personal food diary data creates a strong connection between everyday eating habits and data visualisation. They felt that transforming food records into visual forms makes the data feel more personal and meaningful rather than simply presenting numbers.
+
+Another important piece of feedback was that audience interaction remains underdeveloped. While the visual concept is becoming clearer, classmates suggested that the project could benefit from more opportunities for viewers to engage with the data. Suggestions included experimenting with different presentation formats and considering how interaction could help communicate the message more effectively.
+
+I also received feedback about the future development of the project. One classmate suggested separating data from different participants rather than combining everything together. This would make comparisons easier to understand and could strengthen the project's ability to communicate different eating behaviours and patterns.
+
+Based on this feedback, I have identified several action points. First, I will continue developing the interactive aspects of the project through Figma rather than p5.js. Second, I will explore ways to clearly separate and compare data from different participants. Third, I will further refine the Wind Chime Tree concept to ensure that viewers can easily understand the relationship between food choices, energy intake, and daily habits. Finally, I will focus on simplifying the visual system so that the project remains engaging while clearly communicating its message about self-care and eating habits.
+
+
+
+## Independant study
 
 
 Today, I presented the project images and data concepts to the teacher. The overall feedback was highly positive; the core structure, logic, and visual presentation were approved as they are, with no modifications required. During the review, we discussed the core "why" behind the design choices, specifically focusing on the purpose of the data collection and the necessity of the community feature.
@@ -33,7 +45,6 @@ The Purpose of the Community Feature We discussed why a shared space is vital ra
 - Shared Care & Accountability: It creates a space where users can observe the data of peers or family members, allowing them to actively look out for each other’s well-being and offer real-time support.
 - Analysis & Learning: It enables users to not only track and analyze their own personal health trends over time but also study the data patterns of others to learn healthier lifestyles and best practices.
 
-## Independant study
 (table of their data, i only recorded them at 22/05, since im doing a physical 3d data design, so im justing going to use my own data. 
 1. 我看到了树上挂风铃，所以灵感来自这里。
 2. 随着这一周跟老师的深入交流。老师一直在问我为什么，我要传递的data。我为什么要传递。这使我不得不开始思考，因为我收集的data都来源于我自己，虽然我展示出来我的data，但是这并不能影响更多的人。在交流过程里，我提出了community这个想法，大家get involved in. 但是老师还是觉得不够，不够回答这个问题。所以我又提出来，现在有一些data collection的产品，例如apple watch上的运动量，心率等，这些都是传达了对身体的关注，然后他们能够看到自己的data，也让他们更加积极的保持良好的运动习惯。和老师交流完后，我想到了很多关于data的community，比较有代表性的是wechat上的步数，大家能够看到他们这一天走了多少步，所以拥有的竞争的意识，因为这里呈现了第一第二名。在回家的路上，我想到了很多回答老师这些问题的想法。

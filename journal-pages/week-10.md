@@ -19,7 +19,7 @@ layout: default
 ![Alt text](../assets/week-10/week10_like.png)
 ![Alt text](../assets/week-10/week10_like1.png)
 
-## ACTION PLAN (下面的是你的写作要回答的问题）
+## ACTION PLAN 
 ![Alt text](../assets/week-10/week10_actionplan.png)
 ### Reflective Summary
 

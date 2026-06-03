@@ -47,8 +47,7 @@ Another source of inspiration came from a conversation with my sister. After dis
 
 This new direction also helped solve an issue raised by one of my classmates about how to distinguish between different users' data. By presenting data as a forest of individual trees rather than combining everything into one visualisation, each person can maintain their own identity while still contributing to a larger community. This approach allows personal stories and collective patterns to coexist within the same system.
 
-回家后，我开始重新设计，这是我设计的：
-## second interation: 
+
 ![Alt text](../assets/week-10/inspiration.png)
 ![Alt text](../assets/week-10/image.png)
 

@@ -45,25 +45,31 @@ Another source of inspiration came from a conversation with my sister. After dis
 
 This new direction also helped solve an issue raised by one of my classmates about how to distinguish between different users' data. By presenting data as a forest of individual trees rather than combining everything into one visualisation, each person can maintain their own identity while still contributing to a larger community. This approach allows personal stories and collective patterns to coexist within the same system.
 
-
 ![Alt text](../assets/week-10/inspiration.png)
-![Alt text](../assets/week-10/image.png)
 
+I spent several hours browsing Pinterest and collecting visual references related to forests, community-based platforms, trees, and wind chimes. At this stage, I realised that the project needed to move beyond a single data visualisation and become a complete experience. Therefore, I began thinking about how the Wind Chime Garden could function as both a personal food diary and a shared community space.
+
+![Alt text](../assets/week-10/image.png)
 ![Alt text](../assets/week-10/image1.png)
 ![Alt text](../assets/week-10/image2.png)
 ![Alt text](../assets/week-10/week10_9.png)
 
-the next improve:
+Building on the first Figma prototype, I developed a new version that introduced a forest community feature. At the same time, I created several quick prototypes to test different layouts and interactions. I also searched online for food illustrations and icons that could be used as the wind chime pendants. However, I was not satisfied with the available resources, so I used ChatGPT to generate a complete set of food assets that better matched the visual style of the project.
+
 ![Alt text](../assets/week-10/element_image.png)
+
+As the concept evolved, I started designing the community forest pages in Figma. Rather than presenting food selection as a simple checklist, I transformed it into a diary-like experience where users record what they ate each day. This approach made the process feel more playful, personal, and visually engaging. I also used ChatGPT to generate different tree designs, which I arranged within the community forest page to represent different users.
+
+What surprised me most was how quickly the project began developing once the core idea became clear. For several weeks, I felt stuck and uncertain about the direction of the project. However, after receiving feedback from tutors and classmates, researching references, and rapidly prototyping ideas, everything started to connect. This experience taught me the importance of iteration, feedback, and open discussion within the design process. Often, a single comment or conversation can unlock a completely new direction that would be difficult to discover alone.
+
+More importantly, I experienced a significant shift in my mindset. Earlier in the semester, I felt anxious because I could not see a clear path forward, and many of my ideas seemed unrealistic or too complicated to produce. Now, I feel excited and motivated to continue developing the project. For the first time, I can clearly imagine the final experience, understand the purpose behind the design, and see how each component contributes to the overall concept. This confidence has made the project feel less like a collection of experiments and more like a coherent design system that I genuinely want to bring to life.
+
+In the following week, I will continue refining the design and begin the development phase of the project. My focus will be on improving the user experience of the Wind Chime Garden, expanding the food and tree asset library, and testing how the community forest functions as a space for reflection and mutual care. I also plan to further develop the Figma prototype and explore how different interactions can strengthen the connection between food data, personal wellbeing, and community engagement. Through continued iteration and testing, I hope to transform the current concept into a more complete and meaningful experience.
 
 ![Alt text](../assets/week-10/week10_image2.png)
 ![Alt text](../assets/week-10/week10_image3.png)
 ![Alt text](../assets/week-10/week10_image4.png)
 ![Alt text](../assets/week-10/week10_look.png)
-
-
-
-
 
 ## （都需要照片）
 reference： 

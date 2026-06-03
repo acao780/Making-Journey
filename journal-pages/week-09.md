@@ -73,19 +73,17 @@ The tutor also proposed an alternative direction. Rather than relying on laser-c
 This feedback made me reflect on the practicality of my current design. Although the stomach-shaped concept successfully communicates healthy and unhealthy eating patterns, the amount of fabrication required remains very high. As a result, I am now considering whether a string-based installation might be a more effective and achievable direction for the final outcome.
 
 ## Indiviudal study：
-独立学习
-本课程的学习任务包括每周9.5小时的课外自主学习时间。一般来说，您应该花费2小时阅读和思考课程内容，7.5小时完成作业。
-
-请务必先完成所有课堂活动，然后再进行自主学习任务。
-
-1. 项目开发
+### 1. Project Development
 
 继续推进你的项目，直接基于本周“创作冲刺”的成果以及你在“循环快速反馈”环节收到的反馈。在创作过程中不断完善你的项目陈述。记录你的进展，包括文字和图片证据。反思你的尝试、你的收获以及这些如何推动了项目的进展。
-### 1. Project Development
+
+<iframe src="https://www.youtube.com/embed/z6bpGiqWunc" width="560" height="315"> </iframe>
+
+
 ![Alt text](../assets/week-09/week9_design.png)
 ![Alt text](../assets/week-09/week9_code3.png)
-
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
+
 
 ### 2. Progress Report
 

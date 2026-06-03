@@ -77,12 +77,12 @@ This feedback made me reflect on the practicality of my current design. Although
 
 继续推进你的项目，直接基于本周“创作冲刺”的成果以及你在“循环快速反馈”环节收到的反馈。在创作过程中不断完善你的项目陈述。记录你的进展，包括文字和图片证据。反思你的尝试、你的收获以及这些如何推动了项目的进展。
 
-<iframe src="https://www.youtube.com/embed/z6bpGiqWunc" width="560" height="315"> </iframe>
 
+<iframe src="https://www.youtube.com/embed/z6bpGiqWunc" width="560" height="315"> </iframe>
 ![Alt text](../assets/week-09/week9_image4.png)
 
 
-![Alt text](../assets/week-09/week9_design.png)
+this is the second one I think, i talked with google gemini, and finally come up with this. the shorter the line the previous date. 
 ![Alt text](../assets/week-09/week9_code3.png)
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 

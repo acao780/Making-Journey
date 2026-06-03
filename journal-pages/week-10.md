@@ -15,6 +15,8 @@ layout: default
 ![Alt text](../assets/week-10/week10_4.png)
 ![Alt text](../assets/week-10/week10_5.png)
 
+## 2. Gallery Walk
+
 ## ACTION PLAN (下面的是你的写作要回答的问题）
 ![Alt text](../assets/week-10/week10_actionplan.png)
 

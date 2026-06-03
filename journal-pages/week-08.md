@@ -9,7 +9,7 @@ layout: default
 ## Documentation 
 
 
-## class work
+## 1. Progress Reports
 To be honest, due to personal work commitments, I fell behind t this classroom progress. To catch up, I conducted a 1-on-1 peer review session with a classmate in Week 9, where we presented our work and exchanged critical feedback.
 
 During this presentation, I shared my secondary research, which includes six different data-driven artists. Among them, the installation Noisy Factory by Hangjie Cai serves as my primary design direction. I selected his work because his use of laser-cutting to deconstruct and refine layers is incredibly sophisticated. Inspired by this, I realized I could visualize food data in a tangible, physical form. Since the laser-cut panels do not stick together, they can be repeatedly rearranged, which creates great potential for interactivity.
@@ -29,11 +29,20 @@ Feedback & Insights: "She strongly advocated for a fully interactive experience 
 ### Peer Feedback & Collaborative Insights
 My classmate gave highly positive feedback on my concept. While discussing how to represent energy values through thickness to promote healthy eating, she proposed a fascinating perspective: creating a strict visual distinction between "healthy" and "unhealthy" food. This insight was incredibly inspiring and sparked a lot of deeper thinking for my next design iteration.  At the same time, I started worry to about my workload and how this unhealth and health food can presented, the representation of health and unhealth food will expand the project scope and even alter my focus area, since i just want to convey an idea to raise awareness that having food is really important, do not miss them. 
 
-
 During the presentation, I received feedback regarding my fabrication process. I realized that my original design would require an overwhelming amount of laser cutting, which is not practical for the given timeline and resources. To address this, I am going to modify the design to significantly reduce the volume of cutting required. However, I will still continue to use laser cutting as my primary fabrication method, focusing instead on a more efficient and streamlined way to apply the technique.
-
 ### Presenting: 
 ![Alt text](../assets/week-08/presentation.jpg)
+
+## 2. Critical Design Proposition
+我和一位同学进行了交流。基于这几个问题：
+What aspect of their approach is most interesting?
+What is least developed?
+Is there an alternative form (e.g. physical, screen-based, interactive) that could strengthen the work?
+How might their future scenario or intended impact be communicated more powerfully?
+What else would you change or do differently if this were your project?
+Develop a design proposition in response to your partner's project. This is about translating your critical reading of their work into a concrete direction they haven't yet explored. Produce a drawing or plan and include notes and annotations explaining what this alters or adds to their current approach.
+
+Take turns (5 minutes each) to walk your partner through your proposition. Collect notes for your journal entry.
 
 # Individual work:
 ## after the presentation, i rethink about how to develop my project, due to the presentaion, i get some of the feedback. 

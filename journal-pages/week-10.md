@@ -6,8 +6,6 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
-
 ## 1. Progress Report
 ![Alt text](../assets/week-10/week10_1.jpg)
 ![Alt text](../assets/week-10/week10_2.png)

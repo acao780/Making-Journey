@@ -140,6 +140,7 @@ The next step is to fabricate a small prototype and test whether viewers can und
 | **chicken soup** | Soup | 150 | **3 mm** | 1.5 |
 
 ## lazar picture and your process of lazer cuting
+## 整理这些照片
 ![Alt text](../assets/week-07/week7_lazer1.png)
 ![Alt text](../assets/week-07/week7_lazer2.png)
 ![Alt text](../assets/week-07/week7_lazer3.jpg)

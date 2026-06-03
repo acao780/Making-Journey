@@ -11,7 +11,7 @@ layout: default
 ## 1. Project Statement: First Draft
 
 
-![Alt text](../assets/week-09/week9_inclass.png)
+![Alt text](../assets/week-09/week9_tips.png)
 
 - notebook vidoe  (in-class task, shown in the powerpoint in week09 module. a video to show your work)
 

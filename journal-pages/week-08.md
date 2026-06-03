@@ -46,7 +46,24 @@ Increasing the Impact: To strengthen audience engagement, I proposed adding an i
 
 My Design Proposition: If I were developing this project, I would create an environmental landscape divided into different zones, with each area representing a different category of waste. The amount of material in each zone would correspond to the quantity of waste generated. This would allow viewers to compare different forms of waste and understand how small amounts of waste produced within a single design studio can scale into much larger environmental problems when multiplied across thousands of studios worldwide. This proposition builds on the original concept while expanding its scope, increasing audience participation, and strengthening the connection between local actions and global environmental impacts.
 
+## 一个草稿画
+
 # Individual work:
+
+本课程的学习任务包括每周9.5小时的课外自主学习时间。一般来说，您应该花费2小时阅读和思考课程内容，7.5小时完成作业。
+
+请务必先完成所有课堂活动，然后再进行自主学习任务。
+
+1. 反思性总结
+
+根据进度报告和收到的关键设计建议中的反馈，撰写一份简短的反思总结（约300字），并将其写入你的日志。总结中应包含你遇到的最重要的反馈和想法、你据此做出的决策，以及这些决策将如何影响你未来的项目。重点在于将批评意见转化为清晰的方向，而不是简单地复述所有内容。
+
+2. 项目开发
+
+直接根据你的反思总结，应用你所确定的决定，无论这些决定是关于你的数据来源、你的可视化方法、你的作品将采取的形式，还是其他方面。
+针对与此方向相关的任何技术技能差距进行改进，并在制作过程中记录你的学习过程，包括文字和图片证据。解释你尝试了什么，学到了什么，以及这些如何推动了你的项目进展。
+
+
 ## after the presentation, i rethink about how to develop my project, due to the presentaion, i get some of the feedback. 
 ![Alt text](../assets/week-08/week8_1.jpg)]
 ![Alt text](../assets/week-08/week8_2.jpg)]

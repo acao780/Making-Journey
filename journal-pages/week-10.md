@@ -28,11 +28,7 @@ I also received feedback about the future development of the project. One classm
 
 Based on this feedback, I have identified several action points. First, I will continue developing the interactive aspects of the project through Figma rather than p5.js. Second, I will explore ways to clearly separate and compare data from different participants. Third, I will further refine the Wind Chime Tree concept to ensure that viewers can easily understand the relationship between food choices, energy intake, and daily habits. Finally, I will focus on simplifying the visual system so that the project remains engaging while clearly communicating its message about self-care and eating habits.
 
-
-
 ## Independant study
-
-
 Today, I presented the project images and data concepts to the teacher. The overall feedback was highly positive; the core structure, logic, and visual presentation were approved as they are, with no modifications required. During the review, we discussed the core "why" behind the design choices, specifically focusing on the purpose of the data collection and the necessity of the community feature.
 
 Key Discussion Points & Rationales
@@ -69,13 +65,14 @@ the next improve:
 ![Alt text](../assets/week-10/week10_look.png)
 
 
-## action plan wrap-up
-
-your development stage, any plan and idea development...
 
 
-## individual work
 
+## （都需要照片）
+reference： 
+- apple watch
+- wechat foot
+- 姐姐推荐的
 
 ## AI Usage Statement
 

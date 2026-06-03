@@ -6,7 +6,23 @@ layout: default
 
 [← Back to Home](../index.md)
 
+## Journal Review:
 ![Alt text](../assets/week-11/week11_checklist.png)
+
+## 2. Practice Planning
+1. Tell me about your project’s theme.
+2. What is your data source? How did you access or
+collect it?
+3. Tell me about a key moment in your design
+journey.
+4. How does your work challenge conventional
+ideas?
+5. What impact do you want your visualisation to
+have?
+6. What surprised you most in the making process
+
+## Showcase Planning
+
 
 ### add your project's development pictures
 ![Alt text](../assets/week-11/week11_design.png)

@@ -44,11 +44,14 @@ Some parts also feel overly generalised and AI-like. For example, phrases such a
 
 I need to research further into calorie data accuracy, sustainable materials, and how to represent energy levels clearly. I also need to test whether paper or laser-cut materials work better for showing thickness.
 
-
 ### Write one sentence that commits to the direction of you project.(这个）
 
 ### Peer share
+What is clear and compelling?
+She really like the idea of using thickness to represent calories because it is easy to understand and different from a normal graph. The physical aspect of the project makes the data feel more real, and the idea of showing missed meals through gaps is memorable. The personal story behind the project also makes the topic more meaningful.
 
+What still needs to be developed or resolved?
+She think the project needs to further develop how energy levels and food types will be shown. I am also curious about how interactive the final outcome will be and whether people will be allowed to touch and rearrange the pieces. Another challenge is the amount of laser cutting required, so finding a more efficient production method may be important. 
 
 ## 2. Making Sprint
 ![Alt text](../assets/week-08/week8_1.jpg)]

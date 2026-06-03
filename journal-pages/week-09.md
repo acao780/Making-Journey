@@ -86,6 +86,8 @@ this is the second one I think, i talked with google gemini, and finally come up
 ![Alt text](../assets/week-09/week9_code3.png)
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
+通过我与google gemini的交互，我发现我还是需要用到figma，我本来是不想用的，但是我发现很多的交互p5.js都无法满足我。所以我简单的在figma上。。。 
+
 
 ### 2. Progress Report
 

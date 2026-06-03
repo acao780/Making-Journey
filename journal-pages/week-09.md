@@ -9,9 +9,18 @@ layout: default
 ## Documentation 
 
 ## 1. Project Statement: First Draft
-
-
 ![Alt text](../assets/week-09/week9_tips.png)
+### What are the data sources used in this work? 
+The data sources used in this work come from both real and fictional references. The project is inspired by Cybersyn, a real computer system developed in Chile in 1971, and DivLab, a fictional computational system described in Ursula K. Le Guin's novel The Dispossessed. The work also uses data from a pool of 30 million American workers. Random number generators are used to assign jobs and labor positions within the system.
+
+### What is the future scenario it addresses?
+This project explores a future scenario where computers and AI systems are responsible for managing labor and distributing jobs. Instead of people choosing jobs or companies hiring workers, a computational system decides who will perform different tasks. The project imagines an alternative economic system that is organized through data and computation.
+
+### What does the statement argue about data and power?
+The statement argues that data and AI are closely connected to power. It suggests that technology is not neutral because it is shaped by the social, political, and economic systems in which it operates. The project highlights how computational systems can influence labor, decision-making, and the distribution of resources. It encourages viewers to think about who controls these systems and who benefits from them.
+
+### What might be the intended impact, and is this included in the statement?
+I think the intended impact is to encourage people to think critically about the relationship between AI, labor, and society. The project asks viewers to question how technology shapes everyday life and whether alternative systems could exist in the future. 
 
 - notebook vidoe  (in-class task, shown in the powerpoint in week09 module. a video to show your work)
 

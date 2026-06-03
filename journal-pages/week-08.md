@@ -6,9 +6,6 @@ layout: default
 
 [← Back to Home](../index.md)
 
-## Documentation 
-
-
 ## 1. Progress Reports
 Due to personal work commitments, I fell behind t this classroom progress. To catch up, I conducted a 1-on-1 peer review session with a classmate in Week 9, where we presented our work and exchanged critical feedback.
 

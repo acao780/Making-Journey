@@ -54,6 +54,11 @@ What still needs to be developed or resolved?
 She think the project needs to further develop how energy levels and food types will be shown. I am also curious about how interactive the final outcome will be and whether people will be allowed to touch and rearrange the pieces. Another challenge is the amount of laser cutting required, so finding a more efficient production method may be important. 
 
 ## 2. Making Sprint
+Based on the feedback I received from my classmate, I realised that my current laser-cut concept would require a very large number of pieces and a significant amount of material. This could become difficult to fabricate within the available time and resources. Therefore, I decided to use this sprint to explore alternative ways of reducing the amount of laser cutting while maintaining the core message of the project.
+
+For this sprint, I developed two quick concept sketches. The first concept uses a stomach-shaped frame as the main structure. Inside the stomach, information such as date, food items, total calorie intake, and energy level are arranged in sequence. Inspired by the Data Strings activity, these elements are connected using coloured strings. Different colours represent different daily eating conditions: green for healthy intake, blue for adequate intake, purple for low intake, and red for unhealthy or insufficient intake. The food pieces still retain different thicknesses to represent calorie values, but they can be made much smaller than in my previous design.
+
+The goal of this sprint is to test whether combining strings, colour, and thickness can communicate the data more efficiently while reducing fabrication requirements. The materials required include paper sketches, coloured pens, string, and laser-cut prototypes from previous experiments.
 ![Alt text](../assets/week-08/week8_1.jpg)]
 ![Alt text](../assets/week-08/week8_2.jpg)]
 ## 3. Round Robin Rapid Reactions

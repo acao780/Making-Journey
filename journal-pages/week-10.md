@@ -35,11 +35,8 @@ The Purpose of the Community Feature We discussed why a shared space is vital ra
 
 ## Independant study
 (table of their data, i only recorded them at 22/05, since im doing a physical 3d data design, so im justing going to use my own data. 
-## first iteration: 
+## first iteration (week 9 version): 
 ![Alt text](../assets/week-10/week10.png)
-
-
-（also describe your first version, 在这个图片里面，）
 
 1. 一个吊坠等于一天的食物摄取，吊坠上的食物是从上面选择的，每个bar里面的食物都有自己的energy level。然后你可以选择自己喜欢的decoration和sticky note. 我简单的画了这个见面。然后一个string对应了日期，就像第九周老师说的我可以短的线代表往前的日子，越往后越长。以及string的颜色对应了你的摄取量（三个等级）。所以我设计了这颗树作为我的development。然后我在想如果只有单纯的note，并不好看。所以我设计了一个decoration bar 让我的吊坠更好看。
 2. 随着这一周跟老师的深入交流。老师一直在问我为什么，我要传递的data。我为什么要传递。这使我不得不开始思考，因为我收集的data都来源于我自己，虽然我展示出来我的data，但是这并不能影响更多的人。在交流过程里，我提出了community这个想法，大家get involved in. 但是老师还是觉得不够，不够回答这个问题。所以我又提出来，现在有一些data collection的产品，例如apple watch上的运动量，心率等，这些都是传达了对身体的关注，然后他们能够看到自己的data，也让他们更加积极的保持良好的运动习惯。和老师交流完后，我想到了很多关于data的community，比较有代表性的是wechat上的步数，大家能够看到他们这一天走了多少步，所以拥有的竞争的意识，因为这里呈现了第一第二名。在回家的路上，我想到了很多回答老师这些问题的想法。

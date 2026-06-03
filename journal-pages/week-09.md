@@ -34,7 +34,7 @@ The subject matter focuses on the importance of regular eating and self-care. Th
 The intended impact is to encourage people to reflect on their own eating habits and understand that skipping meals can have long-term effects on physical and mental wellbeing. Rather than judging food choices, the project aims to raise awareness about the importance of nourishing and caring for the body.
 ### Drafting with NotebookLM
 
-
+https://www.youtube.com/watch?v=Nku0vNTgiqk
 ### Evaluation
 
 

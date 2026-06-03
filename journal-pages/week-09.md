@@ -88,12 +88,16 @@ Excited by this possibility, I quickly opened p5.js and started experimenting. U
 ![Alt text](../assets/week-09/week9_code3.png)
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
+At the same time, I spent a lot of time browsing Xiaohongshu and Pinterest for inspiration. One day, I came across several images of trees covered with hanging wind chimes. Something about these images immediately resonated with me. At that moment, many of the ideas I had been struggling with suddenly came together.
 
-![Alt text](../assets/week-09/chime.png)
+I began thinking about the tree structure I had previously created in p5.js. In that experiment, each string represented one day of food intake and calorie data. Looking at the wind chimes, I realised that each string could become more than just a line of data—it could become a complete wind chime. Instead of visualising food data as abstract information, I could transform it into a collection of personal objects hanging from a tree.
+![Alt text](../assets/week-09/chimes.png)
+Inspired by this idea, I immediately opened Figma and began sketching the interface. In this new concept, one wind chime represents one day of food intake. The food items attached to the wind chime are selected from a library of food icons that I designed in Figma. Each food item carries its own energy value and contributes to the daily record. Following the feedback from my tutor, the length of the string represents time: shorter strings represent earlier dates, while longer strings represent more recent days.
 
+As I continued developing the concept, I felt that simply displaying food items and notes was not visually engaging enough. Therefore, I introduced a decoration library that allows users to personalise their wind chimes. Users can add decorative elements and sticky notes alongside their food selections, making each wind chime feel unique while still functioning as a record of eating habits.
+
+This was the moment when the project shifted from a calorie-tracking visualisation into what I now call the Wind Chime Garden—a growing collection of daily food memories displayed as personalised wind chimes hanging from a tree.
 ![Alt text](../assets/week-10/week10.png)
-
-1. 一个吊坠等于一天的食物摄取，吊坠上的食物是从上面选择的，每个bar里面的食物都有自己的energy level。然后你可以选择自己喜欢的decoration和sticky note. 我简单的画了这个见面。然后一个string对应了日期，就像第九周老师说的我可以短的线代表往前的日子，越往后越长。以及string的颜色对应了你的摄取量（三个等级）。所以我设计了这颗树作为我的development。然后我在想如果只有单纯的note，并不好看。所以我设计了一个decoration bar 让我的吊坠更好看。
 
 ### 2. Progress Report
 ![Alt text](../assets/week-09/1.png)

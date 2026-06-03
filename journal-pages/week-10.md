@@ -8,12 +8,8 @@ layout: default
 
 ## Documentation 
 
-
-## presentation (on padlet and you have role)
-image of your work 
-- your padlet image, your working project and also your presentation.
+## 1. Progress Report
 ![Alt text](../assets/week-10/week10_1.jpg)
-
 ![Alt text](../assets/week-10/week10_2.png)
 ![Alt text](../assets/week-10/week10_3.png)
 ![Alt text](../assets/week-10/week10_4.png)

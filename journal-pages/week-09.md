@@ -73,15 +73,6 @@ The tutor also proposed an alternative direction. Rather than relying on laser-c
 This feedback made me reflect on the practicality of my current design. Although the stomach-shaped concept successfully communicates healthy and unhealthy eating patterns, the amount of fabrication required remains very high. As a result, I am now considering whether a string-based installation might be a more effective and achievable direction for the final outcome.
 
 ## Indiviudal study：
-### 1. Project Development
-![Alt text](../assets/week-09/week9_design.png)
-![Alt text](../assets/week-09/week9_code3.png)
-
-<iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
-
-### 2. Progress Report
-
-
 独立学习
 本课程的学习任务包括每周9.5小时的课外自主学习时间。一般来说，您应该花费2小时阅读和思考课程内容，7.5小时完成作业。
 
@@ -90,17 +81,22 @@ This feedback made me reflect on the practicality of my current design. Although
 1. 项目开发
 
 继续推进你的项目，直接基于本周“创作冲刺”的成果以及你在“循环快速反馈”环节收到的反馈。在创作过程中不断完善你的项目陈述。记录你的进展，包括文字和图片证据。反思你的尝试、你的收获以及这些如何推动了项目的进展。
+### 1. Project Development
+![Alt text](../assets/week-09/week9_design.png)
+![Alt text](../assets/week-09/week9_code3.png)
 
-2. 进度报告
+<iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
+### 2. Progress Report
+
+进度报告
 准备一份简短的进度报告，时长约5分钟，下周上课时向小组同学分享。报告形式应为简单的幻灯片演示（约5张幻灯片），内容包括：
 
-项目目前进展如何？
-您当前的项目声明草稿
-第 8 周以来的关键进展和决定
-视觉研究/参考资料
-您希望获得反馈的两到三个具体问题
-上课时要做好准备，进行展示并接受同学和老师的反馈。
+项目目前进展如何？ 您当前的项目声明草稿 第 8 周以来的关键进展和决定 视觉研究/参考资料 您希望获得反馈的两到三个具体问题 上课时要做好准备，进行展示并接受同学和老师的反馈。
+
+
+
+
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

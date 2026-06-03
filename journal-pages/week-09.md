@@ -80,6 +80,7 @@ I felt quite anxious because my initial concept was becoming increasingly diffic
 
 Eventually, I decided to let go of my original concept and start again. I first used p5.js to test some of the ideas suggested by my tutors. By creating quick digital prototypes, I was able to evaluate whether these ideas could eventually be translated into a physical outcome.
 <iframe src="https://www.youtube.com/embed/z6bpGiqWunc" width="560" height="315"> </iframe>
+
 ![Alt text](../assets/week-09/week9_image4.png)
 
 A day later, after a long and busy day, I suddenly remembered a comment from one of the tutors. They suggested that shorter strings could represent earlier dates, while longer strings could represent more recent dates. This simple idea immediately sparked a new direction. I began wondering: what if all of these strings came together to form a tree?

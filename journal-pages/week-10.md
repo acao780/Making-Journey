@@ -20,9 +20,6 @@ layout: default
 ![Alt text](../assets/week-10/week10_like1.png)
 
 ## ACTION PLAN 
-![Alt text](../assets/week-10/week10_actionplan.png)
-### Reflective Summary
-
 The critique session provided valuable feedback that helped me better understand both the strengths and weaknesses of my project. One of the most significant points raised was that the thematic focus of the project is clear. Several classmates commented that using personal food diary data creates a strong connection between everyday eating habits and data visualisation. They felt that transforming food records into visual forms makes the data feel more personal and meaningful rather than simply presenting numbers.
 
 Another important piece of feedback was that audience interaction remains underdeveloped. While the visual concept is becoming clearer, classmates suggested that the project could benefit from more opportunities for viewers to engage with the data. Suggestions included experimenting with different presentation formats and considering how interaction could help communicate the message more effectively.

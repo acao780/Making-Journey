@@ -88,10 +88,9 @@ Excited by this possibility, I quickly opened p5.js and started experimenting. U
 ![Alt text](../assets/week-09/week9_code3.png)
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
-通过我与google gemini的交互，我发现我还是需要用到figma，我本来是不想用的，但是我发现很多的交互p5.js都无法满足我。所以我简单的在figma上。。。 
 
+![Alt text](../assets/week-09/chime.png)
 
-## first iteration: 
 ![Alt text](../assets/week-10/week10.png)
 
 1. 一个吊坠等于一天的食物摄取，吊坠上的食物是从上面选择的，每个bar里面的食物都有自己的energy level。然后你可以选择自己喜欢的decoration和sticky note. 我简单的画了这个见面。然后一个string对应了日期，就像第九周老师说的我可以短的线代表往前的日子，越往后越长。以及string的颜色对应了你的摄取量（三个等级）。所以我设计了这颗树作为我的development。然后我在想如果只有单纯的note，并不好看。所以我设计了一个decoration bar 让我的吊坠更好看。

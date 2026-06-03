@@ -10,19 +10,26 @@ layout: default
 ![Alt text](../assets/week-11/week11_checklist.png)
 
 ## 2. Practice Planning
-1. Tell me about your project’s theme.
-2. What is your data source? How did you access or
-collect it?
-3. Tell me about a key moment in your design
-journey.
-4. How does your work challenge conventional
-ideas?
-5. What impact do you want your visualisation to
-have?
-6. What surprised you most in the making process
+### 1. Tell me about your project's theme.
+My project explores the relationship between eating habits, self-care, and wellbeing. I want to investigate how daily food choices and meal patterns can be transformed into a meaningful visual experience. The project encourages people to pay more attention to their eating habits and reminds them to take care of their bodies, especially in busy lifestyles where meals are often skipped or forgotten.
+
+### 2. What is your data source? How did you access or collect it?
+The primary data source is my personal food diary. I recorded what I ate for breakfast, lunch, and dinner, along with estimated calorie intake and daily energy levels. I also briefly collected data from my family members and a friend to compare different eating patterns. The data was manually recorded and later organised into a structured dataset for analysis and visualisation.
+
+### 3. Tell me about a key moment in your design journey.
+A key moment happened when I decided to move away from my original laser-cut concept. I was struggling with the amount of fabrication required and felt stuck. During a discussion, a tutor suggested using string length to represent time. Later, while looking at images of wind chimes hanging from trees, I suddenly realised that each string could become a wind chime representing a day of food intake. This idea became the foundation of the Wind Chime Garden concept.
+
+### 4. How does your work challenge conventional ideas?
+Most health-tracking applications present data through graphs, numbers, and dashboards. My project challenges this approach by transforming food data into a playful and personal visual archive. Instead of focusing on statistics alone, it uses visual storytelling, personalisation, and community interaction to make food data more meaningful and emotionally engaging.
+
+### 5. What impact do you want your visualisation to have?
+I want the project to encourage people to reflect on their eating habits and become more aware of how they care for their bodies. Through the community forest, I also hope to create a sense of mutual care where people can observe, support, and learn from one another's habits rather than tracking their health alone.
+
+### 6. What surprised you most in the making process?
+The most surprising part was how quickly the project developed once I found the right concept. For several weeks, I felt uncertain and struggled to connect my data with a meaningful visual form. However, after receiving feedback, researching references, and rapidly prototyping ideas, everything suddenly came together. This experience showed me how important iteration, discussion, and feedback are in the design process.
 
 ## Showcase Planning
-
+My project will require a large screen or monitor for display, as the final outcome is an interactive Figma prototype. The screen is important because visitors need to clearly see the details of the Wind Chime Garden interface, including the community forest, food selection process, and personalised wind chime creation. The project will require a laptop and a power supply throughout the showcase. An extension cord may also be needed depending on the location of the power outlets.
 
 ### add your project's development pictures
 ![Alt text](../assets/week-11/week11_design.png)

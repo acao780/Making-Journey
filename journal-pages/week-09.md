@@ -62,26 +62,44 @@ The goal of this sprint is to test whether combining strings, colour, and thickn
 ![Alt text](../assets/week-08/week8_1.jpg)
 ![Alt text](../assets/week-08/week8_2.jpg)
 ## 3. Round Robin Rapid Reactions
-- you testing idea image. 
-
 ![Alt text](../assets/week-09/week9_version4.jpg)
-![Alt text](../assets/week-09/week9_version5.jpg)
+### Reactions and Feedback
+During the discussion, one classmate responded very positively to the stomach-shaped structure of my design. They felt that using the stomach as the main form created a strong connection between the data and the topic of eating habits and wellbeing. However, they also pointed out a potential issue with my use of coloured strings. Since each day could have a different eating condition, the colours would become mixed together over time, making it difficult to clearly distinguish the different categories.
 
-week 9 (feedback)
-While discussing my idea with the instructor, she pointed out that my current plan did not display the data clearly. Originally, I wanted to disrupt the chronological timeline in order to prioritize showing the energy intake levels through colored lines. However, she advised that the timeline should remain unchanged, which meant my initial ideas—using a section of string and a stomach graphic to show health levels—would not work well.
+After hearing this feedback, my first idea was to reorganise the data and group similar colours together instead of arranging them chronologically. I thought this might create clearer colour zones and make the visualisation easier to read. However, the tutor suggested that I should not sacrifice the timeline aspect of the data, even if it makes the visualisation less visually organised. Maintaining the chronological sequence is important because it preserves the story of changing eating habits over time.
 
-Instead, she suggested a much better approach: use the length of the string to represent time (where a shorter string represents a specific date) and use the color of the string to indicate the energy intake level. These strings could then be hung on a board. I realized this was an excellent idea, and I will now focus on finding a clearer, more effective way to present my concept based on this feedback.
-- 从data string 变成 挂着的方式
+The tutor also proposed an alternative direction. Rather than relying on laser-cut food pieces and thickness as the primary visual language, I could use coloured strings as the main material and suspend them from a physical structure. This would make the colour distinctions much clearer while significantly reducing fabrication time and material usage.
+
+This feedback made me reflect on the practicality of my current design. Although the stomach-shaped concept successfully communicates healthy and unhealthy eating patterns, the amount of fabrication required remains very high. As a result, I am now considering whether a string-based installation might be a more effective and achievable direction for the final outcome.
+
+## Indiviudal study：
+### 1. Project Development
+从data string 变成 挂着的方式
 ![Alt text](../assets/week-09/week9_design.png)
-![Alt text](../assets/week-09/week9_code.png)
-
-
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
-(code 和单独的视频）
+### 2. Progress Report
 
-（同时看一下vibe coding 一个精美的便利贴装置，可以用的webisite
 
+独立学习
+本课程的学习任务包括每周9.5小时的课外自主学习时间。一般来说，您应该花费2小时阅读和思考课程内容，7.5小时完成作业。
+
+请务必先完成所有课堂活动，然后再进行自主学习任务。
+
+1. 项目开发
+
+继续推进你的项目，直接基于本周“创作冲刺”的成果以及你在“循环快速反馈”环节收到的反馈。在创作过程中不断完善你的项目陈述。记录你的进展，包括文字和图片证据。反思你的尝试、你的收获以及这些如何推动了项目的进展。
+
+2. 进度报告
+
+准备一份简短的进度报告，时长约5分钟，下周上课时向小组同学分享。报告形式应为简单的幻灯片演示（约5张幻灯片），内容包括：
+
+项目目前进展如何？
+您当前的项目声明草稿
+第 8 周以来的关键进展和决定
+视觉研究/参考资料
+您希望获得反馈的两到三个具体问题
+上课时要做好准备，进行展示并接受同学和老师的反馈。
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

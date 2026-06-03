@@ -92,6 +92,7 @@ this is the second one I think, i talked with google gemini, and finally come up
 ## first iteration: 
 ![Alt text](../assets/week-10/week10.png)
 
+1. 一个吊坠等于一天的食物摄取，吊坠上的食物是从上面选择的，每个bar里面的食物都有自己的energy level。然后你可以选择自己喜欢的decoration和sticky note. 我简单的画了这个见面。然后一个string对应了日期，就像第九周老师说的我可以短的线代表往前的日子，越往后越长。以及string的颜色对应了你的摄取量（三个等级）。所以我设计了这颗树作为我的development。然后我在想如果只有单纯的note，并不好看。所以我设计了一个decoration bar 让我的吊坠更好看。
 
 ### 2. Progress Report
 

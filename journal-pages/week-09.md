@@ -74,15 +74,17 @@ This feedback made me reflect on the practicality of my current design. Although
 
 ## Indiviudal study：
 ### 1. Project Development
+From Week 6 to Week 8, my project development was relatively slow. Through different classroom activities, discussions, and feedback sessions, I received many new ideas and perspectives from both tutors and classmates. During this period, I was constantly questioning whether I should continue developing my original data visualisation approach or step back and explore more artist references and existing data installations.
 
-继续推进你的项目，直接基于本周“创作冲刺”的成果以及你在“循环快速反馈”环节收到的反馈。在创作过程中不断完善你的项目陈述。记录你的进展，包括文字和图片证据。反思你的尝试、你的收获以及这些如何推动了项目的进展。
+I felt quite anxious because my initial concept was becoming increasingly difficult to realise. The fabrication workload was growing, and many aspects of the design were still unresolved. At the same time, the semester was already more than halfway through, which made me feel pressured to make a clear decision about the direction of the project.
 
-
+Eventually, I decided to let go of my original concept and start again. I first used p5.js to test some of the ideas suggested by my tutors. By creating quick digital prototypes, I was able to evaluate whether these ideas could eventually be translated into a physical outcome.
 <iframe src="https://www.youtube.com/embed/z6bpGiqWunc" width="560" height="315"> </iframe>
 ![Alt text](../assets/week-09/week9_image4.png)
 
+A day later, after a long and busy day, I suddenly remembered a comment from one of the tutors. They suggested that shorter strings could represent earlier dates, while longer strings could represent more recent dates. This simple idea immediately sparked a new direction. I began wondering: what if all of these strings came together to form a tree?
 
-this is the second one I think, i talked with google gemini, and finally come up with this. the shorter the line the previous date. 
+Excited by this possibility, I quickly opened p5.js and started experimenting. Using Google Gemini as a creative and technical support tool, I rapidly tested different arrangements and visual structures. The result was a tree-like form made from strings representing time and eating data. For the first time in several weeks, I felt genuinely excited about the project again. This concept eventually became the foundation for the Wind Chime Tree direction that I am currently developing.
 ![Alt text](../assets/week-09/week9_code3.png)
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 

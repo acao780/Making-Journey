@@ -24,7 +24,7 @@ The statement argues that data and AI are closely connected to power. It suggest
 What might be the intended impact, and is this included in the statement?
 I think the intended impact is to encourage people to think critically about the relationship between AI, labor, and society. The project asks viewers to question how technology shapes everyday life and whether alternative systems could exist in the future. 
 
-### Project Statement: First Draft
+### Project Statement: First Draft (有可能要改，基于week8我的drawing 就是那一个挂着的用data string）
 My project is a physical data visualisation that explores the relationship between eating habits, calorie intake, and personal wellbeing. Inspired by artists such as Hangjie Cai, Dear Data, and Nathalie Miebach, I transform food diary records into laser-cut objects that people can see and touch. Each food item is represented by a physical piece, and the thickness of the piece corresponds to its calorie value. Missing meals are represented through absence, making irregular eating habits visible.
 
 The primary data source is a food diary collected from myself, family members, and friends. The dataset includes meal records, estimated calorie intake, and daily energy levels. By comparing multiple participants, the project reveals different eating behaviours and the reasons behind meal skipping.
@@ -33,6 +33,10 @@ The subject matter focuses on the importance of regular eating and self-care. Th
 
 The intended impact is to encourage people to reflect on their own eating habits and understand that skipping meals can have long-term effects on physical and mental wellbeing. Rather than judging food choices, the project aims to raise awareness about the importance of nourishing and caring for the body.
 ### Drafting with NotebookLM
+
+
+### Evaluation
+
 
 ## 2. Making Sprint
 

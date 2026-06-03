@@ -89,6 +89,10 @@ this is the second one I think, i talked with google gemini, and finally come up
 通过我与google gemini的交互，我发现我还是需要用到figma，我本来是不想用的，但是我发现很多的交互p5.js都无法满足我。所以我简单的在figma上。。。 
 
 
+## first iteration: 
+![Alt text](../assets/week-10/week10.png)
+
+
 ### 2. Progress Report
 
 进度报告

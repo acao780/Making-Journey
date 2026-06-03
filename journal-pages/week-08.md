@@ -33,7 +33,7 @@ My classmate gave highly positive feedback on my concept. While discussing how t
 During the presentation, I received feedback regarding my fabrication process. I realized that my original design would require an overwhelming amount of laser cutting, which is not practical for the given timeline and resources. To address this, I am going to modify the design to significantly reduce the volume of cutting required. However, I will still continue to use laser cutting as my primary fabrication method, focusing instead on a more efficient and streamlined way to apply the technique.
 
 ### Presenting: 
-![Alt text](../assets/week-08/presentation.jpg)]
+![Alt text](../assets/week-08/presentation.jpg)
 
 # Individual work:
 ## after the presentation, i rethink about how to develop my project, due to the presentaion, i get some of the feedback. 

@@ -64,9 +64,6 @@ My Design Proposition: If I were developing this project, I would create an envi
 针对与此方向相关的任何技术技能差距进行改进，并在制作过程中记录你的学习过程，包括文字和图片证据。解释你尝试了什么，学到了什么，以及这些如何推动了你的项目进展。
 
 
-## after the presentation, i rethink about how to develop my project, due to the presentaion, i get some of the feedback. 
-![Alt text](../assets/week-08/week8_1.jpg)]
-![Alt text](../assets/week-08/week8_2.jpg)]
 
 
 *Use the format below to embed images from your assets folder:*

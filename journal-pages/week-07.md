@@ -9,7 +9,7 @@ layout: default
 ## Introduction
 This learning log documents my progress for Week 7 of the Data-Driven Visualization project course. The second phase of this course focuses on data-driven visualization projects, where I am required to continue documenting my work on my GitHub Pages website. This includes recording experimental processes, technical learning, concept development, and participating in peer review and exchange activities.
 
-## Concept Sketch 
+## 1. Concept Sketch 
 ### Activity Description
 In this concept sketching session, I was tasked with further developing my concept sketches using drawings and annotations to think through my project. I displayed my sketches on my laptop screen and walked around the room, leaving sticky note comments on other students' work. For each sketch I viewed, I was required to leave at least one observation (what I noticed about the work) and one question (something I was curious about or uncertain about).
 
@@ -42,7 +42,7 @@ Everyone agreed that data accuracy is a critical element of this project. This a
 #### Reflection and Next Steps
 Based on the feedback received, I have refined my concept to focus more on what makes my visualization unique. The tactile experience of touching different thicknesses to "feel" the data is my key differentiating factor. 
 
-## Creation Sprint 
+## 2. Creation Sprint 
 ### Activity Description
 This activity required me to use rapid prototyping — short cycle iterations, focused making, and an experimental mindset — to spend 45 minutes producing my first practical experiment with my dataset and visualization method. The goal was to extract something visible from the data, even if rough. The objective was to create something testable rather than a final finished product.
 ### In-Class Prototyping Work
@@ -55,7 +55,7 @@ These prototypes represent my journey from conceptual ideas to working models, d
 
 This experiment helped me understand that physical thickness is much easier to communicate than numerical calorie values alone. When classmates could see and compare different stack heights, they immediately understood the relationship between thickness and calorie intake. This confirmed that a tactile approach may be more effective than a purely digital visualization for communicating food-related data.
 
-## "What If..." Variant 
+## 3. "What If..." Variant 
 For this activity, I paired up with a partner to share my creation sprint results and receive feedback on my food visualization project. My partner introduced me to three hypothetical alternative directions that could expand my project's potential, encouraging me to think more critically and experimentally about my work.
 ![Alt text](../assets/week-07/note_1.png)
 

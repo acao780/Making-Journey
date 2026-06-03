@@ -74,8 +74,9 @@ This feedback made me reflect on the practicality of my current design. Although
 
 ## Indiviudal study：
 ### 1. Project Development
-从data string 变成 挂着的方式
 ![Alt text](../assets/week-09/week9_design.png)
+![Alt text](../assets/week-09/week9_code3.png)
+
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
 ### 2. Progress Report

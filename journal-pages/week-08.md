@@ -67,4 +67,6 @@ Miebach, N. (2026). Sculpting The Floods. Issues in Science and Technology.
 https://issues.org/sculpting-the-floods-miebach/
 
 ## AI Usage Statement
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+I used ChatGPT to review my written work for spelling, grammar, and clarity. 
+
+OpenAI. (2026). ChatGPT (GPT-5.5 version) [Large language model]. https://chatgpt.com/

@@ -38,15 +38,7 @@ The intended impact is to encourage people to reflect on their own eating habits
 <iframe src="https://www.youtube.com/embed/SJjjS4nDMLQ" width="560" height="315"> </iframe>
 
 ### Evaluation:
-What is working well in the Notebook response is that it helps me identify the main strengths and challenges of my project. It clearly explains why physical thickness is an important part of my design, because it turns calorie data into something people can see and touch. It also helps me recognise that missing meals can be represented through absence, gaps, or thickness.
-
-However, some parts are still missing or underdeveloped. The response gives many possible directions, such as sound, weaving, hanging paper, and colour coding, but it does not help me decide which direction is the most realistic for my final project. Some ideas are interesting, but they may make the project too large and difficult to finish.
-
-Some parts also feel overly generalised and AI-like. For example, phrases such as “data humanism,” “social intervention,” and “tactile community experience” sound too broad and academic. I need to use simpler language and focus more on my actual making process.
-
-I need to research further into calorie data accuracy, sustainable materials, and how to represent energy levels clearly. I also need to test whether paper or laser-cut materials work better for showing thickness.
-
-### Write one sentence that commits to the direction of you project.(这个）
+What is working well in the Notebook response is that it helps me identify the main strengths and challenges of my project. It clearly explains why physical thickness is an important part of my design, because it turns calorie data into something people can see and touch. It also helps me recognise that missing meals can be represented through absence, gaps, or thickness. However, some parts are still missing or underdeveloped. The response gives many possible directions, such as sound, weaving, hanging paper, and colour coding, but it does not help me decide which direction is the most realistic for my final project. Some ideas are interesting, but they may make the project too large and difficult to finish. Some parts also feel overly generalised and AI-like. For example, phrases such as “data humanism,” “social intervention,” and “tactile community experience” sound too broad and academic. I need to use simpler language and focus more on my actual making process. I need to research further into calorie data accuracy, sustainable materials, and how to represent energy levels clearly. I also need to test whether paper or laser-cut materials work better for showing thickness.
 
 ### Peer share
 What is clear and compelling?

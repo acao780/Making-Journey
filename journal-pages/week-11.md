@@ -62,7 +62,7 @@ When users click on a tree or create a new profile, they enter the Diary Book in
 
 ## Technical Consideration, Decisions, and Learning Process
 
-After figma design, I focused on turning the Figma design for **Your Food Diary Forest** into a working React frontend. The goal was not only to copy the visual style, but also to build the project in a way that can be edited and extended later.
+After figma design, I focused on turning the Figma design for **Your Food Diary Forest** into a working React frontend. The goal was not only to copy the visual style, but also to build the project in a way that can be edited and extended later. I used Codex to help develop the application. By describing the functionality I wanted, I was able to rapidly prototype features, test interactions, and troubleshoot technical issues.
 
 I chose **React + Vite + TypeScript** because the website is made from several reusable page sections: Home, Forest Community, Food Diary, and About. React makes each page easier to manage as a separate component, Vite keeps development fast, and TypeScript helps keep page data and section settings clear.
 

@@ -70,4 +70,5 @@ https://issues.org/sculpting-the-floods-miebach/
 I used ChatGPT and Google Gemini to discuss project ideas, explore precedents, and reflect on possible design directions.
 
 OpenAI. (2026). ChatGPT (GPT-5.5 version) [Large language model]. https://chatgpt.com/
+
 Google. (2026a). Gemini [Large language model]. https://gemini.google.com/

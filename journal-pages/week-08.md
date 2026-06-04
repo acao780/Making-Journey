@@ -28,7 +28,7 @@ My classmate gave highly positive feedback on my concept. While discussing how t
 
 During the presentation, I received feedback regarding my fabrication process. I realized that my original design would require an overwhelming amount of laser cutting, which is not practical for the given timeline and resources. To address this, I am going to modify the design to significantly reduce the volume of cutting required. However, I will still continue to use laser cutting as my primary fabrication method, focusing instead on a more efficient and streamlined way to apply the technique.
 ### Presenting: 
-![Alt text](../assets/week-08/presentation.jpg)
+![presentation](../assets/week-08/presentation.jpg)
 
 ## 2. Critical Design Proposition
 For this activity, I discussed my project with a student. Her project focuses on collecting waste material from 3D printers, melting the plastic, and transforming it into puzzle pieces that form an environmental installation. The installation is designed to communicate environmental pollution data through physical forms made from recycled material.
@@ -43,7 +43,7 @@ Increasing the Impact: To strengthen audience engagement, I proposed adding an i
 
 My Design Proposition: If I were developing this project, I would create an environmental landscape divided into different zones, with each area representing a different category of waste. The amount of material in each zone would correspond to the quantity of waste generated. This would allow viewers to compare different forms of waste and understand how small amounts of waste produced within a single design studio can scale into much larger environmental problems when multiplied across thousands of studios worldwide. This proposition builds on the original concept while expanding its scope, increasing audience participation, and strengthening the connection between local actions and global environmental impacts.
 
-![Alt text](../assets/week-08/week8_sketch.jpg)
+![idea sketch](../assets/week-08/week8_sketch.jpg)
 
 ## Individual study:
 ### 1. Reflective Summary

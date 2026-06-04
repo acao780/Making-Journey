@@ -100,6 +100,21 @@ Another limitation of the current application is the variety of food images avai
 Mythz. (2025, November 13). *React + Tailwind + TypeScript for AI-first development*. ServiceStack. 
 https://servicestack.net/posts/react
 
+MDN Web Docs. (2025). *clamp() CSS function*. Mozilla. 
+https://developer.mozilla.org/docs/Web/CSS/Reference/Values/clamp
+
+MDN Web Docs. (2026). *CSS values and units*. Mozilla. 
+https://developer.mozilla.org/docs/Web/CSS/CSS_Values_and_Units
+
+Glide. (n.d.). Dynamic content. Glide Docs. 
+https://www.glideapps.com/docs/essentials/components/dynamic-content
+
+JsonUI. (n.d.). JsonUI. 
+https://www.jsonui.org/
+
+Niantic. (n.d.). Pikmin Bloom. 
+https://pikminbloom.com/
+
 ## AI Usage Statement
 During Week 11, I used ChatGPT to generate a range of visual assets based on my design concepts, including food icons, tree variations, and interface elements such as books and book covers. In addition, I used Codex to support the development of the application, particularly for implementing features, refining code, and debugging technical issues.
 

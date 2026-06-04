@@ -13,7 +13,7 @@ This learning log documents my progress for Week 7 of the Data-Driven Visualizat
 ### Activity Description
 In this concept sketching session, I was tasked with further developing my concept sketches using drawings and annotations to think through my project. I displayed my sketches on my laptop screen and walked around the room, leaving sticky note comments on other students' work. For each sketch I viewed, I was required to leave at least one observation (what I noticed about the work) and one question (something I was curious about or uncertain about).
 
-![Alt text](../assets/week-07/week7_inclass.jpg)
+![project preseting](../assets/week-07/week7_inclass.jpg)
 ### My Sketches and Process
 For my concept sketching work, I developed two different approaches to represent food calorie data through physical visualizations:
 Approach One (Presented): My first approach was a traditional data visualization sketch showing calorie information through conventional charts and graphs displayed on screen.
@@ -48,7 +48,7 @@ This activity required me to use rapid prototyping — short cycle iterations, f
 ### In-Class Prototyping Work
 During the creation sprint in class, I used sticky notes to directly sketch and test my laser-cut design concepts. The unique characteristic of sticky notes is that they have physical thickness, which perfectly simulates the laser-cut acrylic plates I am planning to create. I peeled off layers of sticky notes and stacked them together to simulate plates of different thicknesses. This method helped me convey my ideas to classmates much more intuitively than just drawing on paper.
 By physically stacking sticky notes, I could show different calorie levels — thin stack for low calories, thick stack for high calories. This gave immediate, tangible feedback on whether my concept would work.
-![Alt text](../assets/week-07/note.jpg)
+![testing thickness](../assets/week-07/note.jpg)
 
 After class, I continued working on my project during my free time. I used Adobe Illustrator to draw proper laser-cut design files, continuing to optimize my design. I transformed the results from my sticky note testing into digital design files, preparing for the next phase of actual production.
 These prototypes represent my journey from conceptual ideas to working models, documenting each step of experimentation along the way.
@@ -57,7 +57,7 @@ This experiment helped me understand that physical thickness is much easier to c
 
 ## 3. "What If..." Variant 
 For this activity, I paired up with a partner to share my creation sprint results and receive feedback on my food visualization project. My partner introduced me to three hypothetical alternative directions that could expand my project's potential, encouraging me to think more critically and experimentally about my work.
-![Alt text](../assets/week-07/note_1.png)
+![what if question](../assets/week-07/note_1.png)
 
 The first suggested direction was to shift my focus from tracking calories to tracking carbon footprint. This would fundamentally change my project's purpose from personal health data to environmental impact data. Instead of showing how different foods affect the body, I would visualize how food choices affect the planet. The appeal of this direction lies in its broader social relevance — environmental issues resonate with a wider audience and connect eating habits to larger global conversations. However, this option would require a complete reconceptualization of my visual language. The board, which currently represent caloric density, would need to represent carbon emissions instead. This pivot would preserve the physical medium but completely change what the thickness communicates.
 
@@ -121,18 +121,18 @@ With the chatgpt tool, I organised the main food items that appeared throughout 
 ## Lazar picture and your process of lazer cuting
 After organising the food categories and calorie information, I translated the data into physical forms. I independently created the vector drawings in Adobe Illustrator and prepared the files for laser cutting.
 
-![Alt text](../assets/week-07/week7_lazer1.png)
-![Alt text](../assets/week-07/week7_lazer2.png)
-![Alt text](../assets/week-07/week7_lazer4.jpg)
+![illustrator file](../assets/week-07/week7_lazer1.png)
+![process of cuting](../assets/week-07/week7_lazer2.png)
+![outcome of the food pieces](../assets/week-07/week7_lazer4.jpg)
  At this stage, the laser-cut prototype was still an experiment rather than a final outcome. I used a single type of wood throughout the prototype to test the visual system and fabrication process. My main focus was not on material exploration, but on understanding how food data could be translated into physical forms through thickness, shape, and layering. Creating the prototype helped me evaluate the feasibility of the concept。 
 
 ## Presentation (5 slides)
 I prepared a short, 5-minute progress slides to share with a small group in next week's class:
-![Alt text](../assets/week-07/1.png)
-![Alt text](../assets/week-07/2.png)
-![Alt text](../assets/week-07/3.png)
-![Alt text](../assets/week-07/4.png)
-![Alt text](../assets/week-07/5.png)
+![research page](../assets/week-07/1.png)
+![where my project stands](../assets/week-07/2.png)
+![stage i am](../assets/week-07/3.png)
+![question](../assets/week-07/4.png)
+![next step](../assets/week-07/5.png)
 
 ## AI Usage Statement
 

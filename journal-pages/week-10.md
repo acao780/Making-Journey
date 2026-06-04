@@ -45,6 +45,7 @@ I looked at how different design components influence user engagement and how da
 
 <iframe src="https://www.youtube.com/embed/2B_iR0MhihA&t=3s" width="560" height="315"> </iframe>
 
+![Alt text](../assets/week-10/footstep_community.png)
 Another source of inspiration came from a conversation with my sister. After discussing my project with her, she introduced me to a mobile application called Pikmin Bloom. The app encourages users to track their daily steps while interacting with friends and growing a virtual environment together. This reinforced my belief that health-related data can become more meaningful when it is connected to a community experience.
 
 This new direction also helped solve an issue raised by one of my classmates about how to distinguish between different users' data. By presenting data as a forest of individual trees rather than combining everything into one visualisation, each person can maintain their own identity while still contributing to a larger community. This approach allows personal stories and collective patterns to coexist within the same system.

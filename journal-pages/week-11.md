@@ -97,7 +97,8 @@ While using the final version of my application, I identified several areas that
 Another limitation of the current application is the variety of food images available in the food library. At this stage, the food assets were primarily created based on the eating habits and daily routines of the six participants involved in the study. As a result, the range of food options does not fully represent the diversity of foods that different users may consume. In future development, I would expand the food database by adding a wider selection of food images and categories to better accommodate different cultural backgrounds, dietary preferences, and eating habits. This would improve both the usability and inclusiveness of the application while allowing users to create more accurate representations of their daily meals.
 
 ## Reference
-https://servicestack.net/posts/react#react-tailwind-the-ai-development-standard
+Mythz. (2025, November 13). *React + Tailwind + TypeScript for AI-first development*. ServiceStack. 
+https://servicestack.net/posts/react
 
 ## AI Usage Statement
 During Week 11, I used ChatGPT to generate a range of visual assets based on my design concepts, including food icons, tree variations, and interface elements such as books and book covers. In addition, I used Codex to support the development of the application, particularly for implementing features, refining code, and debugging technical issues.

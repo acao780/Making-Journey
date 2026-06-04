@@ -116,11 +116,11 @@ One important lesson from this stage was that physical data visualisation commun
 | **chocolate** | Snack | 200 | **4 mm** | 1.0 |
 | **chicken soup** | Soup | 150 | **3 mm** | 1.5 |
 
+With the chatgpt tool, I organised the main food items that appeared throughout my dataset and grouped them into categories. AI was also used to estimate the calorie content of each food item and help determine an appropriate physical thickness value for my early laser-cut prototypes. This foods with higher calorie values were represented by thicker layers, while lower-calorie foods were represented by thinner layers.
 
-
-## lazar picture and your process of lazer cuting
-## 整理这些照片
+## Lazar picture and your process of lazer cuting
 ![Alt text](../assets/week-07/week7_lazer1.png)
+
 ![Alt text](../assets/week-07/week7_lazer2.png)
 ![Alt text](../assets/week-07/week7_lazer4.jpg)
 

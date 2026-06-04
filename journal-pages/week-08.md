@@ -54,8 +54,14 @@ Another valuable insight came from discussions about data authenticity. Although
 As a result of these discussions, I decided to reconsider the scale and fabrication method of the project. While I still value the physical qualities explored through laser cutting, I began looking for alternative ways to communicate the data more efficiently. This decision ultimately encouraged me to explore new directions that prioritise interaction, accessibility, and long-term scalability while still communicating the importance of regular eating habits and self-care.
 
 ### 2. Project Development
+This week, my project reached a difficult stage and progress slowed significantly. After developing the initial laser-cut concept, I struggled to identify a clear direction for further development. Although I had created a physical prototype, I felt that the concept was becoming increasingly complex and difficult to scale. I was unsure how to effectively communicate the importance of eating habits while maintaining a manageable workload.
 
-Building directly on your reflective summary, apply the decisions you have identified, whether these concern your data source, your visualisation approach, the form your work will take, or something else.
+As a result, I decided to step back from making and spend more time researching. Rather than forcing a solution, I focused on looking at a wide range of precedents and visual references. I explored food-related data visualisations on platforms such as Pinterest and Xiaohongshu, searching for different ways designers had transformed personal data into engaging visual experiences.
+
+I also revisited the work of Nathalie Miebach. Her approach to transforming scientific data into physical forms reminded me that data visualisation does not need to rely on conventional charts or graphs. Although I did not directly apply her techniques, reviewing her work helped me continue thinking about how data could be experienced physically and emotionally.
+
+## Reference
+https://issues.org/sculpting-the-floods-miebach/?utm_source=chatgpt.com
 
 ## AI Usage Statement
 

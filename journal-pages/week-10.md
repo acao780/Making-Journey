@@ -43,7 +43,8 @@ When I arrived home, I quickly reconsidered my previous design. While keeping th
 ![Alt text](../assets/week-10/wechat_step.jpg)
 I looked at how different design components influence user engagement and how data flows can strengthen the overall experience. This helped me understand how my own design decisions were evolving and how the different elements of the project support my message. One example that influenced my thinking was the WeChat step-counting feature, which records users' daily walking activity and allows them to compare their results with friends through a ranking system. Although the data itself is relatively simple, the social aspect encourages people to become more active and aware of their habits. I realised that the value of data is not only in personal tracking but also in creating opportunities for motivation, reflection, and community engagement. This observation helped shape the community aspect of my project. Similar to how people can view and compare step counts on WeChat, the Wind Chime Garden allows users to share and observe each other's food diaries through a community forest. Rather than promoting competition, the goal is to encourage mutual care, helping people become more aware of their eating habits while supporting friends and family members in maintaining their wellbeing.
 
-![Alt text](../assets/week-10/wechat_step.jpg)
+https://www.youtube.com/watch?v=2B_iR0MhihA&t=3s
+
 Another source of inspiration came from a conversation with my sister. After discussing my project with her, she introduced me to a mobile application called Pikmin Bloom. The app encourages users to track their daily steps while interacting with friends and growing a virtual environment together. This reinforced my belief that health-related data can become more meaningful when it is connected to a community experience.
 
 This new direction also helped solve an issue raised by one of my classmates about how to distinguish between different users' data. By presenting data as a forest of individual trees rather than combining everything into one visualisation, each person can maintain their own identity while still contributing to a larger community. This approach allows personal stories and collective patterns to coexist within the same system.
@@ -74,15 +75,14 @@ In the following week, I will continue refining the design and begin the develop
 ![Alt text](../assets/week-10/week10_image4.png)
 ![Alt text](../assets/week-10/week10_look.png)
 
-## （都需要照片）
-reference： 
+## Reference： 
 https://apps.apple.com/us/app/athlytic-ai-fitness-coach/id1543571755 
 
 https://apps.apple.com/us/app/apple-health/id1242545199
-- apple watch
-- wechat foot
-- 姐姐推荐的
 
+https://pikminbloom.com/
+
+https://www.youtube.com/watch?v=2B_iR0MhihA&t=3s
 ## AI Usage Statement
 
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

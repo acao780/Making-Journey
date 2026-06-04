@@ -119,10 +119,12 @@ One important lesson from this stage was that physical data visualisation commun
 With the chatgpt tool, I organised the main food items that appeared throughout my dataset and grouped them into categories. AI was also used to estimate the calorie content of each food item and help determine an appropriate physical thickness value for my early laser-cut prototypes. This foods with higher calorie values were represented by thicker layers, while lower-calorie foods were represented by thinner layers.
 
 ## Lazar picture and your process of lazer cuting
-![Alt text](../assets/week-07/week7_lazer1.png)
+After organising the food categories and calorie information, I translated the data into physical forms. I independently created the vector drawings in Adobe Illustrator and prepared the files for laser cutting.
 
+![Alt text](../assets/week-07/week7_lazer1.png)
 ![Alt text](../assets/week-07/week7_lazer2.png)
 ![Alt text](../assets/week-07/week7_lazer4.jpg)
+ At this stage, the laser-cut prototype was still an experiment rather than a final outcome. I used a single type of wood throughout the prototype to test the visual system and fabrication process. My main focus was not on material exploration, but on understanding how food data could be translated into physical forms through thickness, shape, and layering. Creating the prototype helped me evaluate the feasibility of the concept。 
 
 ## Presentation (5 slides)
 I prepared a short, 5-minute progress slides to share with a small group in next week's class:

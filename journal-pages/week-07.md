@@ -135,5 +135,6 @@ I prepared a short, 5-minute progress slides to share with a small group in next
 ![next step](../assets/week-07/5.png)
 
 ## AI Usage Statement
+During Week 7, I used ChatGPT to assist with translating food diary data into a manufacturable format for the physical prototype. Specifically, ChatGPT helped organise the Solid Food Plate Manufacturing Checklist and establish a mapping rule where every 50 kcal corresponded to 1 mm of material thickness. All final decisions and design outcomes were reviewed and determined by me.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+OpenAI. (2026). ChatGPT (GPT-5.5 version) [Large language model]. https://chatgpt.com/

@@ -106,5 +106,8 @@ This was the moment when the project shifted from a calorie-tracking visualisati
 
 
 ## AI Usage Statement
+During Week 9, I used NotebookLM as part of a class activity assigned by the lecturer. In addition, Google Gemini was used to support the development of two p5.js prototypes. Rather than writing all of the code independently, I used Gemini to generate and refine code based on my design ideas and requirements. The AI-assisted code helped me experiment with different visualisation approaches and implement interactive features within p5.js. While AI supported the coding process, all design decisions, visual outcomes, and project directions were determined and evaluated by the me.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+Google. (2026a). Gemini [Large language model]. https://gemini.google.com/
+
+Google. (2026b). NotebookLM [Large language model]. https://notebooklm.google.com/

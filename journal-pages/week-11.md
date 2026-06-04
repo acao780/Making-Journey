@@ -88,7 +88,7 @@ Testing was done through repeated build and browser checks. After visual changes
 
 Overall, the biggest learning was that asset separation and component structure matter a lot. A single flat image is faster at first, but separate components and image layers make the project much more flexible. The current frontend is now a better base for future features, such as food diary entries generating trees, wind chimes, or other forest objects.
 
-![About page screenshot](../assets/technical-consideration/04-about-us.png)
+![json](../assets/week-11/app_json.png)
 
 I converted each participant's data into a JSON file. This allowed the application to load and manage the data more efficiently. Rather than manually entering information every time, the system can automatically read the stored records and generate the corresponding wind chimes, trees, and data visualisations. Using JSON files also made the project more scalable. New users can be added simply by creating a new data file, allowing the community forest to grow without requiring major changes to the system. This structure helped separate the data from the interface design, making it easier to update, organise, and test different datasets during development.
 

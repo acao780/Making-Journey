@@ -154,7 +154,7 @@ This dataset became an important comparison point within my project. It demonstr
 | 05/30 | Weekend | Fried Rice + Milk | Bread + Juice | Boiled Broccoli + Steak Dish + Rice | 2150 | 8 |
 | 05/31 | Weekend | Nibbles + Cereal + Chocolate Milk | Fried Rice | Steam Chicken + Rice + Chicken Soup | 2350 | 9 |
 
-#### My friend 1's Diet and Calorie Record (April 16 - June) 10 days：
+#### My friend 1's Diet and Calorie Record (May 20, 2026 – May 31, 2026) 10 days：
 
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
@@ -170,7 +170,7 @@ This dataset became an important comparison point within my project. It demonstr
 | 05/30 | Weekend | None | Pizza | Sushi + Milk Tea | 2400 | 8 |
 | 05/31 | Weekend | None | Sandwich + Egg | Steak Noodles | 1750 | 6 |
 
-#### My friend 2's Diet and Calorie Record (April 16 - June) 10 days：
+#### My friend 2's Diet and Calorie Record (May 20, 2026 – May 24, 2026) 5 days：
 
 | Date  | State       | Breakfast      | Lunch                   | Dinner                                  | Total Calories | Energy Levels (1-10) |
 | ----- | ----------- | -------------- | ----------------------- | --------------------------------------- | -------------- | -------------------- |
@@ -183,7 +183,6 @@ This dataset became an important comparison point within my project. It demonstr
 This dataset highlighted a common misconception that eating fewer meals automatically leads to healthier eating habits. In reality, hidden calories from sugary drinks, fast food, and snacks can easily offset the calories saved from skipping meals. Compared with my own data, which was influenced by busy schedules, and Friend 1's data, which was driven by dieting goals, Friend 2's data demonstrated how a lack of nutritional awareness can also contribute to unhealthy eating patterns.
 
 Together, these datasets revealed that meal-skipping is not caused by a single factor. Instead, it can result from different motivations, lifestyles, and understandings of food, reinforcing the need for broader public awareness around self-care and healthy eating habits.
-
 
 ## 2. Visual Research and Precedent Study 
 During Week 6, I spent 45 minutes collecting visual references related to my project. I used Google Gemini to help me search for examples of data visualization, physical data design, and nutrition tracking projects.

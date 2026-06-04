@@ -318,5 +318,7 @@ https://news.virginia.edu/content/qa-how-do-you-weave-data-art
 
 
 ## AI Usage Statement
+During Week 6, I used Google Gemini to support the development of my p5.js prototype. Rather than writing code entirely from scratch, I described my design ideas and intended interactions using natural language prompts and used the generated code as a starting point for experimentation and iterative refinement. The AI-generated code was reviewed, modified, and adapted to suit the specific requirements of the project. In addition, Google Gemini was used to assist with organising food diary data and estimating calorie values during the early stages of data visualisation development. These estimations helped establish initial relationships between food intake, caloric consumption, and visual representations. All final design decisions, visual outcomes, data interpretation, and project direction were determined by the me.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+Google. (2026). Gemini (version used) [Large language model]. https://gemini.google.com/
+OpenAI. (2026). ChatGPT (GPT-5.5 version) [Large language model]. https://chatgpt.com/

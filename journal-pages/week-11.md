@@ -40,10 +40,20 @@ Many of the interface elements in the final prototype were created with the assi
 Some decorative elements, including the three wind chimes, scrapbook-style tape stickers, and flower graphics, were sourced from Pinterest. I removed the backgrounds and adapted them to fit the visual style of the project. All remaining layouts, interactions, page structures, visual systems, and the overall Wind Chime Garden concept were designed by myself.
 
 ![Alt text](../assets/week-11/trees.png)
+I designed seven different tree growth stages for the community forest. Each branch represents one week of recorded data, meaning that the seventh stage of the tree can display up to seven weeks of food diary entries. Once a user records more than seven weeks of data, a new tree begins to grow beside the existing one, allowing the forest to continue expanding over time.
+
+I manually placed each wind chime tag onto its corresponding branch. In total, I designed more than 50 different tree variations, including the initial tree with no branches. This process helped me visualise how users' records would accumulate and how the forest would grow as more data was collected.
+
 ![Alt text](../assets/week-11/datatree_website.png)
+I completed the final website design for the Wind Chime Garden prototype. After finishing the main user interface, I integrated the different tree growth stages into the community forest page to feel how they functioned within the overall experience.
+
+Seeing the trees within the final interface helped me better understand the scale and visual impact of the system. The different tree forms successfully communicated progression over time, and the growing forest reinforced the idea that food records accumulate into a long-term archive of personal habits. The addition of the tree growth system also strengthened the connection between individual data and the wider community, as users can easily compare the development of different trees while still maintaining their own unique records.
+
+Testing the tree system within the final design allowed me to identify minor layout issues and make adjustments before the showcase. More importantly, it confirmed that the tree metaphor effectively communicates growth, wellbeing, and continuous self-care, which are central themes of the project.
+
 ![Alt text](../assets/week-11/detailed_design.png)
 ![Alt text](../assets/week-11/detailed_design1.png)
-
+When users click on a tree or create a new profile, they enter the Diary Book interface. I chose a diary book format because it reinforces the idea of recording and reflecting on daily eating habits. Rather than presenting the data through conventional dashboards, the book creates a more personal and engaging experience, similar to keeping a food journal. One page of the diary presents an overview of the user's data, including energy level trends, calorie intake graphs, and summary statistics such as completed and incomplete wind chimes. This allows users to quickly understand their eating patterns over time. Another page is dedicated to creating daily wind chimes. Users can build a personalised wind chime by selecting items from four categories: food, fruit, drink, and decoration. Each selected item becomes part of the wind chime and contributes to the daily record. Every food item is assigned a calorie value, allowing the system to calculate daily energy intake while maintaining a playful and visual interaction. The final page allows users to click on an individual wind chime tag hanging from the tree. This opens a detailed view showing the meals recorded for that day. Depending on the user's entries, the wind chime may contain two or three meal pendants representing breakfast, lunch, and dinner. Users can view the food items selected for each meal along with their associated calorie information. This creates a direct connection between the visual wind chime and the underlying data it represents.
 
 
 ## Vibe coding & techique

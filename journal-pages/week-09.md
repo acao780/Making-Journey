@@ -53,7 +53,7 @@ Based on the feedback I received from my classmate, I realised that my current l
 For this sprint, I developed two quick concept sketches. The first concept uses a stomach-shaped frame as the main structure. Inside the stomach, information such as date, food items, total calorie intake, and energy level are arranged in sequence. Inspired by the Data Strings activity, these elements are connected using coloured strings. Different colours represent different daily eating conditions: green for low intake, blue for adequate intake, purple for healthy intake, and red for unhealthy or insufficient intake. The food pieces still retain different thicknesses to represent calorie values, but they can be made much smaller than in my previous design.
 
 The goal of this sprint is to test whether combining strings, colour, and thickness can communicate the data more efficiently while reducing fabrication requirements. The materials required include paper sketches, coloured pens, string, and laser-cut prototypes from previous experiments.
-![Alt text](../assets/week-09/week9_sketch.jpg)
+![Alt text](../assets/week-09/week9_sketch.png)
 
 ## 3. Round Robin Rapid Reactions
 ![Alt text](../assets/week-09/week9_version4.jpg)

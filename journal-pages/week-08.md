@@ -43,7 +43,7 @@ Increasing the Impact: To strengthen audience engagement, I proposed adding an i
 
 My Design Proposition: If I were developing this project, I would create an environmental landscape divided into different zones, with each area representing a different category of waste. The amount of material in each zone would correspond to the quantity of waste generated. This would allow viewers to compare different forms of waste and understand how small amounts of waste produced within a single design studio can scale into much larger environmental problems when multiplied across thousands of studios worldwide. This proposition builds on the original concept while expanding its scope, increasing audience participation, and strengthening the connection between local actions and global environmental impacts.
 
-![Alt text](../assets/week-08/week8_sketch.png)
+![Alt text](../assets/week-08/week8_sketch.jpg)
 
 # Individual work:
 

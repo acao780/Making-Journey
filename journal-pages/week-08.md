@@ -57,7 +57,7 @@ As a result of these discussions, I decided to reconsider the scale and fabricat
 This week, my project reached a difficult stage and progress slowed significantly. After developing the initial laser-cut concept, I struggled to identify a clear direction for further development. Although I had created a physical prototype, I felt that the concept was becoming increasingly complex and difficult to scale. I was unsure how to effectively communicate the importance of eating habits while maintaining a manageable workload.
 
 As a result, I decided to step back from making and spend more time researching. Rather than forcing a solution, I focused on looking at a wide range of precedents and visual references. I explored food-related data visualisations on platforms such as Pinterest and Xiaohongshu, searching for different ways designers had transformed personal data into engaging visual experiences.
-![idea sketch](../assets/week-08/week8_pinterest.png)
+![pinterest and xiaohongshu images](../assets/week-08/week8_pinterest.png)
 
 I also revisited the work of Nathalie Miebach. Her approach to transforming scientific data into physical forms reminded me that data visualisation does not need to rely on conventional charts or graphs. Although I did not directly apply her techniques, reviewing her work helped me continue thinking about how data could be experienced physically and emotionally.
 

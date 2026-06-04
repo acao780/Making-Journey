@@ -9,7 +9,6 @@ layout: default
 ## Project outcome
 <iframe src="https://www.youtube.com/embed/7tBqDGTIwms" width="560" height="315"> </iframe>
 
-## Project Statement
 ### Wind Chime Garden
 
 Wind Chime Garden is an interactive data visualisation that transforms everyday food records into a living digital forest. Rather than presenting health information through traditional graphs, charts, or calorie counters, this project visualises eating habits as personalised wind chimes hanging from growing trees.

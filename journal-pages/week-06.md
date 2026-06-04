@@ -292,7 +292,8 @@ My project is a physical data visualization that combines digital design and las
 ![kcal thickness expression sketch](../assets/week-06/brainstorm.jpg)
 
 ## Reference
-https://www.instagram.com/p/DDEtR3EiRrU/?img_index=3
+madatavis_lcc [@madatavis_lcc]. (2024, December 3). Hangjie Cai's final project on MA Design for Data Visualisation 23/24 is titled 'Noise Factory' and reveals the relationship between environmental noise and economic disparities [Images attached]. Instagram. 
+https://www.instagram.com/p/DDEtR3EiRrU/
 
 Cleveland Clinic. (n.d.). How many calories should you eat in a day? Cleveland Clinic. 
 https://health.clevelandclinic.org/how-many-calories-a-day-should-i-eat

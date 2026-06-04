@@ -50,7 +50,7 @@ Breakfast, Lunch, and Dinner: These categories record what foods were eaten duri
 Total Calories: This is an estimate of the total amount of energy consumed each day through food and drinks.
 Energy Level (1–10): This is a self-reported score that reflects how energetic I felt throughout the day. Higher scores indicate feeling more focused, active, and energetic, while lower scores indicate tiredness or lack of energy.
 
-### Data collections (5 people)
+### Data collections (6 people)
 I will be documenting all my data collection here, although this is week 6 journal page, I want my data collection to be clear and clean just gather them in one place.
 #### Anna's Self-tracked personal dietary log (April 16, 2026 – May 31, 2026)， 46 days.
 

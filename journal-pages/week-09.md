@@ -9,7 +9,7 @@ layout: default
 ## 1. Project Statement: First Draft
 
 ### Case study
-![Alt text](../assets/week-09/week9_tips.png)
+![4 answers](../assets/week-09/week9_tips.png)
 What are the data sources used in this work? 
 
 The data sources used in this work come from both real and fictional references. The project is inspired by Cybersyn, a real computer system developed in Chile in 1971, and DivLab, a fictional computational system described in Ursula K. Le Guin's novel The Dispossessed. The work also uses data from a pool of 30 million American workers. Random number generators are used to assign jobs and labor positions within the system.
@@ -53,10 +53,10 @@ Based on the feedback I received from my classmate, I realised that my current l
 For this sprint, I developed two quick concept sketches. The first concept uses a stomach-shaped frame as the main structure. Inside the stomach, information such as date, food items, total calorie intake, and energy level are arranged in sequence. Inspired by the Data Strings activity, these elements are connected using coloured strings. Different colours represent different daily eating conditions: green for low intake, blue for adequate intake, purple for healthy intake, and red for unhealthy or insufficient intake. The food pieces still retain different thicknesses to represent calorie values, but they can be made much smaller than in my previous design.
 
 The goal of this sprint is to test whether combining strings, colour, and thickness can communicate the data more efficiently while reducing fabrication requirements. The materials required include paper sketches, coloured pens, string, and laser-cut prototypes from previous experiments.
-![Alt text](../assets/week-09/week9_sketch.png)
+![developing sketch](../assets/week-09/week9_sketch.png)
 
 ## 3. Round Robin Rapid Reactions
-![Alt text](../assets/week-09/week9_version4.jpg)
+![presenting](../assets/week-09/week9_version4.jpg)
 ### Reactions and Feedback
 During the discussion, one classmate responded very positively to the stomach-shaped structure of my design. They felt that using the stomach as the main form created a strong connection between the data and the topic of eating habits and wellbeing. However, they also pointed out a potential issue with my use of coloured strings. Since each day could have a different eating condition, the colours would become mixed together over time, making it difficult to clearly distinguish the different categories.
 
@@ -75,32 +75,32 @@ I felt quite anxious because my initial concept was becoming increasingly diffic
 Eventually, I decided to let go of my original concept and start again. I first used p5.js to test some of the ideas suggested by my tutors. By creating quick digital prototypes, I was able to evaluate whether these ideas could eventually be translated into a physical outcome.
 <iframe src="https://www.youtube.com/embed/z6bpGiqWunc" width="560" height="315"> </iframe>
 
-![Alt text](../assets/week-09/week9_image4.png)
+![code of string board](../assets/week-09/week9_image4.png)
 
 A day later, after a long and busy day, I suddenly remembered a comment from one of the tutors. They suggested that shorter strings could represent earlier dates, while longer strings could represent more recent dates. This simple idea immediately sparked a new direction. I began wondering: what if all of these strings came together to form a tree?
 
 Excited by this possibility, I quickly opened p5.js and started experimenting. Using Google Gemini as a creative and technical support tool, I rapidly tested different arrangements and visual structures. The result was a tree-like form made from strings representing time and eating data. For the first time in several weeks, I felt genuinely excited about the project again. This concept eventually became the foundation for the Wind Chime Tree direction that I am currently developing.
 <iframe src="https://www.youtube.com/embed/i9QJMwGp3e4" width="560" height="315"> </iframe>
 
-![Alt text](../assets/week-09/week9_code3.png)
+![code for string tree](../assets/week-09/week9_code3.png)
 
 At the same time, I spent a lot of time browsing Xiaohongshu and Pinterest for inspiration. One day, I came across several images of trees covered with hanging wind chimes. Something about these images immediately resonated with me. At that moment, many of the ideas I had been struggling with suddenly came together.
 
 I began thinking about the tree structure I had previously created in p5.js. In that experiment, each string represented one day of food intake and calorie data. Looking at the wind chimes, I realised that each string could become more than just a line of data—it could become a complete wind chime. Instead of visualising food data as abstract information, I could transform it into a collection of personal objects hanging from a tree.
-![Alt text](../assets/week-09/chimes.png)
+![inspired image](../assets/week-09/chimes.png)
 Inspired by this idea, I immediately opened Figma and began sketching the interface. In this new concept, one wind chime represents one day of food intake. The food items attached to the wind chime are selected from a library of food icons that I designed in Figma. Each food item carries its own energy value and contributes to the daily record. Following the feedback from my tutor, the length of the string represents time: shorter strings represent earlier dates, while longer strings represent more recent days.
 
 As I continued developing the concept, I felt that simply displaying food items and notes was not visually engaging enough. Therefore, I introduced a decoration library that allows users to personalise their wind chimes. Users can add decorative elements and sticky notes alongside their food selections, making each wind chime feel unique while still functioning as a record of eating habits.
 
-This was the moment when the project shifted from a calorie-tracking visualisation into what I now call the Wind Chime Garden—a growing collection of daily food memories displayed as personalised wind chimes hanging from a tree.
-![Alt text](../assets/week-09/week9.png)
+This was the moment when the project shifted from a calorie-tracking visualisation into what I now call the Wind Chime Tree—a growing collection of daily food memories displayed as personalised wind chimes hanging from a tree.
+![first iteration of the wind chime garden](../assets/week-09/week9.png)
 
 ### 2. Progress Report
-![Alt text](../assets/week-09/1.png)
-![Alt text](../assets/week-09/2.png)
-![Alt text](../assets/week-09/3.png)
-![Alt text](../assets/week-09/4.png)
-![Alt text](../assets/week-09/5.png)
+![current stand](../assets/week-09/1.png)
+![current draft](../assets/week-09/2.png)
+![key development and decision making](../assets/week-09/3.png)
+![visual research](../assets/week-09/4.png)
+![question](../assets/week-09/5.png)
 
 
 

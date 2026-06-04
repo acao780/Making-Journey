@@ -118,9 +118,9 @@ I will be documenting all my data collection here, although this is week 6 journ
 | 05/30 | Weekend | Tea + Fried Rice | Pizza | Boiled Broccoli + Steak Dish + Rice | 2200 | 8 |
 | 05/31 | Weekend | Tea + Nibbles + Cereal | Steak Noodles | Steam Chicken + Rice + Chicken Soup | 2100 | 8 |
 
-My mother's dietary record presented a very different pattern from both my own data and my friend's data. Across the recording period, she consistently ate three meals a day and rarely skipped breakfast. Her meals generally included a balance of carbohydrates, protein, and vegetables, resulting in a relatively stable calorie intake and consistently high energy levels.
+My mother's dietary record presented a very different pattern from both my own data and my friend 1's data. Across the recording period, she consistently ate three meals a day and rarely skipped breakfast. Her meals generally included a balance of carbohydrates, protein, and vegetables, resulting in a relatively stable calorie intake and consistently high energy levels.
 
-Unlike my own habit of occasionally missing meals due to busy schedules, or my friend's intentional meal restriction for weight loss, my mother's eating habits reflected a routine centred around regular nourishment and self-care. Although her diet was not strictly a "healthy diet" in the conventional sense, the consistency of her meal timing appeared to contribute to more stable energy levels throughout the week.
+Unlike my own habit of occasionally missing meals due to busy schedules, or my friend 1's intentional meal restriction for weight loss, my mother's eating habits reflected a routine centred around regular nourishment and self-care. Although her diet was not strictly a "healthy diet" in the conventional sense, the consistency of her meal timing appeared to contribute to more stable energy levels throughout the week.
 
 This dataset became an important comparison point within my project. It demonstrated that regular eating habits are achievable within everyday life and highlighted the potential benefits of meal consistency. Comparing these three datasets revealed that eating behaviour is shaped by different motivations, lifestyles, and responsibilities. Together, they provided a broader understanding of how people relate to food and reinforced the importance of promoting awareness around regular meals and personal wellbeing.
 
@@ -154,7 +154,7 @@ This dataset became an important comparison point within my project. It demonstr
 | 05/30 | Weekend | Fried Rice + Milk | Bread + Juice | Boiled Broccoli + Steak Dish + Rice | 2150 | 8 |
 | 05/31 | Weekend | Nibbles + Cereal + Chocolate Milk | Fried Rice | Steam Chicken + Rice + Chicken Soup | 2350 | 9 |
 
-#### My friend's Diet and Calorie Record (April 16 - June) 10 days：
+#### My friend 1's Diet and Calorie Record (April 16 - June) 10 days：
 
 | Date | State | Breakfast | Lunch | Dinner | Total Calories | Energy Levels (1-10) |
 |------|------|------|------|------|------|------|
@@ -170,9 +170,17 @@ This dataset became an important comparison point within my project. It demonstr
 | 05/30 | Weekend | None | Pizza | Sushi + Milk Tea | 2400 | 8 |
 | 05/31 | Weekend | None | Sandwich + Egg | Steak Noodles | 1750 | 6 |
 
-Friend's dietary record revealed another reason behind irregular eating habits. Similar to older sister, breakfast was frequently skipped. However, unlike intentional dieting, this participant regularly consumed calorie-dense foods such as fried chicken, hamburgers, pizza, milk tea, and soft drinks throughout the day. Despite believing that skipping breakfast would help control weight, the total daily calorie intake remained relatively high, averaging over 2200 kcal per day.
+#### My friend 2's Diet and Calorie Record (April 16 - June) 10 days：
 
-This dataset highlighted a common misconception that eating fewer meals automatically leads to healthier eating habits. In reality, hidden calories from sugary drinks, fast food, and snacks can easily offset the calories saved from skipping meals. Compared with my own data, which was influenced by busy schedules, and Friend A's data, which was driven by dieting goals, Friend B's data demonstrated how a lack of nutritional awareness can also contribute to unhealthy eating patterns.
+| Date  | State       | Breakfast      | Lunch                   | Dinner                                  | Total Calories | Energy Levels (1-10) |
+| ----- | ----------- | -------------- | ----------------------- | --------------------------------------- | -------------- | -------------------- |
+| 05/20 | Working Day | None           | Fried Rice + Bubble Tea | Fried Chicken + Coke + Nibbles          | 2450           | 7                    |
+| 05/21 | Working Day | Chocolate Milk | Pie + Energy Drink      | Pizza + Coke                            | 2200           | 6                    |
+| 05/22 | School Day  | Bubble Tea     | None                    | Fried Rice + Fried Chicken + Soft Drink | 2100           | 5                    |
+| 05/23 | Weekend     | Sweet Coffee   | Burger + Fries + Coke   | Chips + Chocolate Milk                  | 2300           | 6                    |
+| 05/24 | Weekend     | None           | Pizza + Bubble Tea      | Fried Chicken + Nibbles + Soft Drink    | 2400           | 5                    |
+
+This dataset highlighted a common misconception that eating fewer meals automatically leads to healthier eating habits. In reality, hidden calories from sugary drinks, fast food, and snacks can easily offset the calories saved from skipping meals. Compared with my own data, which was influenced by busy schedules, and Friend 1's data, which was driven by dieting goals, Friend 2's data demonstrated how a lack of nutritional awareness can also contribute to unhealthy eating patterns.
 
 Together, these datasets revealed that meal-skipping is not caused by a single factor. Instead, it can result from different motivations, lifestyles, and understandings of food, reinforcing the need for broader public awareness around self-care and healthy eating habits.
 

@@ -74,30 +74,7 @@ To move the project forward, I began developing a mapping system that converts c
 
 During this process, I also revisited my technical skills. I had previous experience with laser cutting, I needed to prepare fabrication files in Adobe Illustrator and consider how numerical data could be transformed into physical objects. 
 
-One important lesson from this stage was that physical data visualisation communicates information differently from digital visualisation. While p5.js was useful for exploring patterns and interactions, the laser-cut approach provides a stronger sense of scale, presence, and materiality. This reinforces the project's goal of encouraging people to think about their eating habits and the importance of maintaining a healthy relationship with food.
-
-The next step is to fabricate a small prototype and test whether viewers can understand the calorie information through the physical thickness of the pieces. 
-
-## add more
-独立学习
-本课程的学习任务包括每周9.5小时的课外自主学习时间。一般来说，您应该花费2小时阅读和思考课程内容，7.5小时完成作业。
-
-请务必先完成所有课堂活动，然后再进行自主学习任务。
-
-1. 项目开发与技能培养
-
-继续推进你的项目，直接基于今天“创作冲刺”和“假设情景”演练的成果。在工作过程中，解决你在第六周路线图中确定的技术技能差距。记录你的学习过程以及创作过程，包括文字和图片证据。反思你的尝试、你的收获以及这些如何推动了项目的进展。
-
-2. 进度报告
-
-准备一份简短的进度报告，时长约5分钟，下周上课时向小组同学分享。报告形式应为简单的幻灯片演示（约5张幻灯片），内容包括：
-
-项目目前进展如何？
-迄今为止的关键进展和决定
-视觉研究/参考资料
-您希望获得反馈的两到三个具体问题
-上课时要做好准备，进行展示并接受同学和老师的反馈。
-
+One important lesson from this stage was that physical data visualisation communicates information differently from digital visualisation. While p5.js was useful for exploring patterns and interactions, the laser-cut approach provides a stronger sense of scale, presence, and materiality. This reinforces the project's goal of encouraging people to think about their eating habits and the importance of maintaining a healthy relationship with food. The next step is to fabricate a small prototype and test whether viewers can understand the calorie information through the physical thickness of the pieces. 
 
 ### Solid Food Plate Manufacturing Checklist (Mapping Rule: 50 kcal = 1 mm thickness)
 
@@ -139,11 +116,12 @@ The next step is to fabricate a small prototype and test whether viewers can und
 | **chocolate** | Snack | 200 | **4 mm** | 1.0 |
 | **chicken soup** | Soup | 150 | **3 mm** | 1.5 |
 
+
+
 ## lazar picture and your process of lazer cuting
 ## 整理这些照片
 ![Alt text](../assets/week-07/week7_lazer1.png)
 ![Alt text](../assets/week-07/week7_lazer2.png)
-![Alt text](../assets/week-07/week7_lazer3.jpg)
 ![Alt text](../assets/week-07/week7_lazer4.jpg)
 
 ## Presentation (5 slides)

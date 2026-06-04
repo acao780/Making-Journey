@@ -265,8 +265,8 @@ Following the skills roadmap developed in class, I decided to focus on p5.js as 
 To further develop this skill, I used Google Gemini to help generate p5.js code based on natural language descriptions of my ideas. Instead of writing code from scratch, I described the visual effects I wanted to create and then modified the generated code through testing and experimentation.
 
 #### Intial concept sketch:
-![Alt text](../assets/week-06/week6_images2.png)
-![code](../assets/week-06/week6_images1.png)
+![circle and foodpoint in p5.js](../assets/week-06/week6_images2.png)
+![circle and foodpoint code](../assets/week-06/week6_images1.png)
 This was my first design concept, which I initially sketched during class and later transformed into a digital version using p5.js. In this version, each circle represents one day of recorded data, and the size of the circle reflects the total calorie intake for that day. However, after testing the visualisation, I realised that the red dots did not communicate enough information on their own. As a result, I began an iterative process with Google Gemini to improve the design. Through several rounds of discussion and experimentation, I added an interactive feature that reveals additional information when the user hovers over a red dot. The visualisation now displays the food items associated with that day, highlighting repeated foods that appeared across multiple days. This iteration helped make the data more informative and engaging. Instead of only showing calorie intake through circle size, the visualisation now allows users to explore eating patterns and recurring food choices. Through this process, I learned how interaction design can help communicate complex data more effectively and encourage deeper exploration of the dataset.
 
 <iframe src="https://www.youtube.com/embed/dpoyehsbqws" width="560" height="315"> </iframe>
@@ -289,7 +289,7 @@ My project is a physical data visualization that combines digital design and las
 | 3 | Data Collection | To record and organize my food data |
 | 4 | Photography | To document my final project |
 
-![Alt text](../assets/week-06/brainstorm.jpg)
+![kcal thickness expression sketch](../assets/week-06/brainstorm.jpg)
 
 ## Reference
 

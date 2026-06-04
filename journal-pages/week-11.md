@@ -100,5 +100,10 @@ Another limitation of the current application is the variety of food images avai
 https://servicestack.net/posts/react#react-tailwind-the-ai-development-standard
 
 ## AI Usage Statement
+During Week 11, I used ChatGPT to generate a range of visual assets based on my design concepts, including food icons, tree variations, and interface elements such as books and book covers. In addition, I used Codex to support the development of the application, particularly for implementing features, refining code, and debugging technical issues.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+While AI contributed to visual asset generation, data organisation, and app development, all final design decisions, visual compositions, interface layouts, and project directions were determined and completed by the me.
+
+OpenAI. (2026a). ChatGPT (GPT-5.5 version) [Large language model]. https://chatgpt.com/
+
+OpenAI. (2026b). Codex [AI coding assistant]. https://chatgpt.com/codex

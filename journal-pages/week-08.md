@@ -61,7 +61,8 @@ As a result, I decided to step back from making and spend more time researching.
 I also revisited the work of Nathalie Miebach. Her approach to transforming scientific data into physical forms reminded me that data visualisation does not need to rely on conventional charts or graphs. Although I did not directly apply her techniques, reviewing her work helped me continue thinking about how data could be experienced physically and emotionally.
 
 ## Reference
-https://issues.org/sculpting-the-floods-miebach/?utm_source
+Miebach, N. (2026). Sculpting The Floods. Issues in Science and Technology. 
+https://issues.org/sculpting-the-floods-miebach/
 
 ## AI Usage Statement
 *Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*

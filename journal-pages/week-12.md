@@ -6,6 +6,8 @@ layout: default
 
 [← Back to Home](../index.md)
 
+## Project outcome
+https://www.youtube.com/watch?v=7tBqDGTIwms
 ## Project Statement
 ### Wind Chime Garden
 

@@ -75,13 +75,17 @@ In the following week, I will continue refining the design and begin the develop
 ![finishing the first iteration](../assets/week-10/week10_look.png)
 
 ## Reference： 
-https://apps.apple.com/us/app/athlytic-ai-fitness-coach/id1543571755 
-
+Apple. (n.d.). Apple Health. App Store. 
 https://apps.apple.com/us/app/apple-health/id1242545199
 
+MyndArc, LLC. (n.d.). Athlytic: AI Fitness Coach. App Store. 
+https://apps.apple.com/us/app/athlytic-ai-fitness-coach/id1543571755
+
+Niantic. (n.d.). Pikmin Bloom. 
 https://pikminbloom.com/
 
 https://www.youtube.com/watch?v=2B_iR0MhihA&t=3s
 ## AI Usage Statement
+During Week 10, I used ChatGPT to generate a range of visual assets based on my design concepts, including food icons, tree variations, and interface elements. While AI contributed to the creation of visual materials and data organisation, all final design decisions, visual compositions, and interface layouts were determined and completed by the me.
 
-*Document any use of AI tools under an AI Usage Statement heading. Explain which tools you used and describe how you used them. Reference any AI-generated content (see [QuickCite](https://auckland.libguides.com/referencing-generative-ai-tools) for guidance).*
+OpenAI. (2026). ChatGPT (GPT-5.5 version) [Large language model]. https://chatgpt.com/

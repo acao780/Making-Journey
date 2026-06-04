@@ -84,7 +84,9 @@ https://apps.apple.com/us/app/athlytic-ai-fitness-coach/id1543571755
 Niantic. (n.d.). Pikmin Bloom. 
 https://pikminbloom.com/
 
-https://www.youtube.com/watch?v=2B_iR0MhihA&t=3s
+Pikmin Bloom │ ピクミンブルーム. (2025, October 22). *Ice Pikmin are finally here! - Pikmin Bloom [Nov. 1 Release]* [Video]. YouTube. 
+https://www.youtube.com/watch?v=2B_iR0MhihA
+
 ## AI Usage Statement
 During Week 10, I used ChatGPT to generate a range of visual assets based on my design concepts, including food icons, tree variations, and interface elements. While AI contributed to the creation of visual materials and data organisation, all final design decisions, visual compositions, and interface layouts were determined and completed by the me.
 

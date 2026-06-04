@@ -7,7 +7,8 @@ layout: default
 [← Back to Home](../index.md)
 
 ## Project outcome
-https://www.youtube.com/watch?v=7tBqDGTIwms
+<iframe src="https://www.youtube.com/embed/7tBqDGTIwms" width="560" height="315"> </iframe>
+
 ## Project Statement
 ### Wind Chime Garden
 

@@ -6,9 +6,6 @@ layout: default
 
 [← Back to Home](../index.md)
  
-## Introduction
-This learning log documents my progress for Week 7 of the Data-Driven Visualization project course. The second phase of this course focuses on data-driven visualization projects, where I am required to continue documenting my work on my GitHub Pages website. This includes recording experimental processes, technical learning, concept development, and participating in peer review and exchange activities.
-
 ## 1. Concept Sketch 
 ### Activity Description
 In this concept sketching session, I was tasked with further developing my concept sketches using drawings and annotations to think through my project. I displayed my sketches on my laptop screen and walked around the room, leaving sticky note comments on other students' work. For each sketch I viewed, I was required to leave at least one observation (what I noticed about the work) and one question (something I was curious about or uncertain about).

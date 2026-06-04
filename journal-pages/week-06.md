@@ -296,20 +296,34 @@ My project is a physical data visualization that combines digital design and las
 (Gastric Health – How Overeating or Under-eating Can Impact Your Stomach)
 https://gastro.com.sg/gastric-health-how-overeating-or-under-eating-can-impact-your-stomach/#:~:text=When%20you%20do%20not%20eat,can%20affect%20your%20overall%20wellbeing.
 
-(How Many Calories Should You Eat in a Day?)
-https://health.clevelandclinic.org/how-many-calories-a-day-should-i-eat
 
 https://www.instagram.com/p/DDEtR3EiRrU/?img_index=3
 
-https://www.dear-data.com/theproject
-
-https://quantifiedself.com/
-
 https://giorgialupi.com/bruises-the-data-we-dont-see
 
-https://www.domesticstreamers.com/work/data-strings/
 
-https://news.virginia.edu/content/qa-how-do-you-weave-data-art
+
+
+Cleveland Clinic. (n.d.). How many calories should you eat in a day? Cleveland Clinic. 
+[https://health.clevelandclinic.org/how-many-calories-a-day-should-i-eat]
+
+Dear Data. (n.d.). The project. Dear Data. 
+[https://www.dear-data.com/theproject]
+
+Domestic Streamers. (n.d.). Data Strings. Domestic Streamers. 
+[https://www.domesticstreamers.com/work/data-strings/]
+
+Gastroenterology & Liver Specialist Clinic. (n.d.). Gastric health: How overeating or under-eating can impact your stomach. Gastroenterology & Liver Specialist Clinic. 
+https://gastro.com.sg/gastric-health-how-overeating-or-under-eating-can-impact-your-stomach/
+
+Lupi, G. (n.d.). Bruises: The data we don't see. Giorgia Lupi. 
+https://giorgialupi.com/bruises-the-data-we-dont-see
+
+Quantified Self. (n.d.). Quantified Self. Quantified Self. 
+[https://quantifiedself.com/]
+
+University of Virginia. (n.d.). Q&A: How do you weave data into art? University of Virginia. 
+[https://news.virginia.edu/content/qa-how-do-you-weave-data-art]
 
 
 ## AI Usage Statement

@@ -62,7 +62,7 @@ When users click on a tree or create a new profile, they enter the Diary Book in
 
 ## Technical Consideration, Decisions, and Learning Process
 
-This week I focused on turning the Figma design for **Your Food Diary Forest** into a working React frontend. The goal was not only to copy the visual style, but also to build the project in a way that can be edited and extended later.
+After figma design, I focused on turning the Figma design for **Your Food Diary Forest** into a working React frontend. The goal was not only to copy the visual style, but also to build the project in a way that can be edited and extended later.
 
 I chose **React + Vite + TypeScript** because the website is made from several reusable page sections: Home, Forest Community, Food Diary, and About. React makes each page easier to manage as a separate component, Vite keeps development fast, and TypeScript helps keep page data and section settings clear.
 
@@ -88,8 +88,13 @@ Testing was done through repeated build and browser checks. After visual changes
 
 Overall, the biggest learning was that asset separation and component structure matter a lot. A single flat image is faster at first, but separate components and image layers make the project much more flexible. The current frontend is now a better base for future features, such as food diary entries generating trees, wind chimes, or other forest objects.
 
+![About page screenshot](../assets/technical-consideration/04-about-us.png)
+
+I converted each participant's data into a JSON file. This allowed the application to load and manage the data more efficiently. Rather than manually entering information every time, the system can automatically read the stored records and generate the corresponding wind chimes, trees, and data visualisations. Using JSON files also made the project more scalable. New users can be added simply by creating a new data file, allowing the community forest to grow without requiring major changes to the system. This structure helped separate the data from the interface design, making it easier to update, organise, and test different datasets during development.
+
 
 ## Reference
+https://servicestack.net/posts/react#react-tailwind-the-ai-development-standard
 
 ## AI Usage Statement
 

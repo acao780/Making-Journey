@@ -47,6 +47,11 @@ My Design Proposition: If I were developing this project, I would create an envi
 
 ## Individual study:
 ### 1. Reflective Summary
+The most important feedback I received during the progress report was related to the practicality and scope of my project. While my classmates responded positively to the concept of using thickness to represent calorie intake, several discussions highlighted the large amount of fabrication required to realise the design. The more I developed the laser-cut concept, the more I realised that creating hundreds of food pieces would be extremely time-consuming and difficult to complete within the available timeframe.
+
+Another valuable insight came from discussions about data authenticity. Although simplifying the project to a small number of food categories would reduce workload, it would also weaken the connection between the visualisation and the real eating habits recorded in the dataset. This feedback encouraged me to think carefully about how to balance practicality with accurate representation. The critique session also reinforced the importance of audience participation. Rather than creating a purely observational installation, I became increasingly interested in developing a more interactive experience that would encourage reflection and engagement.
+
+As a result of these discussions, I decided to reconsider the scale and fabrication method of the project. While I still value the physical qualities explored through laser cutting, I began looking for alternative ways to communicate the data more efficiently. This decision ultimately encouraged me to explore new directions that prioritise interaction, accessibility, and long-term scalability while still communicating the importance of regular eating habits and self-care. Moving forward, I will focus on refining the visual language of the project and testing approaches that reduce fabrication complexity without compromising the message or integrity of the data.
 
 ### 2. Project Development
 

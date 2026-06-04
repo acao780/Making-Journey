@@ -31,8 +31,14 @@ The most surprising part was how quickly the project developed once I found the 
 ## Showcase Planning
 My project will require a large screen or monitor for display, as the final outcome is an interactive Figma prototype. The screen is important because visitors need to clearly see the details of the Wind Chime Garden interface, including the community forest, food selection process, and personalised wind chime creation. The project will require a laptop and a power supply throughout the showcase. An extension cord may also be needed depending on the location of the power outlets.
 
-### add your project's development pictures
+## Individual study
+This week was the final development week for the project. Since I already had some experience with vibe coding and AI-assisted development, building the app felt much easier than I expected. I was able to quickly test ideas and make changes through rapid iteration. My main focus was developing the Wind Chime Garden prototype and refining the community forest, food diary, and wind chime features. As I continued working on the design, I realised how much the project had evolved from my original laser-cut data visualisation concept. The project is now focused on helping people reflect on their eating habits through a playful and interactive experience. This week also showed me the importance of iteration and feedback. Many of the final features came from discussions with tutors and classmates. Moving forward, I will focus on polishing the prototype and preparing it for the final showcase.
+
 ![Alt text](../assets/week-11/week11_design.png)
+Many of the interface elements in the final prototype were created with the assistance of ChatGPT. Components such as the Save button, Home button, and the Breakfast, Lunch, Dinner, and Other category buttons were generated based on my descriptions and visual requirements. This significantly reduced the amount of time needed to design repetitive interface elements and allowed me to focus on developing the overall user experience.
+
+Some decorative elements, including the three wind chimes, scrapbook-style tape stickers, and flower graphics, were sourced from Pinterest. I removed the backgrounds and adapted them to fit the visual style of the project. All remaining layouts, interactions, page structures, visual systems, and the overall Wind Chime Garden concept were designed by myself.
+
 ![Alt text](../assets/week-11/trees.png)
 ![Alt text](../assets/week-11/datatree_website.png)
 ![Alt text](../assets/week-11/detailed_design.png)
@@ -40,7 +46,7 @@ My project will require a large screen or monitor for display, as the final outc
 
 
 
-## vibe coding & techique
+## Vibe coding & techique
 
 <iframe src="https://www.youtube.com/embed/g6AiSVqSqZo" width="560" height="315"> </iframe>
 
@@ -73,8 +79,7 @@ Testing was done through repeated build and browser checks. After visual changes
 Overall, the biggest learning was that asset separation and component structure matter a lot. A single flat image is faster at first, but separate components and image layers make the project much more flexible. The current frontend is now a better base for future features, such as food diary entries generating trees, wind chimes, or other forest objects.
 
 
-
-*The text inside the square brackets is alt text (a description for accessibility), not a visible caption. To add a caption, place a line of italic text below the image.*
+## Reference
 
 ## AI Usage Statement
 

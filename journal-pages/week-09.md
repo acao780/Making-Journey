@@ -93,7 +93,7 @@ Inspired by this idea, I immediately opened Figma and began sketching the interf
 As I continued developing the concept, I felt that simply displaying food items and notes was not visually engaging enough. Therefore, I introduced a decoration library that allows users to personalise their wind chimes. Users can add decorative elements and sticky notes alongside their food selections, making each wind chime feel unique while still functioning as a record of eating habits.
 
 This was the moment when the project shifted from a calorie-tracking visualisation into what I now call the Wind Chime Garden—a growing collection of daily food memories displayed as personalised wind chimes hanging from a tree.
-![Alt text](../assets/week-10/week9.png)
+![Alt text](../assets/week-09/week9.png)
 
 ### 2. Progress Report
 ![Alt text](../assets/week-09/1.png)

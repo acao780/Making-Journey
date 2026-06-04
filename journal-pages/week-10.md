@@ -33,7 +33,7 @@ One of the first questions the tutor asked was why I was collecting food intake 
 
 Throughout this week, the tutor repeatedly asked me what data I wanted to communicate and why it was important. This was difficult for me to answer because simply displaying my personal food data does not necessarily create a meaningful impact on others. During our conversations, I proposed the idea of a community where people could become involved with each other's data. However, the tutor felt that this still did not fully answer the question.
 
-As we continued discussing the project, I thought about existing data collection products such as the Apple Watch, which tracks heart rate, exercise, and other health information. These systems encourage users to become more aware of their bodies and motivate them to maintain healthier habits. After speaking with the tutor, I also thought about WeChat step tracking, where people can see their friends' daily step counts and rankings. This creates a sense of awareness, motivation, and even friendly competition.
+As we continued discussing the project, I began looking at existing health-tracking ecosystems such as the Apple Watch, Apple Health, and Athlytic. The Apple Watch collects health information including heart rate, sleep, and physical activity. Apple Health organises and visualises this data, allowing users to monitor trends over time. Athlytic further analyses the collected data and translates it into actionable health insights and recommendations. These products helped me realise that successful health technologies do more than simply collect data. They transform personal information into meaningful feedback that encourages behavioural change. This insight influenced the direction of my project. Rather than simply recording what people eat, I want Wind Chime Garden to help users reflect on their eating habits and become more aware of how they care for their bodies. The community forest extends this idea further by allowing people to support and look after one another through shared food data.
 
 On the way home, I continued thinking about how to answer these questions. I realised that many people today live busy lives and often forget to eat properly or take care of their bodies. This led me to imagine a future scenario where a community forest allows people to look after one another through food data. By collecting data from different age groups, we may begin to identify patterns and issues related to health and lifestyle. Some people may neglect their health because they are busy, but within a community, friends and family members could notice these patterns and remind each other to eat well and take care of themselves. I chose a forest as the visual metaphor because trees represent life, growth, and wellbeing. People who consistently care for their eating habits would gradually grow stronger and healthier trees.
 
@@ -73,6 +73,9 @@ In the following week, I will continue refining the design and begin the develop
 
 ## （都需要照片）
 reference： 
+https://apps.apple.com/us/app/athlytic-ai-fitness-coach/id1543571755 
+
+https://apps.apple.com/us/app/apple-health/id1242545199
 - apple watch
 - wechat foot
 - 姐姐推荐的

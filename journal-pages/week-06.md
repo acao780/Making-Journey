@@ -218,23 +218,23 @@ My experiments will investigate how calorie intake, meal patterns, and energy le
 ![circle and foodpoint](../assets/week-06/week6_images.jpg)
 
 ### 3.2 What do I need to learn?
-1. Data Visualisation Principles
+- Data Visualisation Principles
 
 Learn how designers transform raw information into meaningful visual forms and how visual elements can communicate patterns and relationships.
 
-2. p5.js Programming
+- p5.js Programming
 
 Develop basic coding skills to create digital and interactive data visualisations.
 
-3. Adobe Illustrator
+- Adobe Illustrator
 
 Learn how to create vector graphics and prepare files for fabrication and prototyping.
 
-4. Laser Cutting Techniques
+- Laser Cutting Techniques
 
 Understand how to prepare laser-cut files, choose suitable materials, and operate fabrication equipment safely.
 
-5. Material Experimentation
+- Material Experimentation
 
 Explore how different materials and construction methods can influence the communication of data.
 

@@ -69,6 +69,13 @@ More importantly, I experienced a significant shift in my mindset. Earlier in th
 
 In the following week, I will continue refining the design and begin the development phase of the project. My focus will be on improving the user experience of the Wind Chime Garden, expanding the food and tree asset library, and testing how the community forest functions as a space for reflection and mutual care. I also plan to further develop the Figma prototype and explore how different interactions can strengthen the connection between food data, personal wellbeing, and community engagement. Through continued iteration and testing, I hope to transform the current concept into a more complete and meaningful experience.
 
+| Visual Element   | Meaning          |
+| ---------------- | ---------------- |
+| Wind Chime       | Daily Memory     |
+| Tree             | Personal Archive |
+| Forest           | Community        |
+| Community Forest | Mutual Care      |
+
 ![first iteraton of the website](../assets/week-10/week10_image2.png)
 ![website](../assets/week-10/week10_image3.png)
 ![decision making between two style](../assets/week-10/week10_image4.png)

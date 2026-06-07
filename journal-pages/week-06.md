@@ -178,6 +178,8 @@ This dataset became an important comparison point within my project. It demonstr
 | 05/23 | Weekend     | Sweet Coffee   | Burger + Fries + Coke   | Chips + Chocolate Milk                  | 2300           | 6                    |
 | 05/24 | Weekend     | None           | Pizza + Bubble Tea      | Fried Chicken + Nibbles + Soft Drink    | 2400           | 5                    |
 
+Friend 1 frequently skipped breakfast because of dieting goals and concerns about body image. Friend 2 consumed a large amount of fast food and sugary drinks, not because of dieting, but because of convenience and limited nutritional awareness. In contrast, my own missing meals were largely caused by busy schedules, work commitments, and irregular routines. Comparing these datasets revealed that meal-skipping is not caused by a single factor. Similar eating behaviours can emerge from very different motivations, social pressures, and personal circumstances.
+
 This dataset highlighted a common misconception that eating fewer meals automatically leads to healthier eating habits. In reality, hidden calories from sugary drinks, fast food, and snacks can easily offset the calories saved from skipping meals. Compared with my own data, which was influenced by busy schedules, and Friend 1's data, which was driven by dieting goals, Friend 2's data demonstrated how a lack of nutritional awareness can also contribute to unhealthy eating patterns.
 
 Together, these datasets revealed that meal-skipping is not caused by a single factor. Instead, it can result from different motivations, lifestyles, and understandings of food, reinforcing the need for broader public awareness around self-care and healthy eating habits.

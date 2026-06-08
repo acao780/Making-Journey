@@ -64,6 +64,9 @@ I also revisited the work of Nathalie Miebach. Her approach to transforming scie
 
 One problem I started to notice was the amount of laser cutting required. At first, I only needed to represent my own food diary data, so the number of food pieces felt manageable. However, after deciding to include data from my family members and friends, the amount of laser cutting increased significantly. Every food item needed a different thickness based on its calorie value, which meant I would need to create a large number of individual pieces. This made me question whether my current direction was realistic. I began to worry that I was spending more time producing pieces than thinking about what the data was actually communicating. Although the thickness system worked well for showing calorie values, I felt that the project was becoming too focused on individual foods. To explore other possibilities, I started sketching different structures and layouts. Instead of showing every food item separately, I began thinking about how I could represent eating habits over time. While reviewing my dataset, I noticed patterns such as skipping breakfast during holidays and occasionally missing lunch on busy school days. This made me realise that the most interesting part of the data was not a single meal, but the habits that appeared across multiple days.
 
+![idea_explore](../assets/week-08/week8_.png)
+
+
 ## Reference
 Miebach, N. (2026). Sculpting The Floods. Issues in Science and Technology. 
 https://issues.org/sculpting-the-floods-miebach/

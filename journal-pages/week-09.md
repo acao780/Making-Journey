@@ -79,7 +79,7 @@ Eventually, I decided to let go of my original concept and start again. I first 
 
 A day later, after a long and busy day, I suddenly remembered a comment from one of the tutors. They suggested that shorter strings could represent earlier dates, while longer strings could represent more recent dates. This simple idea immediately sparked a new direction. I began wondering: what if all of these strings came together to form a tree?
 
-Excited by this possibility, I quickly opened p5.js and started experimenting. Using Google Gemini as a creative and technical support tool, I rapidly tested different arrangements and visual structures. The result was a tree-like form made from strings representing time and eating data. For the first time in several weeks, I felt genuinely excited about the project again. This concept eventually became the foundation for the Wind Chime Tree direction that I am currently developing.
+Excited by this possibility, I quickly opened p5.js and started experimenting. Using Google Gemini as a creative and technical support tool, I rapidly tested different arrangements and visual structures. The result was a tree-like form made from strings representing time and eating data. For the first time in several weeks, I felt genuinely excited about the project again. This concept eventually became a turning point of my project.
 <iframe src="https://www.youtube.com/embed/sxt1xiQA8do" width="560" height="315"> </iframe>
 
 https://www.youtube.com/shorts/L_S7znvpwms

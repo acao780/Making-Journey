@@ -98,6 +98,9 @@ Another limitation of the current application is the variety of food images avai
 
 In the future, I also need more time to further develop the app, particularly the community comparison and data analysis pages. While the current prototype focuses on transforming personal food data into meaningful wind chimes, the next stage would allow users to compare patterns across the wider forest community. This comparison could reveal collective behaviours around meal-skipping, energy intake, and self-care practices, creating a stronger provocation about how eating habits are shaped by everyday lifestyles. By making these patterns visible, the project could encourage deeper reflection on the importance of food as a form of self-care rather than simply a nutritional requirement.
 
+## Project outcome
+<iframe src="https://www.youtube.com/embed/7tBqDGTIwms" width="560" height="315"> </iframe>
+
 ## Reference
 Mythz. (2025, November 13). *React + Tailwind + TypeScript for AI-first development*. ServiceStack. 
 https://servicestack.net/posts/react
